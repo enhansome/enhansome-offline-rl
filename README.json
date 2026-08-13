@@ -1,0 +1,1344 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Papers",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Review/Survey/Position Papers",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Offline RL",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": null,
+                    "last_commit": "2024-05-23T03:08:40Z",
+                    "owner": "hanjuku-kaso",
+                    "repo": "awesome-offline-rl",
+                    "stars": 1076
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Off-Policy Evaluation and Learning",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": null,
+                    "last_commit": "2024-05-23T03:08:40Z",
+                    "owner": "hanjuku-kaso",
+                    "repo": "awesome-offline-rl",
+                    "stars": 1076
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Related Reviews",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": null,
+                    "last_commit": "2024-05-23T03:08:40Z",
+                    "owner": "hanjuku-kaso",
+                    "repo": "awesome-offline-rl",
+                    "stars": 1076
+                  }
+                }
+              ],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2024-05-23T03:08:40Z",
+                "owner": "hanjuku-kaso",
+                "repo": "awesome-offline-rl",
+                "stars": 1076
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Offline RL: Theory/Methods",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2024-05-23T03:08:40Z",
+                "owner": "hanjuku-kaso",
+                "repo": "awesome-offline-rl",
+                "stars": 1076
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Offline RL: Benchmarks/Experiments",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2024-05-23T03:08:40Z",
+                "owner": "hanjuku-kaso",
+                "repo": "awesome-offline-rl",
+                "stars": 1076
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Offline RL: Applications",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2024-05-23T03:08:40Z",
+                "owner": "hanjuku-kaso",
+                "repo": "awesome-offline-rl",
+                "stars": 1076
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Off-Policy Evaluation and Learning: Theory/Methods",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Off-Policy Evaluation: Contextual Bandits",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": null,
+                    "last_commit": "2024-05-23T03:08:40Z",
+                    "owner": "hanjuku-kaso",
+                    "repo": "awesome-offline-rl",
+                    "stars": 1076
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Off-Policy Evaluation: Reinforcement Learning",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": null,
+                    "last_commit": "2024-05-23T03:08:40Z",
+                    "owner": "hanjuku-kaso",
+                    "repo": "awesome-offline-rl",
+                    "stars": 1076
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Off-Policy Learning",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": null,
+                    "last_commit": "2024-05-23T03:08:40Z",
+                    "owner": "hanjuku-kaso",
+                    "repo": "awesome-offline-rl",
+                    "stars": 1076
+                  }
+                }
+              ],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2024-05-23T03:08:40Z",
+                "owner": "hanjuku-kaso",
+                "repo": "awesome-offline-rl",
+                "stars": 1076
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Off-Policy Evaluation and Learning: Benchmarks/Experiments",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2024-05-23T03:08:40Z",
+                "owner": "hanjuku-kaso",
+                "repo": "awesome-offline-rl",
+                "stars": 1076
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Off-Policy Evaluation and Learning: Applications",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2024-05-23T03:08:40Z",
+                "owner": "hanjuku-kaso",
+                "repo": "awesome-offline-rl",
+                "stars": 1076
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-05-23T03:08:40Z",
+            "owner": "hanjuku-kaso",
+            "repo": "awesome-offline-rl",
+            "stars": 1076
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open Source Software/Implementations",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-05-23T03:08:40Z",
+            "owner": "hanjuku-kaso",
+            "repo": "awesome-offline-rl",
+            "stars": 1076
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blog/Podcast",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Blog",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2024-05-23T03:08:40Z",
+                "owner": "hanjuku-kaso",
+                "repo": "awesome-offline-rl",
+                "stars": 1076
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Podcast",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2024-05-23T03:08:40Z",
+                "owner": "hanjuku-kaso",
+                "repo": "awesome-offline-rl",
+                "stars": 1076
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-05-23T03:08:40Z",
+            "owner": "hanjuku-kaso",
+            "repo": "awesome-offline-rl",
+            "stars": 1076
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Related Workshops",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-05-23T03:08:40Z",
+            "owner": "hanjuku-kaso",
+            "repo": "awesome-offline-rl",
+            "stars": 1076
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tutorials/Talks/Lectures",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-05-23T03:08:40Z",
+            "owner": "hanjuku-kaso",
+            "repo": "awesome-offline-rl",
+            "stars": 1076
+          }
+        }
+      ],
+      "title": "Table of Contents"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Papers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Review/Survey/Position Papers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AWAC: Accelerating Online Reinforcement Learning with Offline Datasets",
+          "description": "[website] [code] [blog]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-17T17:33:51Z",
+            "owner": "rail-berkeley",
+            "repo": "rlkit",
+            "stars": 2928
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Conservative Q-Learning for Offline Reinforcement Learning",
+          "description": "[website] [code] [blog]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-12-07T14:00:25Z",
+            "owner": "aviralkumar2907",
+            "repo": "CQL",
+            "stars": 487
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MOPO: Model-based Offline Policy Optimization",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-05-17T20:47:21Z",
+            "owner": "tianheyu927",
+            "repo": "mopo",
+            "stars": 191
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VIP: Towards Universal Visual Reward and Representation via Value-Implicit Pre-Training",
+          "description": "[website] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2026-07-30T21:38:00Z",
+            "owner": "facebookresearch",
+            "repo": "vip",
+            "stars": 187
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stabilizing Off-Policy Q-Learning via Bootstrapping Error Reduction",
+          "description": "[website] [blog] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-07-17T22:14:59Z",
+            "owner": "aviralkumar2907",
+            "repo": "BEAR",
+            "stars": 163
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Overcoming Model Bias for Robust Offline Deep Reinforcement Learning",
+          "description": "[dataset]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-03-05T16:33:11Z",
+            "owner": "siemens",
+            "repo": "industrialbenchmark",
+            "stars": 147
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Beyond Pick-and-Place: Tackling Robotic Stacking of Diverse Shapes",
+          "description": "[blog] [video] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-30T21:40:18Z",
+            "owner": "google-deepmind",
+            "repo": "rgb_stacking",
+            "stars": 132
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Counterfactual Data Augmentation using Locally Factored Dynamics",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-04-28T18:07:31Z",
+            "owner": "spitis",
+            "repo": "mrl",
+            "stars": 119
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Reinforcement Learning via Fenchel-Rockafellar Duality",
+          "description": "[software]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-30T00:11:12Z",
+            "owner": "google-research",
+            "repo": "dice_rl",
+            "stars": 115
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A Policy-Guided Imitation Approach for Offline Reinforcement Learning",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-04-06T09:16:29Z",
+            "owner": "ryanxhr",
+            "repo": "POR",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PLAS: Latent Action Space for Offline Reinforcement Learning",
+          "description": "[website] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-10-18T17:25:49Z",
+            "owner": "Wenxuan-Zhou",
+            "repo": "PLAS",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "COG: Connecting New Skills to Past Experience with Offline Reinforcement Learning",
+          "description": "[website] [blog] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-10-28T00:47:08Z",
+            "owner": "avisingh599",
+            "repo": "cog",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hybrid RL: Using Both Offline and Online Data Can Make RL Efficient",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-02-16T21:48:41Z",
+            "owner": "yudasong",
+            "repo": "HyQ",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Monte Carlo Augmented Actor-Critic for Sparse Reward Deep Reinforcement Learning from Suboptimal Demonstrations",
+          "description": "[website] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-10-24T06:43:51Z",
+            "owner": "albertwilcox",
+            "repo": "mcac",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ConserWeightive Behavioral Cloning for Reliable Offline Reinforcement Learning",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-10-03T21:51:24Z",
+            "owner": "tung-nd",
+            "repo": "cwbc",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Reinforcement Learning in Possibly Nonstationary Environments",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-10T14:07:00Z",
+            "owner": "limengbinggz",
+            "repo": "CUSUM-RL",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Goal-conditioned Batch Reinforcement Learning for Rotation Invariant Locomotion",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-04-22T04:00:58Z",
+            "owner": "aditimavalankar",
+            "repo": "gc-batch-rl-locomotion",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning Value Functions from Undirected State-only Experience",
+          "description": "[website] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-04-26T17:06:08Z",
+            "owner": "arjung128",
+            "repo": "laq",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Offline RL With Resource Constrained Online Deployment",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-10-05T23:22:09Z",
+            "owner": "JayanthRR",
+            "repo": "RC-OfflineRL",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DCUR: Data Curriculum for Teaching via Samples with Reinforcement Learning",
+          "description": "[website] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-09-16T14:47:16Z",
+            "owner": "DanielTakeshi",
+            "repo": "DCUR",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BRPO: Batch Residual Policy Optimization",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-12-08T09:59:28Z",
+            "owner": "eladsar",
+            "repo": "rbi",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Efficient Evaluation of Natural Stochastic Policies in Offline Reinforcement Learning",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-11-11T19:14:33Z",
+            "owner": "CausalML",
+            "repo": "NaturalStochasticOPE",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Offline RL: Theory/Methods"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "RL Unplugged: Benchmarks for Offline Reinforcement Learning",
+          "description": "[code] [dataset]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-06-17T13:51:27Z",
+            "owner": "google-deepmind",
+            "repo": "deepmind-research",
+            "stars": 15149
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "D4RL: Datasets for Deep Data-Driven Reinforcement Learning",
+          "description": "[website] [blog] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-18T16:40:39Z",
+            "owner": "Farama-Foundation",
+            "repo": "D4RL",
+            "stars": 1699
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "d3rlpy: An Offline Deep Reinforcement Learning Library",
+          "description": "[software]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-10T23:06:16Z",
+            "owner": "takuseno",
+            "repo": "d3rlpy",
+            "stars": 1676
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CORL: Research-oriented Deep Offline Reinforcement Learning Library",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-10T10:01:19Z",
+            "owner": "corl-team",
+            "repo": "CORL",
+            "stars": 656
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RLDS: an Ecosystem to Generate, Share and Use Datasets in Reinforcement Learning",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-09-26T16:40:01Z",
+            "owner": "google-research",
+            "repo": "rlds",
+            "stars": 494
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Don't Change the Algorithm, Change the Data: Exploratory Data for Offline Reinforcement Learning",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-02-08T03:47:33Z",
+            "owner": "denisyarats",
+            "repo": "exorl",
+            "stars": 138
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Understanding the Effects of Dataset Characteristics on Offline Reinforcement Learning",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-01-16T06:43:53Z",
+            "owner": "ml-jku",
+            "repo": "OfflineRL",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Benchmarking Offline Reinforcement Learning on Real-Robot Hardware",
+          "description": "[dataset]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-17T10:59:32Z",
+            "owner": "rr-learning",
+            "repo": "trifinger_rl_datasets",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Offline Equilibrium Finding",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-07-27T03:04:31Z",
+            "owner": "ShuxinLi-Info",
+            "repo": "oef",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Offline RL: Benchmarks/Experiments"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "RL4RS: A Real-World Benchmark for Reinforcement Learning based Recommender System",
+          "description": "[code] [dataset]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-03T07:09:15Z",
+            "owner": "fuxiAIlab",
+            "repo": "RL4RS",
+            "stars": 237
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CIRS: Bursting Filter Bubbles by Counterfactual Interactive Recommender System",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-02T13:18:48Z",
+            "owner": "chongminggao",
+            "repo": "CIRS-codes",
+            "stars": 79
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Safe Driving via Expert Guided Policy Optimization",
+          "description": "[website] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-08T20:00:48Z",
+            "owner": "decisionforce",
+            "repo": "EGPO",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pre-Training for Robots: Offline RL Enables Learning New Tasks from a Handful of Trials",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-10-26T04:41:01Z",
+            "owner": "Asap7772",
+            "repo": "PTR",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Offline Reinforcement Learning for Safer Blood Glucose Control in People with Type 1 Diabetes",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-06T11:56:32Z",
+            "owner": "hemerson1",
+            "repo": "offline-glucose",
+            "stars": 22
+          }
+        }
+      ],
+      "title": "Offline RL: Applications"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Off-Policy Evaluation and Learning: Theory/Methods"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Off-Policy Evaluation for Large Action Spaces via Embeddings",
+          "description": "[code] [video]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-07-27T22:05:30Z",
+            "owner": "usaito",
+            "repo": "icml2022-mips",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Optimal Off-Policy Evaluation from Multiple Logging Policies",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-07-17T02:57:06Z",
+            "owner": "CausalML",
+            "repo": "MultipleLoggers",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Doubly Robust Off-Policy Evaluation for Ranking Policies under the Cascade Behavior Model",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-16T00:41:25Z",
+            "owner": "aiueola",
+            "repo": "wsdm2022-cascade-dr",
+            "stars": 13
+          }
+        }
+      ],
+      "title": "Off-Policy Evaluation: Contextual Bandits"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DualDICE: Behavior-Agnostic Estimation of Discounted Stationary Distribution Corrections",
+          "description": "[software]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-30T00:11:12Z",
+            "owner": "google-research",
+            "repo": "dice_rl",
+            "stars": 115
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Batch Policy Learning under Constraints",
+          "description": "[code] [website]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-10-25T21:18:10Z",
+            "owner": "clvoloshin",
+            "repo": "constrained_batch_policy_learning",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A Multi-Agent Reinforcement Learning Framework for Off-Policy Evaluation in Two-sided Markets",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-10T20:03:59Z",
+            "owner": "RunzheStat",
+            "repo": "CausalMARL",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Revisiting Bellman Errors for Offline Model Selection",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-10-07T18:41:23Z",
+            "owner": "jzitovsky",
+            "repo": "SBV",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Off-Policy Evaluation: Reinforcement Learning"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Open Bandit Dataset and Pipeline: Towards Realistic and Reproducible Off-Policy Evaluation",
+          "description": "[software] [public dataset]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-03T11:04:44Z",
+            "owner": "st-tech",
+            "repo": "zr-obp",
+            "stars": 705
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Benchmarks for Deep Off-Policy Evaluation",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-07-30T21:23:59Z",
+            "owner": "google-research",
+            "repo": "deep_ope",
+            "stars": 88
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Empirical Study of Off-Policy Policy Evaluation for Reinforcement Learning",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-08-09T17:19:51Z",
+            "owner": "clvoloshin",
+            "repo": "COBS",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Evaluating the Robustness of Off-Policy Evaluation",
+          "description": "[software]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-21T07:42:24Z",
+            "owner": "sony",
+            "repo": "pyIEOE",
+            "stars": 32
+          }
+        }
+      ],
+      "title": "Off-Policy Evaluation and Learning: Benchmarks/Experiments"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "RL Unplugged: Benchmarks for Offline Reinforcement Learning",
+          "description": "[paper] [dataset]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-06-17T13:51:27Z",
+            "owner": "google-deepmind",
+            "repo": "deepmind-research",
+            "stars": 15149
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "D4RL: Datasets for Deep Data-Driven Reinforcement Learning",
+          "description": "[paper] [website]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-18T16:40:39Z",
+            "owner": "Farama-Foundation",
+            "repo": "D4RL",
+            "stars": 1699
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "d3rlpy: An Offline Deep Reinforcement Learning Library",
+          "description": "[paper] [website] [documentation]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-10T23:06:16Z",
+            "owner": "takuseno",
+            "repo": "d3rlpy",
+            "stars": 1676
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Minari",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-04T23:48:43Z",
+            "owner": "Farama-Foundation",
+            "repo": "Minari",
+            "stars": 1286
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open Bandit Pipeline: a research framework for bandit algorithms and off-policy evaluation",
+          "description": "[paper] [documentation] [dataset]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-03T11:04:44Z",
+            "owner": "st-tech",
+            "repo": "zr-obp",
+            "stars": 705
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CORL: Clean Offline Reinforcement Learning",
+          "description": "[paper]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-10T10:01:19Z",
+            "owner": "corl-team",
+            "repo": "CORL",
+            "stars": 656
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RLDS: Reinforcement Learning Datasets",
+          "description": "[paper]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-09-26T16:40:01Z",
+            "owner": "google-research",
+            "repo": "rlds",
+            "stars": 494
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RecoGym: A Reinforcement Learning Environment for the problem of Product Recommendation in Online Advertising",
+          "description": "[paper]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-07-09T07:16:21Z",
+            "owner": "criteo-research",
+            "repo": "reco-gym",
+            "stars": 482
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RL4RS: A Real-World Benchmark for Reinforcement Learning based Recommender System",
+          "description": "[paper] dataset]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-03T07:09:15Z",
+            "owner": "fuxiAIlab",
+            "repo": "RL4RS",
+            "stars": 237
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The Industrial Benchmark Offline RL Datasets",
+          "description": "[paper]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-03-05T16:33:11Z",
+            "owner": "siemens",
+            "repo": "industrialbenchmark",
+            "stars": 147
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SCOPE-RL: A Python library for offline reinforcement learning, off-policy evaluation, and selection",
+          "description": "[paper1] [paper2] [documentation]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-18T14:03:18Z",
+            "owner": "hakuhodo-technologies",
+            "repo": "scope-rl",
+            "stars": 142
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ExORL: Exploratory Data for Offline Reinforcement Learning",
+          "description": "[paper]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-02-08T03:47:33Z",
+            "owner": "denisyarats",
+            "repo": "exorl",
+            "stars": 138
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DICE: The DIstribution Correction Estimation Library",
+          "description": "[paper]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-30T00:11:12Z",
+            "owner": "google-research",
+            "repo": "dice_rl",
+            "stars": 115
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "V-D4RL: Challenges and Opportunities in Offline Reinforcement Learning from Visual Observations",
+          "description": "[paper}",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-16T13:32:19Z",
+            "owner": "conglu1997",
+            "repo": "v-d4rl",
+            "stars": 115
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MINERVA: An out-of-the-box GUI tool for data-driven deep reinforcement learning",
+          "description": "[website] [documentation]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-05-29T11:12:34Z",
+            "owner": "takuseno",
+            "repo": "minerva",
+            "stars": 105
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Benchmarks for Deep Off-Policy Evaluation",
+          "description": "[paper]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-07-30T21:23:59Z",
+            "owner": "google-research",
+            "repo": "deep_ope",
+            "stars": 88
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "COBS: Caltech OPE Benchmarking Suite",
+          "description": "[paper]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-08-09T17:19:51Z",
+            "owner": "clvoloshin",
+            "repo": "COBS",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MARS-Gym: A Gym framework to model, train, and evaluate Recommender Systems for Marketplaces",
+          "description": "[paper] [documantation]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-04T13:16:15Z",
+            "owner": "deeplearningbrasil",
+            "repo": "mars-gym",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyIEOE: Towards An Interpretable Evaluation for Offline Evaluation",
+          "description": "[paper]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-21T07:42:24Z",
+            "owner": "sony",
+            "repo": "pyIEOE",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A Reinforcement Learning-based Volt-VAR Control Dataset",
+          "description": "[paper]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-04-21T04:32:18Z",
+            "owner": "yg-smile",
+            "repo": "RL_VVC_dataset",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Benchmarking Offline Reinforcement Learning on Real-Robot Hardware",
+          "description": "[paper]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-17T10:59:32Z",
+            "owner": "rr-learning",
+            "repo": "trifinger_rl_datasets",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ARLO: A Framework for Automated Reinforcement Learning",
+          "description": "[paper]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-06-15T08:57:54Z",
+            "owner": "arlo-lib",
+            "repo": "ARLO",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OEF: Offline Equilibrium Finding",
+          "description": "[paper]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-07-27T03:04:31Z",
+            "owner": "ShuxinLi-Info",
+            "repo": "oef",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Open Source Software/Implementations"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Blog/Podcast"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:05:38.010Z",
+    "original_repository": "hanjuku-kaso/awesome-offline-rl",
+    "original_repository_sha": "e89fcd8ff74993eddf645df468123f45c5b38de9",
+    "enhanced_repository": "enhansome/enhansome-offline-rl",
+    "enhanced_repository_description": null,
+    "title": "awesome-offline-rl with stars"
+  }
+}
