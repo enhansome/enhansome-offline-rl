@@ -19,26 +19,26 @@ For any questions, feel free to contact: <hk844@cornell.edu>
 
 ## Table of Contents
 
-* [Papers](https://github.com/hanjuku-kaso/awesome-offline-rl/tree/main#papers) ⭐ 1,076 | 🐛 1 | 📅 2024-05-23
-  * [Review/Survey/Position Papers](https://github.com/hanjuku-kaso/awesome-offline-rl/tree/main#reviewsurveyposition-papers) ⭐ 1,076 | 🐛 1 | 📅 2024-05-23
-    * [Offline RL](https://github.com/hanjuku-kaso/awesome-offline-rl/tree/main#offline-rl) ⭐ 1,076 | 🐛 1 | 📅 2024-05-23
-    * [Off-Policy Evaluation and Learning](https://github.com/hanjuku-kaso/awesome-offline-rl/tree/main#off-policy-evaluation-and-learning) ⭐ 1,076 | 🐛 1 | 📅 2024-05-23
-    * [Related Reviews](https://github.com/hanjuku-kaso/awesome-offline-rl/tree/main#related-reviews) ⭐ 1,076 | 🐛 1 | 📅 2024-05-23
-  * [Offline RL: Theory/Methods](https://github.com/hanjuku-kaso/awesome-offline-rl/tree/main#offline-rl-theorymethods) ⭐ 1,076 | 🐛 1 | 📅 2024-05-23
-  * [Offline RL: Benchmarks/Experiments](https://github.com/hanjuku-kaso/awesome-offline-rl/tree/main#offline-rl-benchmarksexperiments) ⭐ 1,076 | 🐛 1 | 📅 2024-05-23
-  * [Offline RL: Applications](https://github.com/hanjuku-kaso/awesome-offline-rl/tree/main#offline-rl-applications) ⭐ 1,076 | 🐛 1 | 📅 2024-05-23
-  * [Off-Policy Evaluation and Learning: Theory/Methods](https://github.com/hanjuku-kaso/awesome-offline-rl#off-policy-evaluation-and-learning-theorymethods) ⭐ 1,076 | 🐛 1 | 📅 2024-05-23
-    * [Off-Policy Evaluation: Contextual Bandits](https://github.com/hanjuku-kaso/awesome-offline-rl/tree/main#off-policy-evaluation-contextual-bandits) ⭐ 1,076 | 🐛 1 | 📅 2024-05-23
-    * [Off-Policy Evaluation: Reinforcement Learning](https://github.com/hanjuku-kaso/awesome-offline-rl/tree/main#off-policy-evaluation-reinforcement-learning) ⭐ 1,076 | 🐛 1 | 📅 2024-05-23
-    * [Off-Policy Learning](https://github.com/hanjuku-kaso/awesome-offline-rl/tree/main#off-policy-learning) ⭐ 1,076 | 🐛 1 | 📅 2024-05-23
-  * [Off-Policy Evaluation and Learning: Benchmarks/Experiments](https://github.com/hanjuku-kaso/awesome-offline-rl#off-policy-evaluation-and-learning-benchmarksexperiments) ⭐ 1,076 | 🐛 1 | 📅 2024-05-23
-  * [Off-Policy Evaluation and Learning: Applications](https://github.com/hanjuku-kaso/awesome-offline-rl#off-policy-evaluation-and-learning-applications) ⭐ 1,076 | 🐛 1 | 📅 2024-05-23
-* [Open Source Software/Implementations](https://github.com/hanjuku-kaso/awesome-offline-rl/tree/main#open-source-softwareimplementations) ⭐ 1,076 | 🐛 1 | 📅 2024-05-23
-* [Blog/Podcast](https://github.com/hanjuku-kaso/awesome-offline-rl/tree/main#blogpodcast) ⭐ 1,076 | 🐛 1 | 📅 2024-05-23
-  * [Blog](https://github.com/hanjuku-kaso/awesome-offline-rl/tree/main#blog) ⭐ 1,076 | 🐛 1 | 📅 2024-05-23
-  * [Podcast](https://github.com/hanjuku-kaso/awesome-offline-rl/tree/main#podcast) ⭐ 1,076 | 🐛 1 | 📅 2024-05-23
-* [Related Workshops](https://github.com/hanjuku-kaso/awesome-offline-rl/tree/main#related-workshops) ⭐ 1,076 | 🐛 1 | 📅 2024-05-23
-* [Tutorials/Talks/Lectures](https://github.com/hanjuku-kaso/awesome-offline-rl/tree/main#tutorialstalkslectures) ⭐ 1,076 | 🐛 1 | 📅 2024-05-23
+* [Papers](https://github.com/hanjuku-kaso/awesome-offline-rl/tree/main#papers) ⭐ 1,075 | 🐛 1 | 📅 2024-05-23
+  * [Review/Survey/Position Papers](https://github.com/hanjuku-kaso/awesome-offline-rl/tree/main#reviewsurveyposition-papers) ⭐ 1,075 | 🐛 1 | 📅 2024-05-23
+    * [Offline RL](https://github.com/hanjuku-kaso/awesome-offline-rl/tree/main#offline-rl) ⭐ 1,075 | 🐛 1 | 📅 2024-05-23
+    * [Off-Policy Evaluation and Learning](https://github.com/hanjuku-kaso/awesome-offline-rl/tree/main#off-policy-evaluation-and-learning) ⭐ 1,075 | 🐛 1 | 📅 2024-05-23
+    * [Related Reviews](https://github.com/hanjuku-kaso/awesome-offline-rl/tree/main#related-reviews) ⭐ 1,075 | 🐛 1 | 📅 2024-05-23
+  * [Offline RL: Theory/Methods](https://github.com/hanjuku-kaso/awesome-offline-rl/tree/main#offline-rl-theorymethods) ⭐ 1,075 | 🐛 1 | 📅 2024-05-23
+  * [Offline RL: Benchmarks/Experiments](https://github.com/hanjuku-kaso/awesome-offline-rl/tree/main#offline-rl-benchmarksexperiments) ⭐ 1,075 | 🐛 1 | 📅 2024-05-23
+  * [Offline RL: Applications](https://github.com/hanjuku-kaso/awesome-offline-rl/tree/main#offline-rl-applications) ⭐ 1,075 | 🐛 1 | 📅 2024-05-23
+  * [Off-Policy Evaluation and Learning: Theory/Methods](https://github.com/hanjuku-kaso/awesome-offline-rl#off-policy-evaluation-and-learning-theorymethods) ⭐ 1,075 | 🐛 1 | 📅 2024-05-23
+    * [Off-Policy Evaluation: Contextual Bandits](https://github.com/hanjuku-kaso/awesome-offline-rl/tree/main#off-policy-evaluation-contextual-bandits) ⭐ 1,075 | 🐛 1 | 📅 2024-05-23
+    * [Off-Policy Evaluation: Reinforcement Learning](https://github.com/hanjuku-kaso/awesome-offline-rl/tree/main#off-policy-evaluation-reinforcement-learning) ⭐ 1,075 | 🐛 1 | 📅 2024-05-23
+    * [Off-Policy Learning](https://github.com/hanjuku-kaso/awesome-offline-rl/tree/main#off-policy-learning) ⭐ 1,075 | 🐛 1 | 📅 2024-05-23
+  * [Off-Policy Evaluation and Learning: Benchmarks/Experiments](https://github.com/hanjuku-kaso/awesome-offline-rl#off-policy-evaluation-and-learning-benchmarksexperiments) ⭐ 1,075 | 🐛 1 | 📅 2024-05-23
+  * [Off-Policy Evaluation and Learning: Applications](https://github.com/hanjuku-kaso/awesome-offline-rl#off-policy-evaluation-and-learning-applications) ⭐ 1,075 | 🐛 1 | 📅 2024-05-23
+* [Open Source Software/Implementations](https://github.com/hanjuku-kaso/awesome-offline-rl/tree/main#open-source-softwareimplementations) ⭐ 1,075 | 🐛 1 | 📅 2024-05-23
+* [Blog/Podcast](https://github.com/hanjuku-kaso/awesome-offline-rl/tree/main#blogpodcast) ⭐ 1,075 | 🐛 1 | 📅 2024-05-23
+  * [Blog](https://github.com/hanjuku-kaso/awesome-offline-rl/tree/main#blog) ⭐ 1,075 | 🐛 1 | 📅 2024-05-23
+  * [Podcast](https://github.com/hanjuku-kaso/awesome-offline-rl/tree/main#podcast) ⭐ 1,075 | 🐛 1 | 📅 2024-05-23
+* [Related Workshops](https://github.com/hanjuku-kaso/awesome-offline-rl/tree/main#related-workshops) ⭐ 1,075 | 🐛 1 | 📅 2024-05-23
+* [Tutorials/Talks/Lectures](https://github.com/hanjuku-kaso/awesome-offline-rl/tree/main#tutorialstalkslectures) ⭐ 1,075 | 🐛 1 | 📅 2024-05-23
 
 ## Papers
 
@@ -85,7 +85,7 @@ For any questions, feel free to contact: <hk844@cornell.edu>
 
 ### Offline RL: Theory/Methods
 
-* [AWAC: Accelerating Online Reinforcement Learning with Offline Datasets](https://arxiv.org/abs/2006.09359) \[[website](https://awacrl.github.io/)] \[[code](https://github.com/vitchyr/rlkit/tree/master/examples/awac) ⭐ 2,929 | 🐛 40 | 🌐 Python | 📅 2024-06-17] \[[blog](https://bair.berkeley.edu/blog/2020/09/10/awac/)]
+* [AWAC: Accelerating Online Reinforcement Learning with Offline Datasets](https://arxiv.org/abs/2006.09359) \[[website](https://awacrl.github.io/)] \[[code](https://github.com/vitchyr/rlkit/tree/master/examples/awac) ⭐ 2,928 | 🐛 40 | 🌐 Python | 📅 2024-06-17] \[[blog](https://bair.berkeley.edu/blog/2020/09/10/awac/)]
   * Ashvin Nair, Abhishek Gupta, Murtaza Dalal, and Sergey Levine. arXiv, 2020.
 * [Conservative Q-Learning for Offline Reinforcement Learning](https://papers.nips.cc/paper/2020/hash/0d2b2061826a5df3221116a5085a6052-Abstract.html) \[[website](https://sites.google.com/view/cql-offline-rl)] \[[code](https://github.com/aviralkumar2907/CQL) ⭐ 486 | 🐛 20 | 🌐 Python | 📅 2021-12-07] \[[blog](https://bair.berkeley.edu/blog/2020/12/07/offline/)]
   * Aviral Kumar, Aurick Zhou, George Tucker, and Sergey Levine. NeurIPS, 2020.
@@ -1320,11 +1320,11 @@ For any questions, feel free to contact: <hk844@cornell.edu>
 
 ### Offline RL: Benchmarks/Experiments
 
-* [RL Unplugged: Benchmarks for Offline Reinforcement Learning](https://arxiv.org/abs/2006.13888) \[[code](https://github.com/deepmind/deepmind-research/tree/master/rl_unplugged) ⭐ 15,152 | 🐛 341 | 🌐 Jupyter Notebook | 📅 2026-06-17] \[[dataset](https://console.cloud.google.com/storage/browser/rl_unplugged?pli=1)]
+* [RL Unplugged: Benchmarks for Offline Reinforcement Learning](https://arxiv.org/abs/2006.13888) \[[code](https://github.com/deepmind/deepmind-research/tree/master/rl_unplugged) ⭐ 15,153 | 🐛 341 | 🌐 Jupyter Notebook | 📅 2026-06-17] \[[dataset](https://console.cloud.google.com/storage/browser/rl_unplugged?pli=1)]
   * Caglar Gulcehre, Ziyu Wang, Alexander Novikov, Tom Le Paine, Sergio Gomez Colmenarejo, Konrad Zolna, Rishabh Agarwal, Josh Merel, Daniel Mankowitz, Cosmin Paduraru, Gabriel Dulac-Arnold, Jerry Li, Mohammad Norouzi, Matt Hoffman, Ofir Nachum, George Tucker, Nicolas Heess, and Nando de Freitas. NeurIPS, 2020.
-* [D4RL: Datasets for Deep Data-Driven Reinforcement Learning](https://arxiv.org/abs/2004.07219) \[[website](https://sites.google.com/view/d4rl/home)] \[[blog](https://bair.berkeley.edu/blog/2020/06/25/D4RL/)] \[[code](https://github.com/rail-berkeley/d4rl) ⭐ 1,699 | 🐛 107 | 🌐 Python | 📅 2024-11-18]
+* [D4RL: Datasets for Deep Data-Driven Reinforcement Learning](https://arxiv.org/abs/2004.07219) \[[website](https://sites.google.com/view/d4rl/home)] \[[blog](https://bair.berkeley.edu/blog/2020/06/25/D4RL/)] \[[code](https://github.com/rail-berkeley/d4rl) ⭐ 1,698 | 🐛 107 | 🌐 Python | 📅 2024-11-18]
   * Justin Fu, Aviral Kumar, Ofir Nachum, George Tucker, and Sergey Levine. arXiv, 2020.
-* [d3rlpy: An Offline Deep Reinforcement Learning Library](https://arxiv.org/abs/2111.03788) \[[software](https://github.com/takuseno/d3rlpy) ⭐ 1,676 | 🐛 58 | 🌐 Python | 📅 2025-09-10]
+* [d3rlpy: An Offline Deep Reinforcement Learning Library](https://arxiv.org/abs/2111.03788) \[[software](https://github.com/takuseno/d3rlpy) ⭐ 1,675 | 🐛 58 | 🌐 Python | 📅 2025-09-10]
   * Takuma Seno and Michita Imai. JMLR, 2022.
 * [CORL: Research-oriented Deep Offline Reinforcement Learning Library](https://arxiv.org/abs/2210.07105) \[[code](https://github.com/corl-team/CORL) ⭐ 656 | 🐛 5 | 🌐 Python | 📅 2024-02-10]
   * Denis Tarasov, Alexander Nikulin, Dmitry Akimov, Vladislav Kurenkov, and Sergey Kolesnikov. NeurIPS, 2023.
@@ -2201,11 +2201,11 @@ For any questions, feel free to contact: <hk844@cornell.edu>
 
 ## Open Source Software/Implementations
 
-* [RL Unplugged: Benchmarks for Offline Reinforcement Learning](https://github.com/deepmind/deepmind-research/tree/master/rl_unplugged) ⭐ 15,152 | 🐛 341 | 🌐 Jupyter Notebook | 📅 2026-06-17 \[[paper](https://arxiv.org/abs/2006.13888)] \[[dataset](https://console.cloud.google.com/storage/browser/rl_unplugged?pli=1)]
+* [RL Unplugged: Benchmarks for Offline Reinforcement Learning](https://github.com/deepmind/deepmind-research/tree/master/rl_unplugged) ⭐ 15,153 | 🐛 341 | 🌐 Jupyter Notebook | 📅 2026-06-17 \[[paper](https://arxiv.org/abs/2006.13888)] \[[dataset](https://console.cloud.google.com/storage/browser/rl_unplugged?pli=1)]
   * Caglar Gulcehre, Ziyu Wang, Alexander Novikov, Tom Le Paine, Sergio Gomez Colmenarejo, Konrad Zolna, Rishabh Agarwal, Josh Merel, Daniel Mankowitz, Cosmin Paduraru, Gabriel Dulac-Arnold, Jerry Li, Mohammad Norouzi, Matt Hoffman, Ofir Nachum, George Tucker, Nicolas Heess, and Nando de Freitas.
-* [D4RL: Datasets for Deep Data-Driven Reinforcement Learning](https://github.com/rail-berkeley/d4rl) ⭐ 1,699 | 🐛 107 | 🌐 Python | 📅 2024-11-18 \[[paper](https://arxiv.org/abs/2004.07219)] \[[website](https://sites.google.com/view/d4rl/home)]
+* [D4RL: Datasets for Deep Data-Driven Reinforcement Learning](https://github.com/rail-berkeley/d4rl) ⭐ 1,698 | 🐛 107 | 🌐 Python | 📅 2024-11-18 \[[paper](https://arxiv.org/abs/2004.07219)] \[[website](https://sites.google.com/view/d4rl/home)]
   * Justin Fu, Aviral Kumar, Ofir Nachum, George Tucker, and Sergey Levine.
-* [d3rlpy: An Offline Deep Reinforcement Learning Library](https://github.com/takuseno/d3rlpy) ⭐ 1,676 | 🐛 58 | 🌐 Python | 📅 2025-09-10 \[[paper](https://arxiv.org/abs/2111.03788)] \[[website](https://takuseno.github.io/d3rlpy/)] \[[documentation](https://d3rlpy.readthedocs.io/)]
+* [d3rlpy: An Offline Deep Reinforcement Learning Library](https://github.com/takuseno/d3rlpy) ⭐ 1,675 | 🐛 58 | 🌐 Python | 📅 2025-09-10 \[[paper](https://arxiv.org/abs/2111.03788)] \[[website](https://takuseno.github.io/d3rlpy/)] \[[documentation](https://d3rlpy.readthedocs.io/)]
   * Takuma Seno and Michita Imai.
 * [Minari](https://github.com/Farama-Foundation/Minari) ⭐ 1,286 | 🐛 21 | 🌐 Python | 📅 2026-08-04
   * Farama Foundation.
@@ -2395,4 +2395,4 @@ For any questions, feel free to contact: <hk844@cornell.edu>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
