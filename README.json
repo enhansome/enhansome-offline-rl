@@ -328,7 +328,7 @@
             "last_commit": "2021-12-07T14:00:25Z",
             "owner": "aviralkumar2907",
             "repo": "CQL",
-            "stars": 486
+            "stars": 487
           }
         },
         {
@@ -628,7 +628,7 @@
             "last_commit": "2026-06-17T13:51:27Z",
             "owner": "google-deepmind",
             "repo": "deepmind-research",
-            "stars": 15155
+            "stars": 15158
           }
         },
         {
@@ -642,7 +642,7 @@
             "last_commit": "2024-11-18T16:40:39Z",
             "owner": "Farama-Foundation",
             "repo": "D4RL",
-            "stars": 1698
+            "stars": 1699
           }
         },
         {
@@ -1013,7 +1013,7 @@
             "last_commit": "2026-06-17T13:51:27Z",
             "owner": "google-deepmind",
             "repo": "deepmind-research",
-            "stars": 15155
+            "stars": 15158
           }
         },
         {
@@ -1027,7 +1027,7 @@
             "last_commit": "2024-11-18T16:40:39Z",
             "owner": "Farama-Foundation",
             "repo": "D4RL",
-            "stars": 1698
+            "stars": 1699
           }
         },
         {
@@ -1055,7 +1055,7 @@
             "last_commit": "2026-08-04T23:48:43Z",
             "owner": "Farama-Foundation",
             "repo": "Minari",
-            "stars": 1286
+            "stars": 1287
           }
         },
         {
@@ -1334,7 +1334,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T07:18:30.550Z",
+    "last_updated": "2026-08-17T07:39:04.412Z",
     "original_repository": "hanjuku-kaso/awesome-offline-rl",
     "original_repository_sha": "e89fcd8ff74993eddf645df468123f45c5b38de9",
     "enhanced_repository": "enhansome/enhansome-offline-rl",
