@@ -314,7 +314,7 @@
             "last_commit": "2024-06-17T17:33:51Z",
             "owner": "rail-berkeley",
             "repo": "rlkit",
-            "stars": 2929
+            "stars": 2930
           }
         },
         {
@@ -628,7 +628,7 @@
             "last_commit": "2026-06-17T13:51:27Z",
             "owner": "google-deepmind",
             "repo": "deepmind-research",
-            "stars": 15158
+            "stars": 15157
           }
         },
         {
@@ -656,7 +656,7 @@
             "last_commit": "2025-09-10T23:06:16Z",
             "owner": "takuseno",
             "repo": "d3rlpy",
-            "stars": 1675
+            "stars": 1676
           }
         },
         {
@@ -698,7 +698,7 @@
             "last_commit": "2022-02-08T03:47:33Z",
             "owner": "denisyarats",
             "repo": "exorl",
-            "stars": 138
+            "stars": 139
           }
         },
         {
@@ -1013,7 +1013,7 @@
             "last_commit": "2026-06-17T13:51:27Z",
             "owner": "google-deepmind",
             "repo": "deepmind-research",
-            "stars": 15158
+            "stars": 15157
           }
         },
         {
@@ -1041,7 +1041,7 @@
             "last_commit": "2025-09-10T23:06:16Z",
             "owner": "takuseno",
             "repo": "d3rlpy",
-            "stars": 1675
+            "stars": 1676
           }
         },
         {
@@ -1055,7 +1055,7 @@
             "last_commit": "2026-08-04T23:48:43Z",
             "owner": "Farama-Foundation",
             "repo": "Minari",
-            "stars": 1287
+            "stars": 1288
           }
         },
         {
@@ -1167,7 +1167,7 @@
             "last_commit": "2022-02-08T03:47:33Z",
             "owner": "denisyarats",
             "repo": "exorl",
-            "stars": 138
+            "stars": 139
           }
         },
         {
@@ -1334,7 +1334,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T07:39:04.412Z",
+    "last_updated": "2026-08-18T07:24:55.762Z",
     "original_repository": "hanjuku-kaso/awesome-offline-rl",
     "original_repository_sha": "e89fcd8ff74993eddf645df468123f45c5b38de9",
     "enhanced_repository": "enhansome/enhansome-offline-rl",
