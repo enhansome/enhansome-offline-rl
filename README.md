@@ -87,7 +87,7 @@ For any questions, feel free to contact: <hk844@cornell.edu>
 
 * [AWAC: Accelerating Online Reinforcement Learning with Offline Datasets](https://arxiv.org/abs/2006.09359) \[[website](https://awacrl.github.io/)] \[[code](https://github.com/vitchyr/rlkit/tree/master/examples/awac) ⭐ 2,930 | 🐛 40 | 🌐 Python | 📅 2024-06-17] \[[blog](https://bair.berkeley.edu/blog/2020/09/10/awac/)]
   * Ashvin Nair, Abhishek Gupta, Murtaza Dalal, and Sergey Levine. arXiv, 2020.
-* [Conservative Q-Learning for Offline Reinforcement Learning](https://papers.nips.cc/paper/2020/hash/0d2b2061826a5df3221116a5085a6052-Abstract.html) \[[website](https://sites.google.com/view/cql-offline-rl)] \[[code](https://github.com/aviralkumar2907/CQL) ⭐ 487 | 🐛 20 | 🌐 Python | 📅 2021-12-07] \[[blog](https://bair.berkeley.edu/blog/2020/12/07/offline/)]
+* [Conservative Q-Learning for Offline Reinforcement Learning](https://papers.nips.cc/paper/2020/hash/0d2b2061826a5df3221116a5085a6052-Abstract.html) \[[website](https://sites.google.com/view/cql-offline-rl)] \[[code](https://github.com/aviralkumar2907/CQL) ⭐ 488 | 🐛 20 | 🌐 Python | 📅 2021-12-07] \[[blog](https://bair.berkeley.edu/blog/2020/12/07/offline/)]
   * Aviral Kumar, Aurick Zhou, George Tucker, and Sergey Levine. NeurIPS, 2020.
 * [MOPO: Model-based Offline Policy Optimization](https://papers.nips.cc/paper/2020/hash/a322852ce0df73e204b7e67cbbef0d0a-Abstract.html) \[[code](https://github.com/tianheyu927/mopo) ⭐ 191 | 🐛 10 | 🌐 Python | 📅 2022-05-17]
   * Tianhe Yu, Garrett Thomas, Lantao Yu, Stefano Ermon, James Y. Zou, Sergey Levine, Chelsea Finn, and Tengyu Ma. NeurIPS, 2020.

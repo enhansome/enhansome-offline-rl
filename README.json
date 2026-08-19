@@ -32,7 +32,7 @@
                 "last_commit": "2021-12-07T14:00:25Z",
                 "owner": "aviralkumar2907",
                 "repo": "CQL",
-                "stars": 487
+                "stars": 488
               }
             },
             {
@@ -1113,8 +1113,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T07:25:26.549Z",
+    "last_updated": "2026-08-19T12:44:53.460Z",
     "original_repository": "hanjuku-kaso/awesome-offline-rl",
+    "original_repository_id": 318522019,
     "original_repository_sha": "e89fcd8ff74993eddf645df468123f45c5b38de9",
     "enhanced_repository": "enhansome/enhansome-offline-rl",
     "enhanced_repository_description": null,
