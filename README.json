@@ -17,7 +17,7 @@
                 "last_commit": "2024-06-17T17:33:51Z",
                 "owner": "rail-berkeley",
                 "repo": "rlkit",
-                "stars": 2930
+                "stars": 2931
               }
             },
             {
@@ -354,7 +354,7 @@
                 "last_commit": "2026-06-17T13:51:27Z",
                 "owner": "google-deepmind",
                 "repo": "deepmind-research",
-                "stars": 15157
+                "stars": 15159
               }
             },
             {
@@ -775,7 +775,7 @@
             "last_commit": "2026-06-17T13:51:27Z",
             "owner": "google-deepmind",
             "repo": "deepmind-research",
-            "stars": 15157
+            "stars": 15159
           }
         },
         {
@@ -1113,7 +1113,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:44:53.460Z",
+    "last_updated": "2026-08-20T07:27:51.116Z",
     "original_repository": "hanjuku-kaso/awesome-offline-rl",
     "original_repository_id": 318522019,
     "original_repository_sha": "e89fcd8ff74993eddf645df468123f45c5b38de9",
