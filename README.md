@@ -1320,7 +1320,7 @@ For any questions, feel free to contact: <hk844@cornell.edu>
 
 ### Offline RL: Benchmarks/Experiments
 
-* [RL Unplugged: Benchmarks for Offline Reinforcement Learning](https://arxiv.org/abs/2006.13888) \[[code](https://github.com/deepmind/deepmind-research/tree/master/rl_unplugged) ⭐ 15,159 | 🐛 341 | 🌐 Jupyter Notebook | 📅 2026-06-17] \[[dataset](https://console.cloud.google.com/storage/browser/rl_unplugged?pli=1)]
+* [RL Unplugged: Benchmarks for Offline Reinforcement Learning](https://arxiv.org/abs/2006.13888) \[[code](https://github.com/deepmind/deepmind-research/tree/master/rl_unplugged) ⭐ 15,161 | 🐛 341 | 🌐 Jupyter Notebook | 📅 2026-06-17] \[[dataset](https://console.cloud.google.com/storage/browser/rl_unplugged?pli=1)]
   * Caglar Gulcehre, Ziyu Wang, Alexander Novikov, Tom Le Paine, Sergio Gomez Colmenarejo, Konrad Zolna, Rishabh Agarwal, Josh Merel, Daniel Mankowitz, Cosmin Paduraru, Gabriel Dulac-Arnold, Jerry Li, Mohammad Norouzi, Matt Hoffman, Ofir Nachum, George Tucker, Nicolas Heess, and Nando de Freitas. NeurIPS, 2020.
 * [D4RL: Datasets for Deep Data-Driven Reinforcement Learning](https://arxiv.org/abs/2004.07219) \[[website](https://sites.google.com/view/d4rl/home)] \[[blog](https://bair.berkeley.edu/blog/2020/06/25/D4RL/)] \[[code](https://github.com/rail-berkeley/d4rl) ⭐ 1,700 | 🐛 107 | 🌐 Python | 📅 2024-11-18]
   * Justin Fu, Aviral Kumar, Ofir Nachum, George Tucker, and Sergey Levine. arXiv, 2020.
@@ -1660,7 +1660,7 @@ For any questions, feel free to contact: <hk844@cornell.edu>
 
 * [Off-Policy Evaluation for Large Action Spaces via Embeddings](https://arxiv.org/abs/2202.06317) \[[code](https://github.com/usaito/icml2022-mips) ⭐ 22 | 🐛 0 | 🌐 Python | 📅 2022-07-27] \[[video](https://youtu.be/Hrqhv-AsMRE)]
   * Yuta Saito and Thorsten Joachims. ICML, 2022.
-* [Optimal Off-Policy Evaluation from Multiple Logging Policies](https://arxiv.org/abs/2010.11002) \[[code](https://github.com/CausalML/MultipleLoggers) ⭐ 15 | 🐛 0 | 🌐 Python | 📅 2021-07-17]
+* [Optimal Off-Policy Evaluation from Multiple Logging Policies](https://arxiv.org/abs/2010.11002) \[[code](https://github.com/CausalML/MultipleLoggers) ⭐ 15 | 🐛 1 | 🌐 Python | 📅 2021-07-17]
   * Nathan Kallus, Yuta Saito, and Masatoshi Uehara. ICML, 2021.
 * [Doubly Robust Off-Policy Evaluation for Ranking Policies under the Cascade Behavior Model](https://arxiv.org/abs/2202.01562) \[[code](https://github.com/aiueola/wsdm2022-cascade-dr) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2023-07-16]
   * Haruka Kiyohara, Yuta Saito, Tatsuya Matsuhiro, Yusuke Narita, Nobuyuki Shimizu, and Yasuo Yamamoto. WSDM, 2022.
@@ -2201,7 +2201,7 @@ For any questions, feel free to contact: <hk844@cornell.edu>
 
 ## Open Source Software/Implementations
 
-* [RL Unplugged: Benchmarks for Offline Reinforcement Learning](https://github.com/deepmind/deepmind-research/tree/master/rl_unplugged) ⭐ 15,159 | 🐛 341 | 🌐 Jupyter Notebook | 📅 2026-06-17 \[[paper](https://arxiv.org/abs/2006.13888)] \[[dataset](https://console.cloud.google.com/storage/browser/rl_unplugged?pli=1)]
+* [RL Unplugged: Benchmarks for Offline Reinforcement Learning](https://github.com/deepmind/deepmind-research/tree/master/rl_unplugged) ⭐ 15,161 | 🐛 341 | 🌐 Jupyter Notebook | 📅 2026-06-17 \[[paper](https://arxiv.org/abs/2006.13888)] \[[dataset](https://console.cloud.google.com/storage/browser/rl_unplugged?pli=1)]
   * Caglar Gulcehre, Ziyu Wang, Alexander Novikov, Tom Le Paine, Sergio Gomez Colmenarejo, Konrad Zolna, Rishabh Agarwal, Josh Merel, Daniel Mankowitz, Cosmin Paduraru, Gabriel Dulac-Arnold, Jerry Li, Mohammad Norouzi, Matt Hoffman, Ofir Nachum, George Tucker, Nicolas Heess, and Nando de Freitas.
 * [D4RL: Datasets for Deep Data-Driven Reinforcement Learning](https://github.com/rail-berkeley/d4rl) ⭐ 1,700 | 🐛 107 | 🌐 Python | 📅 2024-11-18 \[[paper](https://arxiv.org/abs/2004.07219)] \[[website](https://sites.google.com/view/d4rl/home)]
   * Justin Fu, Aviral Kumar, Ofir Nachum, George Tucker, and Sergey Levine.
@@ -2395,4 +2395,4 @@ For any questions, feel free to contact: <hk844@cornell.edu>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._

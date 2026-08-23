@@ -354,7 +354,7 @@
                 "last_commit": "2026-06-17T13:51:27Z",
                 "owner": "google-deepmind",
                 "repo": "deepmind-research",
-                "stars": 15159
+                "stars": 15161
               }
             },
             {
@@ -775,7 +775,7 @@
             "last_commit": "2026-06-17T13:51:27Z",
             "owner": "google-deepmind",
             "repo": "deepmind-research",
-            "stars": 15159
+            "stars": 15161
           }
         },
         {
@@ -1113,7 +1113,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T07:19:21.118Z",
+    "last_updated": "2026-08-23T07:20:46.110Z",
     "original_repository": "hanjuku-kaso/awesome-offline-rl",
     "original_repository_id": 318522019,
     "original_repository_sha": "e89fcd8ff74993eddf645df468123f45c5b38de9",
