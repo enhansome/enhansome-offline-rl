@@ -354,7 +354,7 @@
                 "last_commit": "2026-06-17T13:51:27Z",
                 "owner": "google-deepmind",
                 "repo": "deepmind-research",
-                "stars": 15161
+                "stars": 15165
               }
             },
             {
@@ -704,7 +704,7 @@
                 "last_commit": "2024-06-03T11:04:44Z",
                 "owner": "st-tech",
                 "repo": "zr-obp",
-                "stars": 706
+                "stars": 707
               }
             },
             {
@@ -775,7 +775,7 @@
             "last_commit": "2026-06-17T13:51:27Z",
             "owner": "google-deepmind",
             "repo": "deepmind-research",
-            "stars": 15161
+            "stars": 15165
           }
         },
         {
@@ -835,7 +835,7 @@
             "last_commit": "2024-06-03T11:04:44Z",
             "owner": "st-tech",
             "repo": "zr-obp",
-            "stars": 706
+            "stars": 707
           }
         },
         {
@@ -925,7 +925,7 @@
             "last_commit": "2024-03-18T14:03:18Z",
             "owner": "hakuhodo-technologies",
             "repo": "scope-rl",
-            "stars": 142
+            "stars": 143
           }
         },
         {
@@ -1113,7 +1113,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T07:20:46.110Z",
+    "last_updated": "2026-08-24T07:44:39.493Z",
     "original_repository": "hanjuku-kaso/awesome-offline-rl",
     "original_repository_id": 318522019,
     "original_repository_sha": "e89fcd8ff74993eddf645df468123f45c5b38de9",
