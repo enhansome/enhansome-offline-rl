@@ -1320,7 +1320,7 @@ For any questions, feel free to contact: <hk844@cornell.edu>
 
 ### Offline RL: Benchmarks/Experiments
 
-* [RL Unplugged: Benchmarks for Offline Reinforcement Learning](https://arxiv.org/abs/2006.13888) \[[code](https://github.com/deepmind/deepmind-research/tree/master/rl_unplugged) ⭐ 15,165 | 🐛 358 | 🌐 Jupyter Notebook | 📅 2026-06-17] \[[dataset](https://console.cloud.google.com/storage/browser/rl_unplugged?pli=1)]
+* [RL Unplugged: Benchmarks for Offline Reinforcement Learning](https://arxiv.org/abs/2006.13888) \[[code](https://github.com/deepmind/deepmind-research/tree/master/rl_unplugged) ⭐ 15,166 | 🐛 358 | 🌐 Jupyter Notebook | 📅 2026-06-17] \[[dataset](https://console.cloud.google.com/storage/browser/rl_unplugged?pli=1)]
   * Caglar Gulcehre, Ziyu Wang, Alexander Novikov, Tom Le Paine, Sergio Gomez Colmenarejo, Konrad Zolna, Rishabh Agarwal, Josh Merel, Daniel Mankowitz, Cosmin Paduraru, Gabriel Dulac-Arnold, Jerry Li, Mohammad Norouzi, Matt Hoffman, Ofir Nachum, George Tucker, Nicolas Heess, and Nando de Freitas. NeurIPS, 2020.
 * [D4RL: Datasets for Deep Data-Driven Reinforcement Learning](https://arxiv.org/abs/2004.07219) \[[website](https://sites.google.com/view/d4rl/home)] \[[blog](https://bair.berkeley.edu/blog/2020/06/25/D4RL/)] \[[code](https://github.com/rail-berkeley/d4rl) ⭐ 1,700 | 🐛 107 | 🌐 Python | 📅 2024-11-18]
   * Justin Fu, Aviral Kumar, Ofir Nachum, George Tucker, and Sergey Levine. arXiv, 2020.
@@ -1660,7 +1660,7 @@ For any questions, feel free to contact: <hk844@cornell.edu>
 
 * [Off-Policy Evaluation for Large Action Spaces via Embeddings](https://arxiv.org/abs/2202.06317) \[[code](https://github.com/usaito/icml2022-mips) ⭐ 22 | 🐛 0 | 🌐 Python | 📅 2022-07-27] \[[video](https://youtu.be/Hrqhv-AsMRE)]
   * Yuta Saito and Thorsten Joachims. ICML, 2022.
-* [Optimal Off-Policy Evaluation from Multiple Logging Policies](https://arxiv.org/abs/2010.11002) \[[code](https://github.com/CausalML/MultipleLoggers) ⭐ 15 | 🐛 1 | 🌐 Python | 📅 2021-07-17]
+* [Optimal Off-Policy Evaluation from Multiple Logging Policies](https://arxiv.org/abs/2010.11002) \[[code](https://github.com/CausalML/MultipleLoggers) ⭐ 15 | 🐛 0 | 🌐 Python | 📅 2021-07-17]
   * Nathan Kallus, Yuta Saito, and Masatoshi Uehara. ICML, 2021.
 * [Doubly Robust Off-Policy Evaluation for Ranking Policies under the Cascade Behavior Model](https://arxiv.org/abs/2202.01562) \[[code](https://github.com/aiueola/wsdm2022-cascade-dr) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2023-07-16]
   * Haruka Kiyohara, Yuta Saito, Tatsuya Matsuhiro, Yusuke Narita, Nobuyuki Shimizu, and Yasuo Yamamoto. WSDM, 2022.
@@ -2046,6 +2046,8 @@ For any questions, feel free to contact: <hk844@cornell.edu>
 
 #### Off-Policy Learning
 
+* [Efficient Policy Learning from Surrogate-Loss Classification Reductions](http://proceedings.mlr.press/v119/bennett20a.html) \[[code](https://github.com/CausalML/ESPRM) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2020-02-20]
+  * Andrew Bennett and Nathan Kallus. ICML, 2020.
 * [Sequential Counterfactual Risk Minimization](https://arxiv.org/abs/2302.12120)
   * Houssam Zenati, Eustache Diemert, Matthieu Martin, Julien Mairal, and Pierre Gaillard. ICML, 2023.
 * [Trajectory-Aware Eligibility Traces for Off-Policy Reinforcement Learning](https://openreview.net/forum?id=8Lww9LXokZ)
@@ -2110,8 +2112,6 @@ For any questions, feel free to contact: <hk844@cornell.edu>
   * Nathan Kallus and Masatoshi Uehara. NeurIPS, 2020.
 * [From Importance Sampling to Doubly Robust Policy Gradient](http://proceedings.mlr.press/v119/huang20b.html)
   * Jiawei Huang and Nan Jiang. ICML, 2020.
-* [Efficient Policy Learning from Surrogate-Loss Classification Reductions](http://proceedings.mlr.press/v119/bennett20a.html) \[[code](https://github.com/CausalML/ESPRM) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2020-02-20]
-  * Andrew Bennett and Nathan Kallus. ICML, 2020.
 * [Off-policy Bandits with Deficient Support](https://dl.acm.org/doi/abs/10.1145/3394486.3403139)
   * Noveen Sachdeva, Yi Su, and Thorsten Joachims. KDD, 2020.
 * [Off-policy Learning in Two-stage Recommender Systems](https://dl.acm.org/doi/abs/10.1145/3366423.3380130)
@@ -2201,13 +2201,13 @@ For any questions, feel free to contact: <hk844@cornell.edu>
 
 ## Open Source Software/Implementations
 
-* [RL Unplugged: Benchmarks for Offline Reinforcement Learning](https://github.com/deepmind/deepmind-research/tree/master/rl_unplugged) ⭐ 15,165 | 🐛 358 | 🌐 Jupyter Notebook | 📅 2026-06-17 \[[paper](https://arxiv.org/abs/2006.13888)] \[[dataset](https://console.cloud.google.com/storage/browser/rl_unplugged?pli=1)]
+* [RL Unplugged: Benchmarks for Offline Reinforcement Learning](https://github.com/deepmind/deepmind-research/tree/master/rl_unplugged) ⭐ 15,166 | 🐛 358 | 🌐 Jupyter Notebook | 📅 2026-06-17 \[[paper](https://arxiv.org/abs/2006.13888)] \[[dataset](https://console.cloud.google.com/storage/browser/rl_unplugged?pli=1)]
   * Caglar Gulcehre, Ziyu Wang, Alexander Novikov, Tom Le Paine, Sergio Gomez Colmenarejo, Konrad Zolna, Rishabh Agarwal, Josh Merel, Daniel Mankowitz, Cosmin Paduraru, Gabriel Dulac-Arnold, Jerry Li, Mohammad Norouzi, Matt Hoffman, Ofir Nachum, George Tucker, Nicolas Heess, and Nando de Freitas.
 * [D4RL: Datasets for Deep Data-Driven Reinforcement Learning](https://github.com/rail-berkeley/d4rl) ⭐ 1,700 | 🐛 107 | 🌐 Python | 📅 2024-11-18 \[[paper](https://arxiv.org/abs/2004.07219)] \[[website](https://sites.google.com/view/d4rl/home)]
   * Justin Fu, Aviral Kumar, Ofir Nachum, George Tucker, and Sergey Levine.
 * [d3rlpy: An Offline Deep Reinforcement Learning Library](https://github.com/takuseno/d3rlpy) ⭐ 1,679 | 🐛 58 | 🌐 Python | 📅 2025-09-10 \[[paper](https://arxiv.org/abs/2111.03788)] \[[website](https://takuseno.github.io/d3rlpy/)] \[[documentation](https://d3rlpy.readthedocs.io/)]
   * Takuma Seno and Michita Imai.
-* [Minari](https://github.com/Farama-Foundation/Minari) ⭐ 1,289 | 🐛 23 | 🌐 Python | 📅 2026-08-04
+* [Minari](https://github.com/Farama-Foundation/Minari) ⭐ 1,290 | 🐛 23 | 🌐 Python | 📅 2026-08-04
   * Farama Foundation.
 * [Open Bandit Pipeline: a research framework for bandit algorithms and off-policy evaluation](https://github.com/st-tech/zr-obp) ⭐ 707 | 🐛 33 | 🌐 Python | 📅 2024-06-03 \[[paper](https://arxiv.org/abs/2008.07146)] \[[documentation](https://zr-obp.readthedocs.io/en/latest/index.html)] \[[dataset](https://research.zozo.com/data.html)]
   * Yuta Saito, Shunsuke Aihara, Megumi Matsutani, and Yusuke Narita.

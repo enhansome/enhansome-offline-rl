@@ -1,6 +1,316 @@
 {
   "items": [
     {
+      "description": "We are looking for more contributors and maintainers! Please feel free to pull requests.\nFor any questions, feel free to contact: hk844@cornell.edu",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Papers",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Review/Survey/Position Papers",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Offline RL",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 318522019,
+                    "language": null,
+                    "last_commit": "2024-05-23T03:08:40Z",
+                    "owner": "hanjuku-kaso",
+                    "repo": "awesome-offline-rl",
+                    "stars": 1075
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Off-Policy Evaluation and Learning",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 318522019,
+                    "language": null,
+                    "last_commit": "2024-05-23T03:08:40Z",
+                    "owner": "hanjuku-kaso",
+                    "repo": "awesome-offline-rl",
+                    "stars": 1075
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Related Reviews",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 318522019,
+                    "language": null,
+                    "last_commit": "2024-05-23T03:08:40Z",
+                    "owner": "hanjuku-kaso",
+                    "repo": "awesome-offline-rl",
+                    "stars": 1075
+                  }
+                }
+              ],
+              "repo_info": {
+                "archived": false,
+                "id": 318522019,
+                "language": null,
+                "last_commit": "2024-05-23T03:08:40Z",
+                "owner": "hanjuku-kaso",
+                "repo": "awesome-offline-rl",
+                "stars": 1075
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Offline RL: Theory/Methods",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 318522019,
+                "language": null,
+                "last_commit": "2024-05-23T03:08:40Z",
+                "owner": "hanjuku-kaso",
+                "repo": "awesome-offline-rl",
+                "stars": 1075
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Offline RL: Benchmarks/Experiments",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 318522019,
+                "language": null,
+                "last_commit": "2024-05-23T03:08:40Z",
+                "owner": "hanjuku-kaso",
+                "repo": "awesome-offline-rl",
+                "stars": 1075
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Offline RL: Applications",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 318522019,
+                "language": null,
+                "last_commit": "2024-05-23T03:08:40Z",
+                "owner": "hanjuku-kaso",
+                "repo": "awesome-offline-rl",
+                "stars": 1075
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Off-Policy Evaluation and Learning: Theory/Methods",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Off-Policy Evaluation: Contextual Bandits",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 318522019,
+                    "language": null,
+                    "last_commit": "2024-05-23T03:08:40Z",
+                    "owner": "hanjuku-kaso",
+                    "repo": "awesome-offline-rl",
+                    "stars": 1075
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Off-Policy Evaluation: Reinforcement Learning",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 318522019,
+                    "language": null,
+                    "last_commit": "2024-05-23T03:08:40Z",
+                    "owner": "hanjuku-kaso",
+                    "repo": "awesome-offline-rl",
+                    "stars": 1075
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Off-Policy Learning",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 318522019,
+                    "language": null,
+                    "last_commit": "2024-05-23T03:08:40Z",
+                    "owner": "hanjuku-kaso",
+                    "repo": "awesome-offline-rl",
+                    "stars": 1075
+                  }
+                }
+              ],
+              "repo_info": {
+                "archived": false,
+                "id": 318522019,
+                "language": null,
+                "last_commit": "2024-05-23T03:08:40Z",
+                "owner": "hanjuku-kaso",
+                "repo": "awesome-offline-rl",
+                "stars": 1075
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Off-Policy Evaluation and Learning: Benchmarks/Experiments",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 318522019,
+                "language": null,
+                "last_commit": "2024-05-23T03:08:40Z",
+                "owner": "hanjuku-kaso",
+                "repo": "awesome-offline-rl",
+                "stars": 1075
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Off-Policy Evaluation and Learning: Applications",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 318522019,
+                "language": null,
+                "last_commit": "2024-05-23T03:08:40Z",
+                "owner": "hanjuku-kaso",
+                "repo": "awesome-offline-rl",
+                "stars": 1075
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "id": 318522019,
+            "language": null,
+            "last_commit": "2024-05-23T03:08:40Z",
+            "owner": "hanjuku-kaso",
+            "repo": "awesome-offline-rl",
+            "stars": 1075
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open Source Software/Implementations",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 318522019,
+            "language": null,
+            "last_commit": "2024-05-23T03:08:40Z",
+            "owner": "hanjuku-kaso",
+            "repo": "awesome-offline-rl",
+            "stars": 1075
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blog/Podcast",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Blog",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 318522019,
+                "language": null,
+                "last_commit": "2024-05-23T03:08:40Z",
+                "owner": "hanjuku-kaso",
+                "repo": "awesome-offline-rl",
+                "stars": 1075
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Podcast",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 318522019,
+                "language": null,
+                "last_commit": "2024-05-23T03:08:40Z",
+                "owner": "hanjuku-kaso",
+                "repo": "awesome-offline-rl",
+                "stars": 1075
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "id": 318522019,
+            "language": null,
+            "last_commit": "2024-05-23T03:08:40Z",
+            "owner": "hanjuku-kaso",
+            "repo": "awesome-offline-rl",
+            "stars": 1075
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Related Workshops",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 318522019,
+            "language": null,
+            "last_commit": "2024-05-23T03:08:40Z",
+            "owner": "hanjuku-kaso",
+            "repo": "awesome-offline-rl",
+            "stars": 1075
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tutorials/Talks/Lectures",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 318522019,
+            "language": null,
+            "last_commit": "2024-05-23T03:08:40Z",
+            "owner": "hanjuku-kaso",
+            "repo": "awesome-offline-rl",
+            "stars": 1075
+          }
+        }
+      ],
+      "title": "Overview"
+    },
+    {
       "description": null,
       "items": [
         {
@@ -354,7 +664,7 @@
                 "last_commit": "2026-06-17T13:51:27Z",
                 "owner": "google-deepmind",
                 "repo": "deepmind-research",
-                "stars": 15165
+                "stars": 15166
               }
             },
             {
@@ -684,6 +994,28 @@
               "description": null,
               "node_type": "group",
               "title": "Off-Policy Evaluation: Reinforcement Learning"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Efficient Policy Learning from Surrogate-Loss Classification Reductions",
+                  "description": "[code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 239829440,
+                    "language": "Python",
+                    "last_commit": "2020-02-20T00:42:06Z",
+                    "owner": "CausalML",
+                    "repo": "ESPRM",
+                    "stars": 3
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Off-Policy Learning"
             }
           ],
           "description": null,
@@ -775,7 +1107,7 @@
             "last_commit": "2026-06-17T13:51:27Z",
             "owner": "google-deepmind",
             "repo": "deepmind-research",
-            "stars": 15165
+            "stars": 15166
           }
         },
         {
@@ -820,7 +1152,7 @@
             "last_commit": "2026-08-04T23:48:43Z",
             "owner": "Farama-Foundation",
             "repo": "Minari",
-            "stars": 1289
+            "stars": 1290
           }
         },
         {
@@ -1113,7 +1445,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T07:44:39.493Z",
+    "last_updated": "2026-08-24T14:19:25.481Z",
     "original_repository": "hanjuku-kaso/awesome-offline-rl",
     "original_repository_id": 318522019,
     "original_repository_sha": "e89fcd8ff74993eddf645df468123f45c5b38de9",
