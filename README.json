@@ -402,7 +402,7 @@
                 "last_commit": "2026-03-05T16:33:11Z",
                 "owner": "siemens",
                 "repo": "industrialbenchmark",
-                "stars": 147
+                "stars": 148
               }
             },
             {
@@ -664,7 +664,7 @@
                 "last_commit": "2026-06-17T13:51:27Z",
                 "owner": "google-deepmind",
                 "repo": "deepmind-research",
-                "stars": 15167
+                "stars": 15170
               }
             },
             {
@@ -1107,7 +1107,7 @@
             "last_commit": "2026-06-17T13:51:27Z",
             "owner": "google-deepmind",
             "repo": "deepmind-research",
-            "stars": 15167
+            "stars": 15170
           }
         },
         {
@@ -1152,7 +1152,7 @@
             "last_commit": "2026-08-04T23:48:43Z",
             "owner": "Farama-Foundation",
             "repo": "Minari",
-            "stars": 1290
+            "stars": 1291
           }
         },
         {
@@ -1242,7 +1242,7 @@
             "last_commit": "2026-03-05T16:33:11Z",
             "owner": "siemens",
             "repo": "industrialbenchmark",
-            "stars": 147
+            "stars": 148
           }
         },
         {
@@ -1445,9 +1445,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T07:32:55.923Z",
-    "original_repository": "hanjuku-kaso/awesome-offline-rl",
-    "original_repository_id": 318522019,
+    "last_updated": "2026-08-27T11:56:48.500Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 318522019,
+      "language": null,
+      "last_commit": "2024-05-23T03:08:40Z",
+      "owner": "hanjuku-kaso",
+      "repo": "awesome-offline-rl",
+      "stars": 1075
+    },
     "original_repository_sha": "e89fcd8ff74993eddf645df468123f45c5b38de9",
     "enhanced_repository": "enhansome/enhansome-offline-rl",
     "enhanced_repository_description": null,
