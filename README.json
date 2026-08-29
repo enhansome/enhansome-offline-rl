@@ -654,7 +654,7 @@
                 "open_issues": 4,
                 "owner": "facebookresearch",
                 "repo": "vip",
-                "stars": 187,
+                "stars": 188,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:50.331Z"
@@ -2225,7 +2225,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:33:05.378Z",
+    "last_updated": "2026-08-29T12:51:46.438Z",
     "original_repository_info": {
       "archived": false,
       "description": "An index of algorithms for offline reinforcement learning (offline-rl)",
