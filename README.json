@@ -1073,7 +1073,7 @@
                 "open_issues": 358,
                 "owner": "google-deepmind",
                 "repo": "deepmind-research",
-                "stars": 15173,
+                "stars": 15176,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:50.331Z"
@@ -1094,7 +1094,7 @@
                 "open_issues": 107,
                 "owner": "Farama-Foundation",
                 "repo": "D4RL",
-                "stars": 1700,
+                "stars": 1701,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:50.331Z"
@@ -1708,7 +1708,7 @@
             "open_issues": 358,
             "owner": "google-deepmind",
             "repo": "deepmind-research",
-            "stars": 15173,
+            "stars": 15176,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:50.331Z"
@@ -1729,7 +1729,7 @@
             "open_issues": 107,
             "owner": "Farama-Foundation",
             "repo": "D4RL",
-            "stars": 1700,
+            "stars": 1701,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:50.331Z"
@@ -2225,7 +2225,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T12:51:46.438Z",
+    "last_updated": "2026-08-30T12:15:13.133Z",
     "original_repository_info": {
       "archived": false,
       "description": "An index of algorithms for offline reinforcement learning (offline-rl)",
