@@ -2203,7 +2203,7 @@ For any questions, feel free to contact: <hk844@cornell.edu>
 
 * [RL Unplugged: Benchmarks for Offline Reinforcement Learning](https://github.com/deepmind/deepmind-research/tree/master/rl_unplugged) ⭐ 15,181 | 🐛 358 | 🌐 Jupyter Notebook | 📅 2026-06-17 \[[paper](https://arxiv.org/abs/2006.13888)] \[[dataset](https://console.cloud.google.com/storage/browser/rl_unplugged?pli=1)]
   * Caglar Gulcehre, Ziyu Wang, Alexander Novikov, Tom Le Paine, Sergio Gomez Colmenarejo, Konrad Zolna, Rishabh Agarwal, Josh Merel, Daniel Mankowitz, Cosmin Paduraru, Gabriel Dulac-Arnold, Jerry Li, Mohammad Norouzi, Matt Hoffman, Ofir Nachum, George Tucker, Nicolas Heess, and Nando de Freitas.
-* [Minari](https://github.com/Farama-Foundation/Minari) ⭐ 1,774 | 🐛 24 | 🌐 Python | 📅 2026-08-04
+* [Minari](https://github.com/Farama-Foundation/Minari) ⭐ 1,774 | 🐛 20 | 🌐 Python | 📅 2026-09-04
   * Farama Foundation.
 * [D4RL: Datasets for Deep Data-Driven Reinforcement Learning](https://github.com/rail-berkeley/d4rl) ⭐ 1,702 | 🐛 107 | 🌐 Python | 📅 2024-11-18 \[[paper](https://arxiv.org/abs/2004.07219)] \[[website](https://sites.google.com/view/d4rl/home)]
   * Justin Fu, Aviral Kumar, Ofir Nachum, George Tucker, and Sergey Levine.
@@ -2395,4 +2395,4 @@ For any questions, feel free to contact: <hk844@cornell.edu>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._

@@ -1725,8 +1725,8 @@
             "id": 546752231,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-04T23:48:43Z",
-            "open_issues": 24,
+            "last_commit": "2026-09-04T18:36:02Z",
+            "open_issues": 20,
             "owner": "Farama-Foundation",
             "repo": "Minari",
             "stars": 1774,
@@ -2225,7 +2225,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T11:45:05.559Z",
+    "last_updated": "2026-09-05T10:55:57.564Z",
     "original_repository_info": {
       "archived": false,
       "description": "An index of algorithms for offline reinforcement learning (offline-rl)",
