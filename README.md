@@ -1326,7 +1326,7 @@ For any questions, feel free to contact: <hk844@cornell.edu>
   * Justin Fu, Aviral Kumar, Ofir Nachum, George Tucker, and Sergey Levine. arXiv, 2020.
 * [d3rlpy: An Offline Deep Reinforcement Learning Library](https://arxiv.org/abs/2111.03788) \[[software](https://github.com/takuseno/d3rlpy) ⭐ 1,684 | 🐛 58 | 🌐 Python | 📅 2025-09-10]
   * Takuma Seno and Michita Imai. JMLR, 2022.
-* [CORL: Research-oriented Deep Offline Reinforcement Learning Library](https://arxiv.org/abs/2210.07105) \[[code](https://github.com/corl-team/CORL) ⭐ 657 | 🐛 5 | 🌐 Python | 📅 2024-02-10]
+* [CORL: Research-oriented Deep Offline Reinforcement Learning Library](https://arxiv.org/abs/2210.07105) \[[code](https://github.com/corl-team/CORL) ⭐ 658 | 🐛 5 | 🌐 Python | 📅 2024-02-10]
   * Denis Tarasov, Alexander Nikulin, Dmitry Akimov, Vladislav Kurenkov, and Sergey Kolesnikov. NeurIPS, 2023.
 * [RLDS: an Ecosystem to Generate, Share and Use Datasets in Reinforcement Learning](https://arxiv.org/abs/2111.02767) \[[code](https://github.com/google-research/rlds) ⚠️ Archived]
   * Sabela Ramos, Sertan Girgin, Léonard Hussenot, Damien Vincent, Hanna Yakubovich, Daniel Toyama, Anita Gergely, Piotr Stanczyk, Raphael Marinier, Jeremiah Harmsen, Olivier Pietquin, and Nikola Momchev. NeurIPS, 2021.
@@ -2211,7 +2211,7 @@ For any questions, feel free to contact: <hk844@cornell.edu>
   * Takuma Seno and Michita Imai.
 * [Open Bandit Pipeline: a research framework for bandit algorithms and off-policy evaluation](https://github.com/st-tech/zr-obp) ⭐ 708 | 🐛 33 | 🌐 Python | 📅 2024-06-03 \[[paper](https://arxiv.org/abs/2008.07146)] \[[documentation](https://zr-obp.readthedocs.io/en/latest/index.html)] \[[dataset](https://research.zozo.com/data.html)]
   * Yuta Saito, Shunsuke Aihara, Megumi Matsutani, and Yusuke Narita.
-* [CORL: Clean Offline Reinforcement Learning](https://github.com/corl-team/CORL) ⭐ 657 | 🐛 5 | 🌐 Python | 📅 2024-02-10 \[[paper](https://arxiv.org/abs/2210.07105)]
+* [CORL: Clean Offline Reinforcement Learning](https://github.com/corl-team/CORL) ⭐ 658 | 🐛 5 | 🌐 Python | 📅 2024-02-10 \[[paper](https://arxiv.org/abs/2210.07105)]
   * Denis Tarasov, Alexander Nikulin, Dmitry Akimov, Vladislav Kurenkov, and Sergey Kolesnikov.
 * [RLDS: Reinforcement Learning Datasets](https://github.com/google-research/rlds) ⚠️ Archived \[[paper](https://arxiv.org/abs/2111.02767)]
   * Sabela Ramos, Sertan Girgin, Léonard Hussenot, Damien Vincent, Hanna Yakubovich, Daniel Toyama, Anita Gergely, Piotr Stanczyk, Raphael Marinier, Jeremiah Harmsen, Olivier Pietquin, and Nikola Momchev.
@@ -2395,4 +2395,4 @@ For any questions, feel free to contact: <hk844@cornell.edu>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._

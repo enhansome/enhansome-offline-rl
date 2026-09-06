@@ -1141,7 +1141,7 @@
                 "open_issues": 5,
                 "owner": "corl-team",
                 "repo": "CORL",
-                "stars": 657,
+                "stars": 658,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:50.331Z"
@@ -1829,7 +1829,7 @@
             "open_issues": 5,
             "owner": "corl-team",
             "repo": "CORL",
-            "stars": 657,
+            "stars": 658,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:50.331Z"
@@ -2225,7 +2225,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T10:55:57.564Z",
+    "last_updated": "2026-09-06T11:21:57.970Z",
     "original_repository_info": {
       "archived": false,
       "description": "An index of algorithms for offline reinforcement learning (offline-rl)",
