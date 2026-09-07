@@ -591,7 +591,7 @@
                 "open_issues": 40,
                 "owner": "rail-berkeley",
                 "repo": "rlkit",
-                "stars": 2931,
+                "stars": 2932,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:50.331Z"
@@ -825,7 +825,7 @@
                 "open_issues": 1,
                 "owner": "avisingh599",
                 "repo": "cog",
-                "stars": 35,
+                "stars": 34,
                 "topics": [
                   "machine-learning",
                   "reinforcement-learning",
@@ -1073,7 +1073,7 @@
                 "open_issues": 358,
                 "owner": "google-deepmind",
                 "repo": "deepmind-research",
-                "stars": 15181,
+                "stars": 15185,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:50.331Z"
@@ -1094,7 +1094,7 @@
                 "open_issues": 107,
                 "owner": "Farama-Foundation",
                 "repo": "D4RL",
-                "stars": 1702,
+                "stars": 1703,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:50.331Z"
@@ -1308,7 +1308,7 @@
                 "open_issues": 2,
                 "owner": "chongminggao",
                 "repo": "CIRS-codes",
-                "stars": 79,
+                "stars": 78,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:50.331Z"
@@ -1329,7 +1329,7 @@
                 "open_issues": 2,
                 "owner": "decisionforce",
                 "repo": "EGPO",
-                "stars": 53,
+                "stars": 54,
                 "topics": [
                   "autonomous-driving",
                   "machine-learning",
@@ -1408,7 +1408,7 @@
                     "open_issues": 0,
                     "owner": "usaito",
                     "repo": "icml2022-mips",
-                    "stars": 22,
+                    "stars": 21,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:01:50.331Z"
@@ -1708,7 +1708,7 @@
             "open_issues": 358,
             "owner": "google-deepmind",
             "repo": "deepmind-research",
-            "stars": 15181,
+            "stars": 15185,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:50.331Z"
@@ -1755,7 +1755,7 @@
             "open_issues": 107,
             "owner": "Farama-Foundation",
             "repo": "D4RL",
-            "stars": 1702,
+            "stars": 1703,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:50.331Z"
@@ -2225,7 +2225,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T11:21:57.970Z",
+    "last_updated": "2026-09-07T13:02:22.232Z",
     "original_repository_info": {
       "archived": false,
       "description": "An index of algorithms for offline reinforcement learning (offline-rl)",

@@ -85,7 +85,7 @@ For any questions, feel free to contact: <hk844@cornell.edu>
 
 ### Offline RL: Theory/Methods
 
-* [AWAC: Accelerating Online Reinforcement Learning with Offline Datasets](https://arxiv.org/abs/2006.09359) \[[website](https://awacrl.github.io/)] \[[code](https://github.com/vitchyr/rlkit/tree/master/examples/awac) ⭐ 2,931 | 🐛 40 | 🌐 Python | 📅 2024-06-17] \[[blog](https://bair.berkeley.edu/blog/2020/09/10/awac/)]
+* [AWAC: Accelerating Online Reinforcement Learning with Offline Datasets](https://arxiv.org/abs/2006.09359) \[[website](https://awacrl.github.io/)] \[[code](https://github.com/vitchyr/rlkit/tree/master/examples/awac) ⭐ 2,932 | 🐛 40 | 🌐 Python | 📅 2024-06-17] \[[blog](https://bair.berkeley.edu/blog/2020/09/10/awac/)]
   * Ashvin Nair, Abhishek Gupta, Murtaza Dalal, and Sergey Levine. arXiv, 2020.
 * [Conservative Q-Learning for Offline Reinforcement Learning](https://papers.nips.cc/paper/2020/hash/0d2b2061826a5df3221116a5085a6052-Abstract.html) \[[website](https://sites.google.com/view/cql-offline-rl)] \[[code](https://github.com/aviralkumar2907/CQL) ⭐ 491 | 🐛 20 | 🌐 Python | 📅 2021-12-07] \[[blog](https://bair.berkeley.edu/blog/2020/12/07/offline/)]
   * Aviral Kumar, Aurick Zhou, George Tucker, and Sergey Levine. NeurIPS, 2020.
@@ -107,7 +107,7 @@ For any questions, feel free to contact: <hk844@cornell.edu>
   * Haoran Xu, Li Jiang, Jianxiong Li, and Xianyuan Zhan. NeurIPS, 2022.
 * [PLAS: Latent Action Space for Offline Reinforcement Learning](https://arxiv.org/abs/2011.07213) \[[website](https://sites.google.com/view/latent-policy)] \[[code](https://github.com/Wenxuan-Zhou/PLAS) ⭐ 54 | 🐛 1 | 🌐 Python | 📅 2021-10-18]
   * Wenxuan Zhou, Sujay Bajracharya, and David Held. CoRL, 2020.
-* [COG: Connecting New Skills to Past Experience with Offline Reinforcement Learning](https://arxiv.org/abs/2010.14500) \[[website](https://sites.google.com/view/cog-rl)] \[[blog](https://bair.berkeley.edu/blog/2020/12/07/offline/)] \[[code](https://github.com/avisingh599/cog) ⭐ 35 | 🐛 1 | 🌐 Python | 📅 2020-10-28]
+* [COG: Connecting New Skills to Past Experience with Offline Reinforcement Learning](https://arxiv.org/abs/2010.14500) \[[website](https://sites.google.com/view/cog-rl)] \[[blog](https://bair.berkeley.edu/blog/2020/12/07/offline/)] \[[code](https://github.com/avisingh599/cog) ⭐ 34 | 🐛 1 | 🌐 Python | 📅 2020-10-28]
   * Avi Singh, Albert Yu, Jonathan Yang, Jesse Zhang, Aviral Kumar, and Sergey Levine. CoRL, 2020.
 * [Hybrid RL: Using Both Offline and Online Data Can Make RL Efficient](https://arxiv.org/abs/2210.06718) \[[code](https://github.com/yudasong/HyQ) ⭐ 24 | 🐛 0 | 🌐 Python | 📅 2023-02-16]
   * Yuda Song, Yifei Zhou, Ayush Sekhari, J. Andrew Bagnell, Akshay Krishnamurthy, and Wen Sun. ICLR, 2023.
@@ -1320,9 +1320,9 @@ For any questions, feel free to contact: <hk844@cornell.edu>
 
 ### Offline RL: Benchmarks/Experiments
 
-* [RL Unplugged: Benchmarks for Offline Reinforcement Learning](https://arxiv.org/abs/2006.13888) \[[code](https://github.com/deepmind/deepmind-research/tree/master/rl_unplugged) ⭐ 15,181 | 🐛 358 | 🌐 Jupyter Notebook | 📅 2026-06-17] \[[dataset](https://console.cloud.google.com/storage/browser/rl_unplugged?pli=1)]
+* [RL Unplugged: Benchmarks for Offline Reinforcement Learning](https://arxiv.org/abs/2006.13888) \[[code](https://github.com/deepmind/deepmind-research/tree/master/rl_unplugged) ⭐ 15,185 | 🐛 358 | 🌐 Jupyter Notebook | 📅 2026-06-17] \[[dataset](https://console.cloud.google.com/storage/browser/rl_unplugged?pli=1)]
   * Caglar Gulcehre, Ziyu Wang, Alexander Novikov, Tom Le Paine, Sergio Gomez Colmenarejo, Konrad Zolna, Rishabh Agarwal, Josh Merel, Daniel Mankowitz, Cosmin Paduraru, Gabriel Dulac-Arnold, Jerry Li, Mohammad Norouzi, Matt Hoffman, Ofir Nachum, George Tucker, Nicolas Heess, and Nando de Freitas. NeurIPS, 2020.
-* [D4RL: Datasets for Deep Data-Driven Reinforcement Learning](https://arxiv.org/abs/2004.07219) \[[website](https://sites.google.com/view/d4rl/home)] \[[blog](https://bair.berkeley.edu/blog/2020/06/25/D4RL/)] \[[code](https://github.com/rail-berkeley/d4rl) ⭐ 1,702 | 🐛 107 | 🌐 Python | 📅 2024-11-18]
+* [D4RL: Datasets for Deep Data-Driven Reinforcement Learning](https://arxiv.org/abs/2004.07219) \[[website](https://sites.google.com/view/d4rl/home)] \[[blog](https://bair.berkeley.edu/blog/2020/06/25/D4RL/)] \[[code](https://github.com/rail-berkeley/d4rl) ⭐ 1,703 | 🐛 107 | 🌐 Python | 📅 2024-11-18]
   * Justin Fu, Aviral Kumar, Ofir Nachum, George Tucker, and Sergey Levine. arXiv, 2020.
 * [d3rlpy: An Offline Deep Reinforcement Learning Library](https://arxiv.org/abs/2111.03788) \[[software](https://github.com/takuseno/d3rlpy) ⭐ 1,684 | 🐛 58 | 🌐 Python | 📅 2025-09-10]
   * Takuma Seno and Michita Imai. JMLR, 2022.
@@ -1401,9 +1401,9 @@ For any questions, feel free to contact: <hk844@cornell.edu>
 
 * [RL4RS: A Real-World Benchmark for Reinforcement Learning based Recommender System](https://arxiv.org/abs/2110.11073) \[[code](https://github.com/fuxiAIlab/RL4RS) ⭐ 237 | 🐛 7 | 🌐 Python | 📅 2024-02-03] \[[dataset](https://drive.google.com/file/d/1YbPtPyYrMvMGOuqD4oHvK0epDtEhEb9v/view)]
   * Kai Wang, Zhene Zou, Yue Shang, Qilin Deng, Minghao Zhao, Yile Liang, Runze Wu, Jianrong Tao, Xudong Shen, Tangjie Lyu, and Changjie Fan. arXiv, 2021.
-* [CIRS: Bursting Filter Bubbles by Counterfactual Interactive Recommender System](https://arxiv.org/abs/2204.01266) \[[code](https://github.com/chongminggao/CIRS-codes) ⭐ 79 | 🐛 2 | 🌐 Python | 📅 2024-01-02]
+* [CIRS: Bursting Filter Bubbles by Counterfactual Interactive Recommender System](https://arxiv.org/abs/2204.01266) \[[code](https://github.com/chongminggao/CIRS-codes) ⭐ 78 | 🐛 2 | 🌐 Python | 📅 2024-01-02]
   * Chongming Gao, Wenqiang Lei, Jiawei Chen, Shiqi Wang, Xiangnan He, Shijun Li, Biao Li, Yuan Zhang, and Peng Jiang. arXiv, 2022.
-* [Safe Driving via Expert Guided Policy Optimization](https://arxiv.org/abs/2110.06831) \[[website](https://decisionforce.github.io/EGPO/)] \[[code](https://github.com/decisionforce/EGPO) ⭐ 53 | 🐛 2 | 🌐 Python | 📅 2024-04-08]
+* [Safe Driving via Expert Guided Policy Optimization](https://arxiv.org/abs/2110.06831) \[[website](https://decisionforce.github.io/EGPO/)] \[[code](https://github.com/decisionforce/EGPO) ⭐ 54 | 🐛 2 | 🌐 Python | 📅 2024-04-08]
   * Zhenghao Peng, Quanyi Li, Chunxiao Liu, and Bolei Zhou. CoRL, 2021.
 * [Pre-Training for Robots: Offline RL Enables Learning New Tasks from a Handful of Trials](https://arxiv.org/abs/2210.05178) \[[code](https://github.com/Asap7772/PTR) ⭐ 32 | 🐛 1 | 🌐 Python | 📅 2022-10-26]
   * Aviral Kumar, Anikait Singh, Frederik Ebert, Yanlai Yang, Chelsea Finn, and Sergey Levine. arXiv, 2022.
@@ -1658,7 +1658,7 @@ For any questions, feel free to contact: <hk844@cornell.edu>
 
 #### Off-Policy Evaluation: Contextual Bandits
 
-* [Off-Policy Evaluation for Large Action Spaces via Embeddings](https://arxiv.org/abs/2202.06317) \[[code](https://github.com/usaito/icml2022-mips) ⭐ 22 | 🐛 0 | 🌐 Python | 📅 2022-07-27] \[[video](https://youtu.be/Hrqhv-AsMRE)]
+* [Off-Policy Evaluation for Large Action Spaces via Embeddings](https://arxiv.org/abs/2202.06317) \[[code](https://github.com/usaito/icml2022-mips) ⭐ 21 | 🐛 0 | 🌐 Python | 📅 2022-07-27] \[[video](https://youtu.be/Hrqhv-AsMRE)]
   * Yuta Saito and Thorsten Joachims. ICML, 2022.
 * [Optimal Off-Policy Evaluation from Multiple Logging Policies](https://arxiv.org/abs/2010.11002) \[[code](https://github.com/CausalML/MultipleLoggers) ⭐ 15 | 🐛 0 | 🌐 Python | 📅 2021-07-17]
   * Nathan Kallus, Yuta Saito, and Masatoshi Uehara. ICML, 2021.
@@ -2201,11 +2201,11 @@ For any questions, feel free to contact: <hk844@cornell.edu>
 
 ## Open Source Software/Implementations
 
-* [RL Unplugged: Benchmarks for Offline Reinforcement Learning](https://github.com/deepmind/deepmind-research/tree/master/rl_unplugged) ⭐ 15,181 | 🐛 358 | 🌐 Jupyter Notebook | 📅 2026-06-17 \[[paper](https://arxiv.org/abs/2006.13888)] \[[dataset](https://console.cloud.google.com/storage/browser/rl_unplugged?pli=1)]
+* [RL Unplugged: Benchmarks for Offline Reinforcement Learning](https://github.com/deepmind/deepmind-research/tree/master/rl_unplugged) ⭐ 15,185 | 🐛 358 | 🌐 Jupyter Notebook | 📅 2026-06-17 \[[paper](https://arxiv.org/abs/2006.13888)] \[[dataset](https://console.cloud.google.com/storage/browser/rl_unplugged?pli=1)]
   * Caglar Gulcehre, Ziyu Wang, Alexander Novikov, Tom Le Paine, Sergio Gomez Colmenarejo, Konrad Zolna, Rishabh Agarwal, Josh Merel, Daniel Mankowitz, Cosmin Paduraru, Gabriel Dulac-Arnold, Jerry Li, Mohammad Norouzi, Matt Hoffman, Ofir Nachum, George Tucker, Nicolas Heess, and Nando de Freitas.
 * [Minari](https://github.com/Farama-Foundation/Minari) ⭐ 1,774 | 🐛 20 | 🌐 Python | 📅 2026-09-04
   * Farama Foundation.
-* [D4RL: Datasets for Deep Data-Driven Reinforcement Learning](https://github.com/rail-berkeley/d4rl) ⭐ 1,702 | 🐛 107 | 🌐 Python | 📅 2024-11-18 \[[paper](https://arxiv.org/abs/2004.07219)] \[[website](https://sites.google.com/view/d4rl/home)]
+* [D4RL: Datasets for Deep Data-Driven Reinforcement Learning](https://github.com/rail-berkeley/d4rl) ⭐ 1,703 | 🐛 107 | 🌐 Python | 📅 2024-11-18 \[[paper](https://arxiv.org/abs/2004.07219)] \[[website](https://sites.google.com/view/d4rl/home)]
   * Justin Fu, Aviral Kumar, Ofir Nachum, George Tucker, and Sergey Levine.
 * [d3rlpy: An Offline Deep Reinforcement Learning Library](https://github.com/takuseno/d3rlpy) ⭐ 1,684 | 🐛 58 | 🌐 Python | 📅 2025-09-10 \[[paper](https://arxiv.org/abs/2111.03788)] \[[website](https://takuseno.github.io/d3rlpy/)] \[[documentation](https://d3rlpy.readthedocs.io/)]
   * Takuma Seno and Michita Imai.
@@ -2395,4 +2395,4 @@ For any questions, feel free to contact: <hk844@cornell.edu>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
