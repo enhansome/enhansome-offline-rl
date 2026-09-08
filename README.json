@@ -1073,7 +1073,7 @@
                 "open_issues": 358,
                 "owner": "google-deepmind",
                 "repo": "deepmind-research",
-                "stars": 15185,
+                "stars": 15188,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:50.331Z"
@@ -1094,7 +1094,7 @@
                 "open_issues": 107,
                 "owner": "Farama-Foundation",
                 "repo": "D4RL",
-                "stars": 1703,
+                "stars": 1704,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:50.331Z"
@@ -1141,7 +1141,7 @@
                 "open_issues": 5,
                 "owner": "corl-team",
                 "repo": "CORL",
-                "stars": 658,
+                "stars": 659,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:50.331Z"
@@ -1708,7 +1708,7 @@
             "open_issues": 358,
             "owner": "google-deepmind",
             "repo": "deepmind-research",
-            "stars": 15185,
+            "stars": 15188,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:50.331Z"
@@ -1729,7 +1729,7 @@
             "open_issues": 20,
             "owner": "Farama-Foundation",
             "repo": "Minari",
-            "stars": 1774,
+            "stars": 1773,
             "topics": [
               "datasets",
               "gymnasium",
@@ -1755,7 +1755,7 @@
             "open_issues": 107,
             "owner": "Farama-Foundation",
             "repo": "D4RL",
-            "stars": 1703,
+            "stars": 1704,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:50.331Z"
@@ -1829,7 +1829,7 @@
             "open_issues": 5,
             "owner": "corl-team",
             "repo": "CORL",
-            "stars": 658,
+            "stars": 659,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:50.331Z"
@@ -1871,7 +1871,7 @@
             "open_issues": 11,
             "owner": "criteo-research",
             "repo": "reco-gym",
-            "stars": 482,
+            "stars": 483,
             "topics": [
               "criteo",
               "openai-gym",
@@ -2000,7 +2000,7 @@
             "open_issues": 3,
             "owner": "conglu1997",
             "repo": "v-d4rl",
-            "stars": 115,
+            "stars": 116,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:50.331Z"
@@ -2225,7 +2225,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T13:02:22.232Z",
+    "last_updated": "2026-09-08T11:45:05.729Z",
     "original_repository_info": {
       "archived": false,
       "description": "An index of algorithms for offline reinforcement learning (offline-rl)",
