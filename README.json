@@ -1073,7 +1073,7 @@
                 "open_issues": 358,
                 "owner": "google-deepmind",
                 "repo": "deepmind-research",
-                "stars": 15188,
+                "stars": 15190,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:50.331Z"
@@ -1141,7 +1141,7 @@
                 "open_issues": 5,
                 "owner": "corl-team",
                 "repo": "CORL",
-                "stars": 659,
+                "stars": 660,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:50.331Z"
@@ -1287,7 +1287,7 @@
                 "open_issues": 7,
                 "owner": "fuxiAIlab",
                 "repo": "RL4RS",
-                "stars": 237,
+                "stars": 238,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:50.331Z"
@@ -1607,7 +1607,7 @@
                 "open_issues": 33,
                 "owner": "st-tech",
                 "repo": "zr-obp",
-                "stars": 708,
+                "stars": 709,
                 "topics": [
                   "contextual-bandits",
                   "datasets",
@@ -1708,7 +1708,7 @@
             "open_issues": 358,
             "owner": "google-deepmind",
             "repo": "deepmind-research",
-            "stars": 15188,
+            "stars": 15190,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:50.331Z"
@@ -1802,7 +1802,7 @@
             "open_issues": 33,
             "owner": "st-tech",
             "repo": "zr-obp",
-            "stars": 708,
+            "stars": 709,
             "topics": [
               "contextual-bandits",
               "datasets",
@@ -1829,7 +1829,7 @@
             "open_issues": 5,
             "owner": "corl-team",
             "repo": "CORL",
-            "stars": 659,
+            "stars": 660,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:50.331Z"
@@ -1897,7 +1897,7 @@
             "open_issues": 7,
             "owner": "fuxiAIlab",
             "repo": "RL4RS",
-            "stars": 237,
+            "stars": 238,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:50.331Z"
@@ -2225,7 +2225,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T11:45:05.729Z",
+    "last_updated": "2026-09-09T11:53:41.384Z",
     "original_repository_info": {
       "archived": false,
       "description": "An index of algorithms for offline reinforcement learning (offline-rl)",
