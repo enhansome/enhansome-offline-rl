@@ -1073,7 +1073,7 @@
                 "open_issues": 358,
                 "owner": "google-deepmind",
                 "repo": "deepmind-research",
-                "stars": 15192,
+                "stars": 15191,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:50.331Z"
@@ -1112,7 +1112,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-09-10T23:06:16Z",
-                "open_issues": 58,
+                "open_issues": 59,
                 "owner": "takuseno",
                 "repo": "d3rlpy",
                 "stars": 1684,
@@ -1708,7 +1708,7 @@
             "open_issues": 358,
             "owner": "google-deepmind",
             "repo": "deepmind-research",
-            "stars": 15192,
+            "stars": 15191,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:50.331Z"
@@ -1729,7 +1729,7 @@
             "open_issues": 21,
             "owner": "Farama-Foundation",
             "repo": "Minari",
-            "stars": 1773,
+            "stars": 1774,
             "topics": [
               "datasets",
               "gymnasium",
@@ -1773,7 +1773,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2025-09-10T23:06:16Z",
-            "open_issues": 58,
+            "open_issues": 59,
             "owner": "takuseno",
             "repo": "d3rlpy",
             "stars": 1684,
@@ -2225,7 +2225,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T11:51:09.180Z",
+    "last_updated": "2026-09-11T11:49:46.815Z",
     "original_repository_info": {
       "archived": false,
       "description": "An index of algorithms for offline reinforcement learning (offline-rl)",
