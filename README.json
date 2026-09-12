@@ -1073,7 +1073,7 @@
                 "open_issues": 358,
                 "owner": "google-deepmind",
                 "repo": "deepmind-research",
-                "stars": 15191,
+                "stars": 15194,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:50.331Z"
@@ -1115,7 +1115,7 @@
                 "open_issues": 59,
                 "owner": "takuseno",
                 "repo": "d3rlpy",
-                "stars": 1684,
+                "stars": 1685,
                 "topics": [
                   "deep-learning",
                   "deep-reinforcement-learning",
@@ -1141,7 +1141,7 @@
                 "open_issues": 5,
                 "owner": "corl-team",
                 "repo": "CORL",
-                "stars": 661,
+                "stars": 662,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:50.331Z"
@@ -1708,7 +1708,7 @@
             "open_issues": 358,
             "owner": "google-deepmind",
             "repo": "deepmind-research",
-            "stars": 15191,
+            "stars": 15194,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:50.331Z"
@@ -1726,10 +1726,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-04T18:36:02Z",
-            "open_issues": 21,
+            "open_issues": 27,
             "owner": "Farama-Foundation",
             "repo": "Minari",
-            "stars": 1774,
+            "stars": 1773,
             "topics": [
               "datasets",
               "gymnasium",
@@ -1776,7 +1776,7 @@
             "open_issues": 59,
             "owner": "takuseno",
             "repo": "d3rlpy",
-            "stars": 1684,
+            "stars": 1685,
             "topics": [
               "deep-learning",
               "deep-reinforcement-learning",
@@ -1829,7 +1829,7 @@
             "open_issues": 5,
             "owner": "corl-team",
             "repo": "CORL",
-            "stars": 661,
+            "stars": 662,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:50.331Z"
@@ -2225,7 +2225,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T11:49:46.815Z",
+    "last_updated": "2026-09-12T11:16:29.139Z",
     "original_repository_info": {
       "archived": false,
       "description": "An index of algorithms for offline reinforcement learning (offline-rl)",
