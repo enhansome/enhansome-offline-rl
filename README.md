@@ -1320,7 +1320,7 @@ For any questions, feel free to contact: <hk844@cornell.edu>
 
 ### Offline RL: Benchmarks/Experiments
 
-* [RL Unplugged: Benchmarks for Offline Reinforcement Learning](https://arxiv.org/abs/2006.13888) \[[code](https://github.com/deepmind/deepmind-research/tree/master/rl_unplugged) ⭐ 15,196 | 🐛 358 | 🌐 Jupyter Notebook | 📅 2026-06-17] \[[dataset](https://console.cloud.google.com/storage/browser/rl_unplugged?pli=1)]
+* [RL Unplugged: Benchmarks for Offline Reinforcement Learning](https://arxiv.org/abs/2006.13888) \[[code](https://github.com/deepmind/deepmind-research/tree/master/rl_unplugged) ⭐ 15,198 | 🐛 359 | 🌐 Jupyter Notebook | 📅 2026-06-17] \[[dataset](https://console.cloud.google.com/storage/browser/rl_unplugged?pli=1)]
   * Caglar Gulcehre, Ziyu Wang, Alexander Novikov, Tom Le Paine, Sergio Gomez Colmenarejo, Konrad Zolna, Rishabh Agarwal, Josh Merel, Daniel Mankowitz, Cosmin Paduraru, Gabriel Dulac-Arnold, Jerry Li, Mohammad Norouzi, Matt Hoffman, Ofir Nachum, George Tucker, Nicolas Heess, and Nando de Freitas. NeurIPS, 2020.
 * [D4RL: Datasets for Deep Data-Driven Reinforcement Learning](https://arxiv.org/abs/2004.07219) \[[website](https://sites.google.com/view/d4rl/home)] \[[blog](https://bair.berkeley.edu/blog/2020/06/25/D4RL/)] \[[code](https://github.com/rail-berkeley/d4rl) ⭐ 1,705 | 🐛 107 | 🌐 Python | 📅 2024-11-18]
   * Justin Fu, Aviral Kumar, Ofir Nachum, George Tucker, and Sergey Levine. arXiv, 2020.
@@ -2201,9 +2201,9 @@ For any questions, feel free to contact: <hk844@cornell.edu>
 
 ## Open Source Software/Implementations
 
-* [RL Unplugged: Benchmarks for Offline Reinforcement Learning](https://github.com/deepmind/deepmind-research/tree/master/rl_unplugged) ⭐ 15,196 | 🐛 358 | 🌐 Jupyter Notebook | 📅 2026-06-17 \[[paper](https://arxiv.org/abs/2006.13888)] \[[dataset](https://console.cloud.google.com/storage/browser/rl_unplugged?pli=1)]
+* [RL Unplugged: Benchmarks for Offline Reinforcement Learning](https://github.com/deepmind/deepmind-research/tree/master/rl_unplugged) ⭐ 15,198 | 🐛 359 | 🌐 Jupyter Notebook | 📅 2026-06-17 \[[paper](https://arxiv.org/abs/2006.13888)] \[[dataset](https://console.cloud.google.com/storage/browser/rl_unplugged?pli=1)]
   * Caglar Gulcehre, Ziyu Wang, Alexander Novikov, Tom Le Paine, Sergio Gomez Colmenarejo, Konrad Zolna, Rishabh Agarwal, Josh Merel, Daniel Mankowitz, Cosmin Paduraru, Gabriel Dulac-Arnold, Jerry Li, Mohammad Norouzi, Matt Hoffman, Ofir Nachum, George Tucker, Nicolas Heess, and Nando de Freitas.
-* [Minari](https://github.com/Farama-Foundation/Minari) ⭐ 1,773 | 🐛 26 | 🌐 Python | 📅 2026-09-13
+* [Minari](https://github.com/Farama-Foundation/Minari) ⭐ 1,774 | 🐛 26 | 🌐 Python | 📅 2026-09-13
   * Farama Foundation.
 * [D4RL: Datasets for Deep Data-Driven Reinforcement Learning](https://github.com/rail-berkeley/d4rl) ⭐ 1,705 | 🐛 107 | 🌐 Python | 📅 2024-11-18 \[[paper](https://arxiv.org/abs/2004.07219)] \[[website](https://sites.google.com/view/d4rl/home)]
   * Justin Fu, Aviral Kumar, Ofir Nachum, George Tucker, and Sergey Levine.
@@ -2225,7 +2225,7 @@ For any questions, feel free to contact: <hk844@cornell.edu>
   * Haruka Kiyohara, Ren Kishimoto, Kosuke Kawakami, Ken Kobayashi, Kazuhide Nakata, and Yuta Saito.
 * [ExORL: Exploratory Data for Offline Reinforcement Learning](https://github.com/denisyarats/exorl) ⭐ 139 | 🐛 4 | 🌐 Python | 📅 2022-02-08 \[[paper](https://arxiv.org/abs/2201.13425)]
   * Denis Yarats, David Brandfonbrener, Hao Liu, Michael Laskin, Pieter Abbeel, Alessandro Lazaric, and Lerrel Pinto.
-* [V-D4RL: Challenges and Opportunities in Offline Reinforcement Learning from Visual Observations](https://github.com/conglu1997/v-d4rl) ⭐ 116 | 🐛 3 | 🌐 Python | 📅 2026-04-16 \[[paper](https://arxiv.org/abs/2206.04779)}
+* [V-D4RL: Challenges and Opportunities in Offline Reinforcement Learning from Visual Observations](https://github.com/conglu1997/v-d4rl) ⭐ 117 | 🐛 3 | 🌐 Python | 📅 2026-04-16 \[[paper](https://arxiv.org/abs/2206.04779)}
   * Cong Lu, Philip J. Ball, Tim G. J. Rudner, Jack Parker-Holder, Michael A. Osborne, and Yee Whye Teh.
 * [DICE: The DIstribution Correction Estimation Library](https://github.com/google-research/dice_rl) ⭐ 112 | 🐛 9 | 🌐 Python | 📅 2026-07-30 \[[paper](https://arxiv.org/abs/2007.03438)]
   * Ofir Nachum, Yinlam Chow, Bo Dai, Lihong Li, Ruiyi Zhang, Dale Schuurmans.
@@ -2395,4 +2395,4 @@ For any questions, feel free to contact: <hk844@cornell.edu>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._

@@ -1070,10 +1070,10 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
                 "last_commit": "2026-06-17T13:51:27Z",
-                "open_issues": 358,
+                "open_issues": 359,
                 "owner": "google-deepmind",
                 "repo": "deepmind-research",
-                "stars": 15196,
+                "stars": 15198,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:50.331Z"
@@ -1705,10 +1705,10 @@
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
             "last_commit": "2026-06-17T13:51:27Z",
-            "open_issues": 358,
+            "open_issues": 359,
             "owner": "google-deepmind",
             "repo": "deepmind-research",
-            "stars": 15196,
+            "stars": 15198,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:50.331Z"
@@ -1729,7 +1729,7 @@
             "open_issues": 26,
             "owner": "Farama-Foundation",
             "repo": "Minari",
-            "stars": 1773,
+            "stars": 1774,
             "topics": [
               "datasets",
               "gymnasium",
@@ -2000,7 +2000,7 @@
             "open_issues": 3,
             "owner": "conglu1997",
             "repo": "v-d4rl",
-            "stars": 116,
+            "stars": 117,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:50.331Z"
@@ -2225,7 +2225,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T13:22:19.229Z",
+    "last_updated": "2026-09-15T12:09:52.269Z",
     "original_repository_info": {
       "archived": false,
       "description": "An index of algorithms for offline reinforcement learning (offline-rl)",
