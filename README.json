@@ -1073,7 +1073,7 @@
                 "open_issues": 359,
                 "owner": "google-deepmind",
                 "repo": "deepmind-research",
-                "stars": 15201,
+                "stars": 15202,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:50.331Z"
@@ -1708,7 +1708,7 @@
             "open_issues": 359,
             "owner": "google-deepmind",
             "repo": "deepmind-research",
-            "stars": 15201,
+            "stars": 15202,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:50.331Z"
@@ -1729,7 +1729,7 @@
             "open_issues": 26,
             "owner": "Farama-Foundation",
             "repo": "Minari",
-            "stars": 1775,
+            "stars": 1774,
             "topics": [
               "datasets",
               "gymnasium",
@@ -2225,7 +2225,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T12:07:32.004Z",
+    "last_updated": "2026-09-18T11:51:07.833Z",
     "original_repository_info": {
       "archived": false,
       "description": "An index of algorithms for offline reinforcement learning (offline-rl)",
