@@ -1115,7 +1115,7 @@
                 "open_issues": 59,
                 "owner": "takuseno",
                 "repo": "d3rlpy",
-                "stars": 1685,
+                "stars": 1684,
                 "topics": [
                   "deep-learning",
                   "deep-reinforcement-learning",
@@ -1776,7 +1776,7 @@
             "open_issues": 59,
             "owner": "takuseno",
             "repo": "d3rlpy",
-            "stars": 1685,
+            "stars": 1684,
             "topics": [
               "deep-learning",
               "deep-reinforcement-learning",
@@ -2225,7 +2225,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T11:51:07.833Z",
+    "last_updated": "2026-09-19T11:34:34.406Z",
     "original_repository_info": {
       "archived": false,
       "description": "An index of algorithms for offline reinforcement learning (offline-rl)",
