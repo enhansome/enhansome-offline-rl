@@ -612,7 +612,7 @@
                 "open_issues": 21,
                 "owner": "aviralkumar2907",
                 "repo": "CQL",
-                "stars": 491,
+                "stars": 492,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:50.331Z"
@@ -1073,7 +1073,7 @@
                 "open_issues": 359,
                 "owner": "google-deepmind",
                 "repo": "deepmind-research",
-                "stars": 15202,
+                "stars": 15203,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:50.331Z"
@@ -1162,7 +1162,7 @@
                 "open_issues": 7,
                 "owner": "google-research",
                 "repo": "rlds",
-                "stars": 493,
+                "stars": 494,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:50.331Z"
@@ -1708,7 +1708,7 @@
             "open_issues": 359,
             "owner": "google-deepmind",
             "repo": "deepmind-research",
-            "stars": 15202,
+            "stars": 15203,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:50.331Z"
@@ -1850,7 +1850,7 @@
             "open_issues": 7,
             "owner": "google-research",
             "repo": "rlds",
-            "stars": 493,
+            "stars": 494,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:50.331Z"
@@ -2225,7 +2225,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T11:34:34.406Z",
+    "last_updated": "2026-09-20T11:50:16.289Z",
     "original_repository_info": {
       "archived": false,
       "description": "An index of algorithms for offline reinforcement learning (offline-rl)",
