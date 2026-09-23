@@ -696,7 +696,7 @@
                 "open_issues": 9,
                 "owner": "siemens",
                 "repo": "industrialbenchmark",
-                "stars": 148,
+                "stars": 149,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:50.331Z"
@@ -1073,7 +1073,7 @@
                 "open_issues": 359,
                 "owner": "google-deepmind",
                 "repo": "deepmind-research",
-                "stars": 15202,
+                "stars": 15203,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:50.331Z"
@@ -1708,7 +1708,7 @@
             "open_issues": 359,
             "owner": "google-deepmind",
             "repo": "deepmind-research",
-            "stars": 15202,
+            "stars": 15203,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:50.331Z"
@@ -1918,7 +1918,7 @@
             "open_issues": 9,
             "owner": "siemens",
             "repo": "industrialbenchmark",
-            "stars": 148,
+            "stars": 149,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:50.331Z"
@@ -2225,7 +2225,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T12:03:33.553Z",
+    "last_updated": "2026-09-23T12:14:15.366Z",
     "original_repository_info": {
       "archived": false,
       "description": "An index of algorithms for offline reinforcement learning (offline-rl)",
