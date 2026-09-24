@@ -1073,7 +1073,7 @@
                 "open_issues": 359,
                 "owner": "google-deepmind",
                 "repo": "deepmind-research",
-                "stars": 15203,
+                "stars": 15204,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:50.331Z"
@@ -1094,7 +1094,7 @@
                 "open_issues": 107,
                 "owner": "Farama-Foundation",
                 "repo": "D4RL",
-                "stars": 1706,
+                "stars": 1708,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:50.331Z"
@@ -1607,7 +1607,7 @@
                 "open_issues": 33,
                 "owner": "st-tech",
                 "repo": "zr-obp",
-                "stars": 709,
+                "stars": 710,
                 "topics": [
                   "contextual-bandits",
                   "datasets",
@@ -1708,7 +1708,7 @@
             "open_issues": 359,
             "owner": "google-deepmind",
             "repo": "deepmind-research",
-            "stars": 15203,
+            "stars": 15204,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:50.331Z"
@@ -1729,7 +1729,7 @@
             "open_issues": 26,
             "owner": "Farama-Foundation",
             "repo": "Minari",
-            "stars": 1775,
+            "stars": 1776,
             "topics": [
               "datasets",
               "gymnasium",
@@ -1755,7 +1755,7 @@
             "open_issues": 107,
             "owner": "Farama-Foundation",
             "repo": "D4RL",
-            "stars": 1706,
+            "stars": 1708,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:50.331Z"
@@ -1802,7 +1802,7 @@
             "open_issues": 33,
             "owner": "st-tech",
             "repo": "zr-obp",
-            "stars": 709,
+            "stars": 710,
             "topics": [
               "contextual-bandits",
               "datasets",
@@ -2225,7 +2225,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T12:14:15.366Z",
+    "last_updated": "2026-09-24T12:13:58.334Z",
     "original_repository_info": {
       "archived": false,
       "description": "An index of algorithms for offline reinforcement learning (offline-rl)",
