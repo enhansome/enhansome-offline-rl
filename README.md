@@ -101,7 +101,7 @@ For any questions, feel free to contact: <hk844@cornell.edu>
   * Alex X. Lee, Coline Devin, Yuxiang Zhou, Thomas Lampe, Konstantinos Bousmalis, Jost Tobias Springenberg, Arunkumar Byravan, Abbas Abdolmaleki, Nimrod Gileadi, David Khosid, Claudio Fantacci, Jose Enrique Chen, Akhil Raju, Rae Jeong, Michael Neunert, Antoine Laurens, Stefano Saliceti, Federico Casarini, Martin Riedmiller, Raia Hadsell, and Francesco Nori. CoRL, 2022.
 * [Counterfactual Data Augmentation using Locally Factored Dynamics](https://papers.nips.cc/paper/2020/hash/294e09f267683c7ddc6cc5134a7e68a8-Abstract.html) \[[code](https://github.com/spitis/mrl) ⭐ 118 | 🐛 9 | 🌐 Python | 📅 2023-04-28]
   * Silviu Pitis, Elliot Creager, and Animesh Garg. NeurIPS, 2020.
-* [Reinforcement Learning via Fenchel-Rockafellar Duality](https://arxiv.org/abs/2001.01866) \[[software](https://github.com/google-research/dice_rl) ⭐ 112 | 🐛 9 | 🌐 Python | 📅 2026-07-30]
+* [Reinforcement Learning via Fenchel-Rockafellar Duality](https://arxiv.org/abs/2001.01866) \[[software](https://github.com/google-research/dice_rl) ⭐ 113 | 🐛 9 | 🌐 Python | 📅 2026-07-30]
   * Ofir Nachum and Bo Dai. arXiv, 2020.
 * [A Policy-Guided Imitation Approach for Offline Reinforcement Learning](https://arxiv.org/abs/2210.08323) \[[code](https://github.com/ryanxhr/POR) ⭐ 58 | 🐛 0 | 🌐 Python | 📅 2023-04-06]
   * Haoran Xu, Li Jiang, Jianxiong Li, and Xianyuan Zhan. NeurIPS, 2022.
@@ -1789,7 +1789,7 @@ For any questions, feel free to contact: <hk844@cornell.edu>
 
 #### Off-Policy Evaluation: Reinforcement Learning
 
-* [DualDICE: Behavior-Agnostic Estimation of Discounted Stationary Distribution Corrections](https://arxiv.org/abs/1906.04733) \[[software](https://github.com/google-research/dice_rl) ⭐ 112 | 🐛 9 | 🌐 Python | 📅 2026-07-30]
+* [DualDICE: Behavior-Agnostic Estimation of Discounted Stationary Distribution Corrections](https://arxiv.org/abs/1906.04733) \[[software](https://github.com/google-research/dice_rl) ⭐ 113 | 🐛 9 | 🌐 Python | 📅 2026-07-30]
   * Ofir Nachum, Yinlam Chow, Bo Dai, Lihong Li. NeurIPS, 2019.
 * [Batch Policy Learning under Constraints](https://arxiv.org/abs/1903.08738) \[[code](https://github.com/clvoloshin/constrained_batch_policy_learning) ⭐ 27 | 🐛 1 | 🌐 Python | 📅 2019-10-25] \[[website](https://sites.google.com/view/constrained-batch-policy-learn/)]
   * Hoang M. Le, Cameron Voloshin, and Yisong Yue. ICML, 2019.
@@ -2227,7 +2227,7 @@ For any questions, feel free to contact: <hk844@cornell.edu>
   * Denis Yarats, David Brandfonbrener, Hao Liu, Michael Laskin, Pieter Abbeel, Alessandro Lazaric, and Lerrel Pinto.
 * [V-D4RL: Challenges and Opportunities in Offline Reinforcement Learning from Visual Observations](https://github.com/conglu1997/v-d4rl) ⭐ 116 | 🐛 3 | 🌐 Python | 📅 2026-04-16 \[[paper](https://arxiv.org/abs/2206.04779)}
   * Cong Lu, Philip J. Ball, Tim G. J. Rudner, Jack Parker-Holder, Michael A. Osborne, and Yee Whye Teh.
-* [DICE: The DIstribution Correction Estimation Library](https://github.com/google-research/dice_rl) ⭐ 112 | 🐛 9 | 🌐 Python | 📅 2026-07-30 \[[paper](https://arxiv.org/abs/2007.03438)]
+* [DICE: The DIstribution Correction Estimation Library](https://github.com/google-research/dice_rl) ⭐ 113 | 🐛 9 | 🌐 Python | 📅 2026-07-30 \[[paper](https://arxiv.org/abs/2007.03438)]
   * Ofir Nachum, Yinlam Chow, Bo Dai, Lihong Li, Ruiyi Zhang, Dale Schuurmans.
 * [MINERVA: An out-of-the-box GUI tool for data-driven deep reinforcement learning](https://github.com/takuseno/minerva) ⭐ 105 | 🐛 2 | 🌐 JavaScript | 📅 2021-05-29 \[[website](https://takuseno.github.io/minerva/)] \[[documentation](https://minerva-ui.readthedocs.io/en/v0.20/)]
   * Takuma Seno and Michita Imai.
@@ -2395,4 +2395,4 @@ For any questions, feel free to contact: <hk844@cornell.edu>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
