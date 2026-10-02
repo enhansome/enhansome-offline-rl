@@ -1729,7 +1729,7 @@
             "open_issues": 26,
             "owner": "Farama-Foundation",
             "repo": "Minari",
-            "stars": 1775,
+            "stars": 1774,
             "topics": [
               "datasets",
               "gymnasium",
@@ -2225,7 +2225,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T13:55:23.891Z",
+    "last_updated": "2026-10-02T13:12:35.277Z",
     "original_repository_info": {
       "archived": false,
       "description": "An index of algorithms for offline reinforcement learning (offline-rl)",
