@@ -1,576 +1,6 @@
 {
   "items": [
     {
-      "description": "We are looking for more contributors and maintainers! Please feel free to pull requests.\nFor any questions, feel free to contact: hk844@cornell.edu",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Papers",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Review/Survey/Position Papers",
-              "description": null,
-              "children": [
-                {
-                  "node_type": "item",
-                  "title": "Offline RL",
-                  "description": null,
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "An index of algorithms for offline reinforcement learning (offline-rl)",
-                    "homepage": null,
-                    "id": 318522019,
-                    "language": null,
-                    "license": null,
-                    "last_commit": "2024-05-23T03:08:40Z",
-                    "open_issues": 1,
-                    "owner": "hanjuku-kaso",
-                    "repo": "awesome-offline-rl",
-                    "stars": 1079,
-                    "topics": [
-                      "awesome",
-                      "awesome-list",
-                      "off-policy-evaluation",
-                      "offline-rl",
-                      "reinforcement-learning",
-                      "research"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T19:01:50.331Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Off-Policy Evaluation and Learning",
-                  "description": null,
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "An index of algorithms for offline reinforcement learning (offline-rl)",
-                    "homepage": null,
-                    "id": 318522019,
-                    "language": null,
-                    "license": null,
-                    "last_commit": "2024-05-23T03:08:40Z",
-                    "open_issues": 1,
-                    "owner": "hanjuku-kaso",
-                    "repo": "awesome-offline-rl",
-                    "stars": 1079,
-                    "topics": [
-                      "awesome",
-                      "awesome-list",
-                      "off-policy-evaluation",
-                      "offline-rl",
-                      "reinforcement-learning",
-                      "research"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T19:01:50.331Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Related Reviews",
-                  "description": null,
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "An index of algorithms for offline reinforcement learning (offline-rl)",
-                    "homepage": null,
-                    "id": 318522019,
-                    "language": null,
-                    "license": null,
-                    "last_commit": "2024-05-23T03:08:40Z",
-                    "open_issues": 1,
-                    "owner": "hanjuku-kaso",
-                    "repo": "awesome-offline-rl",
-                    "stars": 1079,
-                    "topics": [
-                      "awesome",
-                      "awesome-list",
-                      "off-policy-evaluation",
-                      "offline-rl",
-                      "reinforcement-learning",
-                      "research"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T19:01:50.331Z"
-                }
-              ],
-              "repo_info": {
-                "archived": false,
-                "description": "An index of algorithms for offline reinforcement learning (offline-rl)",
-                "homepage": null,
-                "id": 318522019,
-                "language": null,
-                "license": null,
-                "last_commit": "2024-05-23T03:08:40Z",
-                "open_issues": 1,
-                "owner": "hanjuku-kaso",
-                "repo": "awesome-offline-rl",
-                "stars": 1079,
-                "topics": [
-                  "awesome",
-                  "awesome-list",
-                  "off-policy-evaluation",
-                  "offline-rl",
-                  "reinforcement-learning",
-                  "research"
-                ]
-              },
-              "first_seen": "2026-08-28T19:01:50.331Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Offline RL: Theory/Methods",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "An index of algorithms for offline reinforcement learning (offline-rl)",
-                "homepage": null,
-                "id": 318522019,
-                "language": null,
-                "license": null,
-                "last_commit": "2024-05-23T03:08:40Z",
-                "open_issues": 1,
-                "owner": "hanjuku-kaso",
-                "repo": "awesome-offline-rl",
-                "stars": 1079,
-                "topics": [
-                  "awesome",
-                  "awesome-list",
-                  "off-policy-evaluation",
-                  "offline-rl",
-                  "reinforcement-learning",
-                  "research"
-                ]
-              },
-              "first_seen": "2026-08-28T19:01:50.331Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Offline RL: Benchmarks/Experiments",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "An index of algorithms for offline reinforcement learning (offline-rl)",
-                "homepage": null,
-                "id": 318522019,
-                "language": null,
-                "license": null,
-                "last_commit": "2024-05-23T03:08:40Z",
-                "open_issues": 1,
-                "owner": "hanjuku-kaso",
-                "repo": "awesome-offline-rl",
-                "stars": 1079,
-                "topics": [
-                  "awesome",
-                  "awesome-list",
-                  "off-policy-evaluation",
-                  "offline-rl",
-                  "reinforcement-learning",
-                  "research"
-                ]
-              },
-              "first_seen": "2026-08-28T19:01:50.331Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Offline RL: Applications",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "An index of algorithms for offline reinforcement learning (offline-rl)",
-                "homepage": null,
-                "id": 318522019,
-                "language": null,
-                "license": null,
-                "last_commit": "2024-05-23T03:08:40Z",
-                "open_issues": 1,
-                "owner": "hanjuku-kaso",
-                "repo": "awesome-offline-rl",
-                "stars": 1079,
-                "topics": [
-                  "awesome",
-                  "awesome-list",
-                  "off-policy-evaluation",
-                  "offline-rl",
-                  "reinforcement-learning",
-                  "research"
-                ]
-              },
-              "first_seen": "2026-08-28T19:01:50.331Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Off-Policy Evaluation and Learning: Theory/Methods",
-              "description": null,
-              "children": [
-                {
-                  "node_type": "item",
-                  "title": "Off-Policy Evaluation: Contextual Bandits",
-                  "description": null,
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "An index of algorithms for offline reinforcement learning (offline-rl)",
-                    "homepage": null,
-                    "id": 318522019,
-                    "language": null,
-                    "license": null,
-                    "last_commit": "2024-05-23T03:08:40Z",
-                    "open_issues": 1,
-                    "owner": "hanjuku-kaso",
-                    "repo": "awesome-offline-rl",
-                    "stars": 1079,
-                    "topics": [
-                      "awesome",
-                      "awesome-list",
-                      "off-policy-evaluation",
-                      "offline-rl",
-                      "reinforcement-learning",
-                      "research"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T19:01:50.331Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Off-Policy Evaluation: Reinforcement Learning",
-                  "description": null,
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "An index of algorithms for offline reinforcement learning (offline-rl)",
-                    "homepage": null,
-                    "id": 318522019,
-                    "language": null,
-                    "license": null,
-                    "last_commit": "2024-05-23T03:08:40Z",
-                    "open_issues": 1,
-                    "owner": "hanjuku-kaso",
-                    "repo": "awesome-offline-rl",
-                    "stars": 1079,
-                    "topics": [
-                      "awesome",
-                      "awesome-list",
-                      "off-policy-evaluation",
-                      "offline-rl",
-                      "reinforcement-learning",
-                      "research"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T19:01:50.331Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Off-Policy Learning",
-                  "description": null,
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "An index of algorithms for offline reinforcement learning (offline-rl)",
-                    "homepage": null,
-                    "id": 318522019,
-                    "language": null,
-                    "license": null,
-                    "last_commit": "2024-05-23T03:08:40Z",
-                    "open_issues": 1,
-                    "owner": "hanjuku-kaso",
-                    "repo": "awesome-offline-rl",
-                    "stars": 1079,
-                    "topics": [
-                      "awesome",
-                      "awesome-list",
-                      "off-policy-evaluation",
-                      "offline-rl",
-                      "reinforcement-learning",
-                      "research"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T19:01:50.331Z"
-                }
-              ],
-              "repo_info": {
-                "archived": false,
-                "description": "An index of algorithms for offline reinforcement learning (offline-rl)",
-                "homepage": null,
-                "id": 318522019,
-                "language": null,
-                "license": null,
-                "last_commit": "2024-05-23T03:08:40Z",
-                "open_issues": 1,
-                "owner": "hanjuku-kaso",
-                "repo": "awesome-offline-rl",
-                "stars": 1079,
-                "topics": [
-                  "awesome",
-                  "awesome-list",
-                  "off-policy-evaluation",
-                  "offline-rl",
-                  "reinforcement-learning",
-                  "research"
-                ]
-              },
-              "first_seen": "2026-08-28T19:01:50.331Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Off-Policy Evaluation and Learning: Benchmarks/Experiments",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "An index of algorithms for offline reinforcement learning (offline-rl)",
-                "homepage": null,
-                "id": 318522019,
-                "language": null,
-                "license": null,
-                "last_commit": "2024-05-23T03:08:40Z",
-                "open_issues": 1,
-                "owner": "hanjuku-kaso",
-                "repo": "awesome-offline-rl",
-                "stars": 1079,
-                "topics": [
-                  "awesome",
-                  "awesome-list",
-                  "off-policy-evaluation",
-                  "offline-rl",
-                  "reinforcement-learning",
-                  "research"
-                ]
-              },
-              "first_seen": "2026-08-28T19:01:50.331Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Off-Policy Evaluation and Learning: Applications",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "An index of algorithms for offline reinforcement learning (offline-rl)",
-                "homepage": null,
-                "id": 318522019,
-                "language": null,
-                "license": null,
-                "last_commit": "2024-05-23T03:08:40Z",
-                "open_issues": 1,
-                "owner": "hanjuku-kaso",
-                "repo": "awesome-offline-rl",
-                "stars": 1079,
-                "topics": [
-                  "awesome",
-                  "awesome-list",
-                  "off-policy-evaluation",
-                  "offline-rl",
-                  "reinforcement-learning",
-                  "research"
-                ]
-              },
-              "first_seen": "2026-08-28T19:01:50.331Z"
-            }
-          ],
-          "repo_info": {
-            "archived": false,
-            "description": "An index of algorithms for offline reinforcement learning (offline-rl)",
-            "homepage": null,
-            "id": 318522019,
-            "language": null,
-            "license": null,
-            "last_commit": "2024-05-23T03:08:40Z",
-            "open_issues": 1,
-            "owner": "hanjuku-kaso",
-            "repo": "awesome-offline-rl",
-            "stars": 1079,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "off-policy-evaluation",
-              "offline-rl",
-              "reinforcement-learning",
-              "research"
-            ]
-          },
-          "first_seen": "2026-08-28T19:01:50.331Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Open Source Software/Implementations",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "An index of algorithms for offline reinforcement learning (offline-rl)",
-            "homepage": null,
-            "id": 318522019,
-            "language": null,
-            "license": null,
-            "last_commit": "2024-05-23T03:08:40Z",
-            "open_issues": 1,
-            "owner": "hanjuku-kaso",
-            "repo": "awesome-offline-rl",
-            "stars": 1079,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "off-policy-evaluation",
-              "offline-rl",
-              "reinforcement-learning",
-              "research"
-            ]
-          },
-          "first_seen": "2026-08-28T19:01:50.331Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Blog/Podcast",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Blog",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "An index of algorithms for offline reinforcement learning (offline-rl)",
-                "homepage": null,
-                "id": 318522019,
-                "language": null,
-                "license": null,
-                "last_commit": "2024-05-23T03:08:40Z",
-                "open_issues": 1,
-                "owner": "hanjuku-kaso",
-                "repo": "awesome-offline-rl",
-                "stars": 1079,
-                "topics": [
-                  "awesome",
-                  "awesome-list",
-                  "off-policy-evaluation",
-                  "offline-rl",
-                  "reinforcement-learning",
-                  "research"
-                ]
-              },
-              "first_seen": "2026-08-28T19:01:50.331Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Podcast",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "An index of algorithms for offline reinforcement learning (offline-rl)",
-                "homepage": null,
-                "id": 318522019,
-                "language": null,
-                "license": null,
-                "last_commit": "2024-05-23T03:08:40Z",
-                "open_issues": 1,
-                "owner": "hanjuku-kaso",
-                "repo": "awesome-offline-rl",
-                "stars": 1079,
-                "topics": [
-                  "awesome",
-                  "awesome-list",
-                  "off-policy-evaluation",
-                  "offline-rl",
-                  "reinforcement-learning",
-                  "research"
-                ]
-              },
-              "first_seen": "2026-08-28T19:01:50.331Z"
-            }
-          ],
-          "repo_info": {
-            "archived": false,
-            "description": "An index of algorithms for offline reinforcement learning (offline-rl)",
-            "homepage": null,
-            "id": 318522019,
-            "language": null,
-            "license": null,
-            "last_commit": "2024-05-23T03:08:40Z",
-            "open_issues": 1,
-            "owner": "hanjuku-kaso",
-            "repo": "awesome-offline-rl",
-            "stars": 1079,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "off-policy-evaluation",
-              "offline-rl",
-              "reinforcement-learning",
-              "research"
-            ]
-          },
-          "first_seen": "2026-08-28T19:01:50.331Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Related Workshops",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "An index of algorithms for offline reinforcement learning (offline-rl)",
-            "homepage": null,
-            "id": 318522019,
-            "language": null,
-            "license": null,
-            "last_commit": "2024-05-23T03:08:40Z",
-            "open_issues": 1,
-            "owner": "hanjuku-kaso",
-            "repo": "awesome-offline-rl",
-            "stars": 1079,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "off-policy-evaluation",
-              "offline-rl",
-              "reinforcement-learning",
-              "research"
-            ]
-          },
-          "first_seen": "2026-08-28T19:01:50.331Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Tutorials/Talks/Lectures",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "An index of algorithms for offline reinforcement learning (offline-rl)",
-            "homepage": null,
-            "id": 318522019,
-            "language": null,
-            "license": null,
-            "last_commit": "2024-05-23T03:08:40Z",
-            "open_issues": 1,
-            "owner": "hanjuku-kaso",
-            "repo": "awesome-offline-rl",
-            "stars": 1079,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "off-policy-evaluation",
-              "offline-rl",
-              "reinforcement-learning",
-              "research"
-            ]
-          },
-          "first_seen": "2026-08-28T19:01:50.331Z"
-        }
-      ],
-      "title": "Overview"
-    },
-    {
       "description": null,
       "items": [
         {
@@ -620,7 +50,7 @@
             {
               "node_type": "item",
               "title": "MOPO: Model-based Offline Policy Optimization",
-              "description": "[code]",
+              "description": "tianheyu927/mopo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -725,7 +155,7 @@
             {
               "node_type": "item",
               "title": "Counterfactual Data Augmentation using Locally Factored Dynamics",
-              "description": "[code]",
+              "description": "spitis/mrl",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -767,7 +197,7 @@
             {
               "node_type": "item",
               "title": "A Policy-Guided Imitation Approach for Offline Reinforcement Learning",
-              "description": "[code]",
+              "description": "ryanxhr/POR",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -837,7 +267,7 @@
             {
               "node_type": "item",
               "title": "Hybrid RL: Using Both Offline and Online Data Can Make RL Efficient",
-              "description": "[code]",
+              "description": "yudasong/HyQ",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -885,7 +315,7 @@
             {
               "node_type": "item",
               "title": "ConserWeightive Behavioral Cloning for Reliable Offline Reinforcement Learning",
-              "description": "[code]",
+              "description": "tung-nd/cwbc",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -906,7 +336,7 @@
             {
               "node_type": "item",
               "title": "Reinforcement Learning in Possibly Nonstationary Environments",
-              "description": "[code]",
+              "description": "limengbinggz/CUSUM-RL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -927,7 +357,7 @@
             {
               "node_type": "item",
               "title": "Goal-conditioned Batch Reinforcement Learning for Rotation Invariant Locomotion",
-              "description": "[code]",
+              "description": "aditimavalankar/gc-batch-rl-locomotion",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -969,7 +399,7 @@
             {
               "node_type": "item",
               "title": "Offline RL With Resource Constrained Online Deployment",
-              "description": "[code]",
+              "description": "JayanthRR/RC-OfflineRL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1011,7 +441,7 @@
             {
               "node_type": "item",
               "title": "BRPO: Batch Residual Policy Optimization",
-              "description": "[code]",
+              "description": "eladsar/rbi",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1032,7 +462,7 @@
             {
               "node_type": "item",
               "title": "Efficient Evaluation of Natural Stochastic Policies in Offline Reinforcement Learning",
-              "description": "[code]",
+              "description": "CausalML/NaturalStochasticOPE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1128,7 +558,7 @@
             {
               "node_type": "item",
               "title": "CORL: Research-oriented Deep Offline Reinforcement Learning Library",
-              "description": "[code]",
+              "description": "corl-team/CORL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1149,7 +579,7 @@
             {
               "node_type": "item",
               "title": "RLDS: an Ecosystem to Generate, Share and Use Datasets in Reinforcement Learning",
-              "description": "[code]",
+              "description": "google-research/rlds",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1170,7 +600,7 @@
             {
               "node_type": "item",
               "title": "Don't Change the Algorithm, Change the Data: Exploratory Data for Offline Reinforcement Learning",
-              "description": "[code]",
+              "description": "denisyarats/exorl",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1204,7 +634,7 @@
             {
               "node_type": "item",
               "title": "Understanding the Effects of Dataset Characteristics on Offline Reinforcement Learning",
-              "description": "[code]",
+              "description": "ml-jku/OfflineRL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1246,7 +676,7 @@
             {
               "node_type": "item",
               "title": "Offline Equilibrium Finding",
-              "description": "[code]",
+              "description": "ShuxinLi-Info/oef",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1295,7 +725,7 @@
             {
               "node_type": "item",
               "title": "CIRS: Bursting Filter Bubbles by Counterfactual Interactive Recommender System",
-              "description": "[code]",
+              "description": "chongminggao/CIRS-codes",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1341,7 +771,7 @@
             {
               "node_type": "item",
               "title": "Pre-Training for Robots: Offline RL Enables Learning New Tasks from a Handful of Trials",
-              "description": "[code]",
+              "description": "Asap7772/PTR",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1365,7 +795,7 @@
             {
               "node_type": "item",
               "title": "Offline Reinforcement Learning for Safer Blood Glucose Control in People with Type 1 Diabetes",
-              "description": "[code]",
+              "description": "hemerson1/offline-glucose",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1416,7 +846,7 @@
                 {
                   "node_type": "item",
                   "title": "Optimal Off-Policy Evaluation from Multiple Logging Policies",
-                  "description": "[code]",
+                  "description": "CausalML/MultipleLoggers",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1437,7 +867,7 @@
                 {
                   "node_type": "item",
                   "title": "Doubly Robust Off-Policy Evaluation for Ranking Policies under the Cascade Behavior Model",
-                  "description": "[code]",
+                  "description": "aiueola/wsdm2022-cascade-dr",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1512,7 +942,7 @@
                 {
                   "node_type": "item",
                   "title": "A Multi-Agent Reinforcement Learning Framework for Off-Policy Evaluation in Two-sided Markets",
-                  "description": "[code]",
+                  "description": "RunzheStat/CausalMARL",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1533,7 +963,7 @@
                 {
                   "node_type": "item",
                   "title": "Revisiting Bellman Errors for Offline Model Selection",
-                  "description": "[code]",
+                  "description": "jzitovsky/SBV",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1561,7 +991,7 @@
                 {
                   "node_type": "item",
                   "title": "Efficient Policy Learning from Surrogate-Loss Classification Reductions",
-                  "description": "[code]",
+                  "description": "CausalML/ESPRM",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1621,7 +1051,7 @@
             {
               "node_type": "item",
               "title": "Benchmarks for Deep Off-Policy Evaluation",
-              "description": "[code]",
+              "description": "google-research/deep_ope",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1642,7 +1072,7 @@
             {
               "node_type": "item",
               "title": "Empirical Study of Off-Policy Policy Evaluation for Reinforcement Learning",
-              "description": "[code]",
+              "description": "clvoloshin/COBS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1716,7 +1146,7 @@
         {
           "node_type": "item",
           "title": "Minari",
-          "description": null,
+          "description": "Farama-Foundation/Minari",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1816,7 +1246,7 @@
         {
           "node_type": "item",
           "title": "CORL: Clean Offline Reinforcement Learning",
-          "description": "[paper]",
+          "description": "corl-team/CORL",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1837,7 +1267,7 @@
         {
           "node_type": "item",
           "title": "RLDS: Reinforcement Learning Datasets",
-          "description": "[paper]",
+          "description": "google-research/rlds",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1858,7 +1288,7 @@
         {
           "node_type": "item",
           "title": "RecoGym: A Reinforcement Learning Environment for the problem of Product Recommendation in Online Advertising",
-          "description": "[paper]",
+          "description": "criteo-research/reco-gym",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1905,7 +1335,7 @@
         {
           "node_type": "item",
           "title": "The Industrial Benchmark Offline RL Datasets",
-          "description": "[paper]",
+          "description": "siemens/industrialbenchmark",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1953,7 +1383,7 @@
         {
           "node_type": "item",
           "title": "ExORL: Exploratory Data for Offline Reinforcement Learning",
-          "description": "[paper]",
+          "description": "denisyarats/exorl",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2008,7 +1438,7 @@
         {
           "node_type": "item",
           "title": "DICE: The DIstribution Correction Estimation Library",
-          "description": "[paper]",
+          "description": "google-research/dice_rl",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2055,7 +1485,7 @@
         {
           "node_type": "item",
           "title": "Benchmarks for Deep Off-Policy Evaluation",
-          "description": "[paper]",
+          "description": "google-research/deep_ope",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -2076,7 +1506,7 @@
         {
           "node_type": "item",
           "title": "COBS: Caltech OPE Benchmarking Suite",
-          "description": "[paper]",
+          "description": "clvoloshin/COBS",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2118,7 +1548,7 @@
         {
           "node_type": "item",
           "title": "pyIEOE: Towards An Interpretable Evaluation for Offline Evaluation",
-          "description": "[paper]",
+          "description": "sony/pyIEOE",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2139,7 +1569,7 @@
         {
           "node_type": "item",
           "title": "A Reinforcement Learning-based Volt-VAR Control Dataset",
-          "description": "[paper]",
+          "description": "yg-smile/RL_VVC_dataset",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2160,7 +1590,7 @@
         {
           "node_type": "item",
           "title": "Benchmarking Offline Reinforcement Learning on Real-Robot Hardware",
-          "description": "[paper]",
+          "description": "rr-learning/trifinger_rl_datasets",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2181,7 +1611,7 @@
         {
           "node_type": "item",
           "title": "ARLO: A Framework for Automated Reinforcement Learning",
-          "description": "[paper]",
+          "description": "arlo-lib/ARLO",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2202,7 +1632,7 @@
         {
           "node_type": "item",
           "title": "OEF: Offline Equilibrium Finding",
-          "description": "[paper]",
+          "description": "ShuxinLi-Info/oef",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2225,7 +1655,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T13:12:35.277Z",
+    "last_updated": "2026-10-03T05:00:33.706Z",
     "original_repository_info": {
       "archived": false,
       "description": "An index of algorithms for offline reinforcement learning (offline-rl)",

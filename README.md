@@ -19,26 +19,26 @@ For any questions, feel free to contact: <hk844@cornell.edu>
 
 ## Table of Contents
 
-* [Papers](https://github.com/hanjuku-kaso/awesome-offline-rl/tree/main#papers) ⭐ 1,079 | 🐛 1 | 📅 2024-05-23
-  * [Review/Survey/Position Papers](https://github.com/hanjuku-kaso/awesome-offline-rl/tree/main#reviewsurveyposition-papers) ⭐ 1,079 | 🐛 1 | 📅 2024-05-23
-    * [Offline RL](https://github.com/hanjuku-kaso/awesome-offline-rl/tree/main#offline-rl) ⭐ 1,079 | 🐛 1 | 📅 2024-05-23
-    * [Off-Policy Evaluation and Learning](https://github.com/hanjuku-kaso/awesome-offline-rl/tree/main#off-policy-evaluation-and-learning) ⭐ 1,079 | 🐛 1 | 📅 2024-05-23
-    * [Related Reviews](https://github.com/hanjuku-kaso/awesome-offline-rl/tree/main#related-reviews) ⭐ 1,079 | 🐛 1 | 📅 2024-05-23
-  * [Offline RL: Theory/Methods](https://github.com/hanjuku-kaso/awesome-offline-rl/tree/main#offline-rl-theorymethods) ⭐ 1,079 | 🐛 1 | 📅 2024-05-23
-  * [Offline RL: Benchmarks/Experiments](https://github.com/hanjuku-kaso/awesome-offline-rl/tree/main#offline-rl-benchmarksexperiments) ⭐ 1,079 | 🐛 1 | 📅 2024-05-23
-  * [Offline RL: Applications](https://github.com/hanjuku-kaso/awesome-offline-rl/tree/main#offline-rl-applications) ⭐ 1,079 | 🐛 1 | 📅 2024-05-23
-  * [Off-Policy Evaluation and Learning: Theory/Methods](https://github.com/hanjuku-kaso/awesome-offline-rl#off-policy-evaluation-and-learning-theorymethods) ⭐ 1,079 | 🐛 1 | 📅 2024-05-23
-    * [Off-Policy Evaluation: Contextual Bandits](https://github.com/hanjuku-kaso/awesome-offline-rl/tree/main#off-policy-evaluation-contextual-bandits) ⭐ 1,079 | 🐛 1 | 📅 2024-05-23
-    * [Off-Policy Evaluation: Reinforcement Learning](https://github.com/hanjuku-kaso/awesome-offline-rl/tree/main#off-policy-evaluation-reinforcement-learning) ⭐ 1,079 | 🐛 1 | 📅 2024-05-23
-    * [Off-Policy Learning](https://github.com/hanjuku-kaso/awesome-offline-rl/tree/main#off-policy-learning) ⭐ 1,079 | 🐛 1 | 📅 2024-05-23
-  * [Off-Policy Evaluation and Learning: Benchmarks/Experiments](https://github.com/hanjuku-kaso/awesome-offline-rl#off-policy-evaluation-and-learning-benchmarksexperiments) ⭐ 1,079 | 🐛 1 | 📅 2024-05-23
-  * [Off-Policy Evaluation and Learning: Applications](https://github.com/hanjuku-kaso/awesome-offline-rl#off-policy-evaluation-and-learning-applications) ⭐ 1,079 | 🐛 1 | 📅 2024-05-23
-* [Open Source Software/Implementations](https://github.com/hanjuku-kaso/awesome-offline-rl/tree/main#open-source-softwareimplementations) ⭐ 1,079 | 🐛 1 | 📅 2024-05-23
-* [Blog/Podcast](https://github.com/hanjuku-kaso/awesome-offline-rl/tree/main#blogpodcast) ⭐ 1,079 | 🐛 1 | 📅 2024-05-23
-  * [Blog](https://github.com/hanjuku-kaso/awesome-offline-rl/tree/main#blog) ⭐ 1,079 | 🐛 1 | 📅 2024-05-23
-  * [Podcast](https://github.com/hanjuku-kaso/awesome-offline-rl/tree/main#podcast) ⭐ 1,079 | 🐛 1 | 📅 2024-05-23
-* [Related Workshops](https://github.com/hanjuku-kaso/awesome-offline-rl/tree/main#related-workshops) ⭐ 1,079 | 🐛 1 | 📅 2024-05-23
-* [Tutorials/Talks/Lectures](https://github.com/hanjuku-kaso/awesome-offline-rl/tree/main#tutorialstalkslectures) ⭐ 1,079 | 🐛 1 | 📅 2024-05-23
+* [Papers](https://github.com/hanjuku-kaso/awesome-offline-rl/tree/main#papers)
+  * [Review/Survey/Position Papers](https://github.com/hanjuku-kaso/awesome-offline-rl/tree/main#reviewsurveyposition-papers)
+    * [Offline RL](https://github.com/hanjuku-kaso/awesome-offline-rl/tree/main#offline-rl)
+    * [Off-Policy Evaluation and Learning](https://github.com/hanjuku-kaso/awesome-offline-rl/tree/main#off-policy-evaluation-and-learning)
+    * [Related Reviews](https://github.com/hanjuku-kaso/awesome-offline-rl/tree/main#related-reviews)
+  * [Offline RL: Theory/Methods](https://github.com/hanjuku-kaso/awesome-offline-rl/tree/main#offline-rl-theorymethods)
+  * [Offline RL: Benchmarks/Experiments](https://github.com/hanjuku-kaso/awesome-offline-rl/tree/main#offline-rl-benchmarksexperiments)
+  * [Offline RL: Applications](https://github.com/hanjuku-kaso/awesome-offline-rl/tree/main#offline-rl-applications)
+  * [Off-Policy Evaluation and Learning: Theory/Methods](https://github.com/hanjuku-kaso/awesome-offline-rl#off-policy-evaluation-and-learning-theorymethods)
+    * [Off-Policy Evaluation: Contextual Bandits](https://github.com/hanjuku-kaso/awesome-offline-rl/tree/main#off-policy-evaluation-contextual-bandits)
+    * [Off-Policy Evaluation: Reinforcement Learning](https://github.com/hanjuku-kaso/awesome-offline-rl/tree/main#off-policy-evaluation-reinforcement-learning)
+    * [Off-Policy Learning](https://github.com/hanjuku-kaso/awesome-offline-rl/tree/main#off-policy-learning)
+  * [Off-Policy Evaluation and Learning: Benchmarks/Experiments](https://github.com/hanjuku-kaso/awesome-offline-rl#off-policy-evaluation-and-learning-benchmarksexperiments)
+  * [Off-Policy Evaluation and Learning: Applications](https://github.com/hanjuku-kaso/awesome-offline-rl#off-policy-evaluation-and-learning-applications)
+* [Open Source Software/Implementations](https://github.com/hanjuku-kaso/awesome-offline-rl/tree/main#open-source-softwareimplementations)
+* [Blog/Podcast](https://github.com/hanjuku-kaso/awesome-offline-rl/tree/main#blogpodcast)
+  * [Blog](https://github.com/hanjuku-kaso/awesome-offline-rl/tree/main#blog)
+  * [Podcast](https://github.com/hanjuku-kaso/awesome-offline-rl/tree/main#podcast)
+* [Related Workshops](https://github.com/hanjuku-kaso/awesome-offline-rl/tree/main#related-workshops)
+* [Tutorials/Talks/Lectures](https://github.com/hanjuku-kaso/awesome-offline-rl/tree/main#tutorialstalkslectures)
 
 ## Papers
 
@@ -2395,4 +2395,4 @@ For any questions, feel free to contact: <hk844@cornell.edu>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
