@@ -613,7 +613,7 @@
                 "open_issues": 4,
                 "owner": "denisyarats",
                 "repo": "exorl",
-                "stars": 139,
+                "stars": 140,
                 "topics": [
                   "control",
                   "datasets",
@@ -1396,7 +1396,7 @@
             "open_issues": 4,
             "owner": "denisyarats",
             "repo": "exorl",
-            "stars": 139,
+            "stars": 140,
             "topics": [
               "control",
               "datasets",
@@ -1655,7 +1655,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T12:03:12.470Z",
+    "last_updated": "2026-10-04T12:52:12.461Z",
     "original_repository_info": {
       "archived": false,
       "description": "An index of algorithms for offline reinforcement learning (offline-rl)",

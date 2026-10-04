@@ -1330,7 +1330,7 @@ For any questions, feel free to contact: <hk844@cornell.edu>
   * Denis Tarasov, Alexander Nikulin, Dmitry Akimov, Vladislav Kurenkov, and Sergey Kolesnikov. NeurIPS, 2023.
 * [RLDS: an Ecosystem to Generate, Share and Use Datasets in Reinforcement Learning](https://arxiv.org/abs/2111.02767) \[[code](https://github.com/google-research/rlds) ⚠️ Archived]
   * Sabela Ramos, Sertan Girgin, Léonard Hussenot, Damien Vincent, Hanna Yakubovich, Daniel Toyama, Anita Gergely, Piotr Stanczyk, Raphael Marinier, Jeremiah Harmsen, Olivier Pietquin, and Nikola Momchev. NeurIPS, 2021.
-* [Don't Change the Algorithm, Change the Data: Exploratory Data for Offline Reinforcement Learning](https://arxiv.org/abs/2201.13425) \[[code](https://github.com/denisyarats/exorl) ⭐ 139 | 🐛 4 | 🌐 Python | 📅 2022-02-08]
+* [Don't Change the Algorithm, Change the Data: Exploratory Data for Offline Reinforcement Learning](https://arxiv.org/abs/2201.13425) \[[code](https://github.com/denisyarats/exorl) ⭐ 140 | 🐛 4 | 🌐 Python | 📅 2022-02-08]
   * Denis Yarats, David Brandfonbrener, Hao Liu, Michael Laskin, Pieter Abbeel, Alessandro Lazaric, and Lerrel Pinto. arXiv, 2022.
 * [Understanding the Effects of Dataset Characteristics on Offline Reinforcement Learning](https://arxiv.org/abs/2111.04714) \[[code](https://github.com/ml-jku/OfflineRL) ⭐ 31 | 🐛 1 | 🌐 Python | 📅 2023-01-16]
   * Kajetan Schweighofer, Markus Hofmarcher, Marius-Constantin Dinu, Philipp Renz, Angela Bitto-Nemling, Vihang Patil, and Sepp Hochreiter. arXiv, 2021.
@@ -2223,7 +2223,7 @@ For any questions, feel free to contact: <hk844@cornell.edu>
   * Phillip Swazinna, Steffen Udluft, and Thomas Runkler.
 * [SCOPE-RL: A Python library for offline reinforcement learning, off-policy evaluation, and selection](https://github.com/hakuhodo-technologies/scope-rl) ⭐ 143 | 🐛 9 | 🌐 Python | 📅 2024-03-18 \[[paper1](https://arxiv.org/abs/2311.18206)] \[[paper2](https://arxiv.org/abs/2311.18207)] \[[documentation](https://scope-rl.readthedocs.io/en/latest/)]
   * Haruka Kiyohara, Ren Kishimoto, Kosuke Kawakami, Ken Kobayashi, Kazuhide Nakata, and Yuta Saito.
-* [ExORL: Exploratory Data for Offline Reinforcement Learning](https://github.com/denisyarats/exorl) ⭐ 139 | 🐛 4 | 🌐 Python | 📅 2022-02-08 \[[paper](https://arxiv.org/abs/2201.13425)]
+* [ExORL: Exploratory Data for Offline Reinforcement Learning](https://github.com/denisyarats/exorl) ⭐ 140 | 🐛 4 | 🌐 Python | 📅 2022-02-08 \[[paper](https://arxiv.org/abs/2201.13425)]
   * Denis Yarats, David Brandfonbrener, Hao Liu, Michael Laskin, Pieter Abbeel, Alessandro Lazaric, and Lerrel Pinto.
 * [V-D4RL: Challenges and Opportunities in Offline Reinforcement Learning from Visual Observations](https://github.com/conglu1997/v-d4rl) ⭐ 116 | 🐛 3 | 🌐 Python | 📅 2026-04-16 \[[paper](https://arxiv.org/abs/2206.04779)}
   * Cong Lu, Philip J. Ball, Tim G. J. Rudner, Jack Parker-Holder, Michael A. Osborne, and Yee Whye Teh.
@@ -2395,4 +2395,4 @@ For any questions, feel free to contact: <hk844@cornell.edu>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
