@@ -503,7 +503,7 @@
                 "open_issues": 359,
                 "owner": "google-deepmind",
                 "repo": "deepmind-research",
-                "stars": 15217,
+                "stars": 15219,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:50.331Z"
@@ -542,7 +542,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-09-10T23:06:16Z",
-                "open_issues": 59,
+                "open_issues": 60,
                 "owner": "takuseno",
                 "repo": "d3rlpy",
                 "stars": 1683,
@@ -668,7 +668,7 @@
                 "open_issues": 0,
                 "owner": "rr-learning",
                 "repo": "trifinger_rl_datasets",
-                "stars": 17,
+                "stars": 18,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:50.331Z"
@@ -717,7 +717,7 @@
                 "open_issues": 7,
                 "owner": "fuxiAIlab",
                 "repo": "RL4RS",
-                "stars": 239,
+                "stars": 240,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:50.331Z"
@@ -1138,7 +1138,7 @@
             "open_issues": 359,
             "owner": "google-deepmind",
             "repo": "deepmind-research",
-            "stars": 15217,
+            "stars": 15219,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:50.331Z"
@@ -1159,7 +1159,7 @@
             "open_issues": 27,
             "owner": "Farama-Foundation",
             "repo": "Minari",
-            "stars": 1770,
+            "stars": 1771,
             "topics": [
               "datasets",
               "gymnasium",
@@ -1203,7 +1203,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2025-09-10T23:06:16Z",
-            "open_issues": 59,
+            "open_issues": 60,
             "owner": "takuseno",
             "repo": "d3rlpy",
             "stars": 1683,
@@ -1327,7 +1327,7 @@
             "open_issues": 7,
             "owner": "fuxiAIlab",
             "repo": "RL4RS",
-            "stars": 239,
+            "stars": 240,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:50.331Z"
@@ -1603,7 +1603,7 @@
             "open_issues": 0,
             "owner": "rr-learning",
             "repo": "trifinger_rl_datasets",
-            "stars": 17,
+            "stars": 18,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:50.331Z"
@@ -1655,7 +1655,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T13:57:36.897Z",
+    "last_updated": "2026-10-08T14:03:15.952Z",
     "original_repository_info": {
       "archived": false,
       "description": "An index of algorithms for offline reinforcement learning (offline-rl)",
@@ -1667,7 +1667,7 @@
       "open_issues": 1,
       "owner": "hanjuku-kaso",
       "repo": "awesome-offline-rl",
-      "stars": 1079,
+      "stars": 1080,
       "topics": [
         "awesome",
         "awesome-list",

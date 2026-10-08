@@ -1320,11 +1320,11 @@ For any questions, feel free to contact: <hk844@cornell.edu>
 
 ### Offline RL: Benchmarks/Experiments
 
-* [RL Unplugged: Benchmarks for Offline Reinforcement Learning](https://arxiv.org/abs/2006.13888) \[[code](https://github.com/deepmind/deepmind-research/tree/master/rl_unplugged) ⭐ 15,217 | 🐛 359 | 🌐 Jupyter Notebook | 📅 2026-06-17] \[[dataset](https://console.cloud.google.com/storage/browser/rl_unplugged?pli=1)]
+* [RL Unplugged: Benchmarks for Offline Reinforcement Learning](https://arxiv.org/abs/2006.13888) \[[code](https://github.com/deepmind/deepmind-research/tree/master/rl_unplugged) ⭐ 15,219 | 🐛 359 | 🌐 Jupyter Notebook | 📅 2026-06-17] \[[dataset](https://console.cloud.google.com/storage/browser/rl_unplugged?pli=1)]
   * Caglar Gulcehre, Ziyu Wang, Alexander Novikov, Tom Le Paine, Sergio Gomez Colmenarejo, Konrad Zolna, Rishabh Agarwal, Josh Merel, Daniel Mankowitz, Cosmin Paduraru, Gabriel Dulac-Arnold, Jerry Li, Mohammad Norouzi, Matt Hoffman, Ofir Nachum, George Tucker, Nicolas Heess, and Nando de Freitas. NeurIPS, 2020.
 * [D4RL: Datasets for Deep Data-Driven Reinforcement Learning](https://arxiv.org/abs/2004.07219) \[[website](https://sites.google.com/view/d4rl/home)] \[[blog](https://bair.berkeley.edu/blog/2020/06/25/D4RL/)] \[[code](https://github.com/rail-berkeley/d4rl) ⭐ 1,708 | 🐛 107 | 🌐 Python | 📅 2024-11-18]
   * Justin Fu, Aviral Kumar, Ofir Nachum, George Tucker, and Sergey Levine. arXiv, 2020.
-* [d3rlpy: An Offline Deep Reinforcement Learning Library](https://arxiv.org/abs/2111.03788) \[[software](https://github.com/takuseno/d3rlpy) ⭐ 1,683 | 🐛 59 | 🌐 Python | 📅 2025-09-10]
+* [d3rlpy: An Offline Deep Reinforcement Learning Library](https://arxiv.org/abs/2111.03788) \[[software](https://github.com/takuseno/d3rlpy) ⭐ 1,683 | 🐛 60 | 🌐 Python | 📅 2025-09-10]
   * Takuma Seno and Michita Imai. JMLR, 2022.
 * [CORL: Research-oriented Deep Offline Reinforcement Learning Library](https://arxiv.org/abs/2210.07105) \[[code](https://github.com/corl-team/CORL) ⭐ 662 | 🐛 5 | 🌐 Python | 📅 2024-02-10]
   * Denis Tarasov, Alexander Nikulin, Dmitry Akimov, Vladislav Kurenkov, and Sergey Kolesnikov. NeurIPS, 2023.
@@ -1334,7 +1334,7 @@ For any questions, feel free to contact: <hk844@cornell.edu>
   * Denis Yarats, David Brandfonbrener, Hao Liu, Michael Laskin, Pieter Abbeel, Alessandro Lazaric, and Lerrel Pinto. arXiv, 2022.
 * [Understanding the Effects of Dataset Characteristics on Offline Reinforcement Learning](https://arxiv.org/abs/2111.04714) \[[code](https://github.com/ml-jku/OfflineRL) ⭐ 31 | 🐛 1 | 🌐 Python | 📅 2023-01-16]
   * Kajetan Schweighofer, Markus Hofmarcher, Marius-Constantin Dinu, Philipp Renz, Angela Bitto-Nemling, Vihang Patil, and Sepp Hochreiter. arXiv, 2021.
-* [Benchmarking Offline Reinforcement Learning on Real-Robot Hardware](https://arxiv.org/abs/2307.15690) \[[dataset](https://github.com/rr-learning/trifinger_rl_datasets) ⭐ 17 | 🐛 0 | 🌐 Python | 📅 2024-01-17]
+* [Benchmarking Offline Reinforcement Learning on Real-Robot Hardware](https://arxiv.org/abs/2307.15690) \[[dataset](https://github.com/rr-learning/trifinger_rl_datasets) ⭐ 18 | 🐛 0 | 🌐 Python | 📅 2024-01-17]
   * Nico Gürtler, Sebastian Blaes, Pavel Kolev, Felix Widmaier, Manuel Wuthrich, Stefan Bauer, Bernhard Schölkopf, and Georg Martius. ICLR, 2023.
 * [Offline Equilibrium Finding](https://arxiv.org/abs/2207.05285) \[[code](https://github.com/SecurityGames/oef) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2022-07-27]
   * Shuxin Li, Xinrun Wang, Jakub Cerny, Youzhi Zhang, Hau Chan, and Bo An. arXiv, 2022.
@@ -1399,7 +1399,7 @@ For any questions, feel free to contact: <hk844@cornell.edu>
 
 ### Offline RL: Applications
 
-* [RL4RS: A Real-World Benchmark for Reinforcement Learning based Recommender System](https://arxiv.org/abs/2110.11073) \[[code](https://github.com/fuxiAIlab/RL4RS) ⭐ 239 | 🐛 7 | 🌐 Python | 📅 2024-02-03] \[[dataset](https://drive.google.com/file/d/1YbPtPyYrMvMGOuqD4oHvK0epDtEhEb9v/view)]
+* [RL4RS: A Real-World Benchmark for Reinforcement Learning based Recommender System](https://arxiv.org/abs/2110.11073) \[[code](https://github.com/fuxiAIlab/RL4RS) ⭐ 240 | 🐛 7 | 🌐 Python | 📅 2024-02-03] \[[dataset](https://drive.google.com/file/d/1YbPtPyYrMvMGOuqD4oHvK0epDtEhEb9v/view)]
   * Kai Wang, Zhene Zou, Yue Shang, Qilin Deng, Minghao Zhao, Yile Liang, Runze Wu, Jianrong Tao, Xudong Shen, Tangjie Lyu, and Changjie Fan. arXiv, 2021.
 * [CIRS: Bursting Filter Bubbles by Counterfactual Interactive Recommender System](https://arxiv.org/abs/2204.01266) \[[code](https://github.com/chongminggao/CIRS-codes) ⭐ 78 | 🐛 2 | 🌐 Python | 📅 2024-01-02]
   * Chongming Gao, Wenqiang Lei, Jiawei Chen, Shiqi Wang, Xiangnan He, Shijun Li, Biao Li, Yuan Zhang, and Peng Jiang. arXiv, 2022.
@@ -2201,13 +2201,13 @@ For any questions, feel free to contact: <hk844@cornell.edu>
 
 ## Open Source Software/Implementations
 
-* [RL Unplugged: Benchmarks for Offline Reinforcement Learning](https://github.com/deepmind/deepmind-research/tree/master/rl_unplugged) ⭐ 15,217 | 🐛 359 | 🌐 Jupyter Notebook | 📅 2026-06-17 \[[paper](https://arxiv.org/abs/2006.13888)] \[[dataset](https://console.cloud.google.com/storage/browser/rl_unplugged?pli=1)]
+* [RL Unplugged: Benchmarks for Offline Reinforcement Learning](https://github.com/deepmind/deepmind-research/tree/master/rl_unplugged) ⭐ 15,219 | 🐛 359 | 🌐 Jupyter Notebook | 📅 2026-06-17 \[[paper](https://arxiv.org/abs/2006.13888)] \[[dataset](https://console.cloud.google.com/storage/browser/rl_unplugged?pli=1)]
   * Caglar Gulcehre, Ziyu Wang, Alexander Novikov, Tom Le Paine, Sergio Gomez Colmenarejo, Konrad Zolna, Rishabh Agarwal, Josh Merel, Daniel Mankowitz, Cosmin Paduraru, Gabriel Dulac-Arnold, Jerry Li, Mohammad Norouzi, Matt Hoffman, Ofir Nachum, George Tucker, Nicolas Heess, and Nando de Freitas.
-* [Minari](https://github.com/Farama-Foundation/Minari) ⭐ 1,770 | 🐛 27 | 🌐 Python | 📅 2026-10-05
+* [Minari](https://github.com/Farama-Foundation/Minari) ⭐ 1,771 | 🐛 27 | 🌐 Python | 📅 2026-10-05
   * Farama Foundation.
 * [D4RL: Datasets for Deep Data-Driven Reinforcement Learning](https://github.com/rail-berkeley/d4rl) ⭐ 1,708 | 🐛 107 | 🌐 Python | 📅 2024-11-18 \[[paper](https://arxiv.org/abs/2004.07219)] \[[website](https://sites.google.com/view/d4rl/home)]
   * Justin Fu, Aviral Kumar, Ofir Nachum, George Tucker, and Sergey Levine.
-* [d3rlpy: An Offline Deep Reinforcement Learning Library](https://github.com/takuseno/d3rlpy) ⭐ 1,683 | 🐛 59 | 🌐 Python | 📅 2025-09-10 \[[paper](https://arxiv.org/abs/2111.03788)] \[[website](https://takuseno.github.io/d3rlpy/)] \[[documentation](https://d3rlpy.readthedocs.io/)]
+* [d3rlpy: An Offline Deep Reinforcement Learning Library](https://github.com/takuseno/d3rlpy) ⭐ 1,683 | 🐛 60 | 🌐 Python | 📅 2025-09-10 \[[paper](https://arxiv.org/abs/2111.03788)] \[[website](https://takuseno.github.io/d3rlpy/)] \[[documentation](https://d3rlpy.readthedocs.io/)]
   * Takuma Seno and Michita Imai.
 * [Open Bandit Pipeline: a research framework for bandit algorithms and off-policy evaluation](https://github.com/st-tech/zr-obp) ⭐ 712 | 🐛 33 | 🌐 Python | 📅 2024-06-03 \[[paper](https://arxiv.org/abs/2008.07146)] \[[documentation](https://zr-obp.readthedocs.io/en/latest/index.html)] \[[dataset](https://research.zozo.com/data.html)]
   * Yuta Saito, Shunsuke Aihara, Megumi Matsutani, and Yusuke Narita.
@@ -2217,7 +2217,7 @@ For any questions, feel free to contact: <hk844@cornell.edu>
   * Sabela Ramos, Sertan Girgin, Léonard Hussenot, Damien Vincent, Hanna Yakubovich, Daniel Toyama, Anita Gergely, Piotr Stanczyk, Raphael Marinier, Jeremiah Harmsen, Olivier Pietquin, and Nikola Momchev.
 * [RecoGym: A Reinforcement Learning Environment for the problem of Product Recommendation in Online Advertising](https://github.com/criteo-research/reco-gym) ⭐ 482 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2021-07-09 \[[paper](https://arxiv.org/abs/1808.00720)]
   * David Rohde, Stephen Bonner, Travis Dunlop, Flavian Vasile, and Alexandros Karatzoglou.
-* [RL4RS: A Real-World Benchmark for Reinforcement Learning based Recommender System](https://github.com/fuxiAIlab/RL4RS) ⭐ 239 | 🐛 7 | 🌐 Python | 📅 2024-02-03 \[[paper](https://arxiv.org/abs/2110.11073)] [dataset](https://drive.google.com/file/d/1YbPtPyYrMvMGOuqD4oHvK0epDtEhEb9v/view)]
+* [RL4RS: A Real-World Benchmark for Reinforcement Learning based Recommender System](https://github.com/fuxiAIlab/RL4RS) ⭐ 240 | 🐛 7 | 🌐 Python | 📅 2024-02-03 \[[paper](https://arxiv.org/abs/2110.11073)] [dataset](https://drive.google.com/file/d/1YbPtPyYrMvMGOuqD4oHvK0epDtEhEb9v/view)]
   * Kai Wang, Zhene Zou, Yue Shang, Qilin Deng, Minghao Zhao, Yile Liang, Runze Wu, Jianrong Tao, Xudong Shen, Tangjie Lyu, and Changjie Fan.
 * [The Industrial Benchmark Offline RL Datasets](https://github.com/siemens/industrialbenchmark/tree/offline_datasets/datasets) ⭐ 150 | 🐛 9 | 🌐 Java | 📅 2026-03-05 \[[paper](https://arxiv.org/abs/2008.05533)]
   * Phillip Swazinna, Steffen Udluft, and Thomas Runkler.
@@ -2241,7 +2241,7 @@ For any questions, feel free to contact: <hk844@cornell.edu>
   * Yuta Saito, Takuma Udagawa, Haruka Kiyohara, Kazuki Mogi, Yusuke Narita, and Kei Tateno.
 * [A Reinforcement Learning-based Volt-VAR Control Dataset](https://github.com/yg-smile/RL_VVC_dataset) ⭐ 26 | 🐛 4 | 🌐 Python | 📅 2022-04-21 \[[paper](https://arxiv.org/abs/2204.09500)]
   * Yuanqi Gao and Nanpeng Yu.
-* [Benchmarking Offline Reinforcement Learning on Real-Robot Hardware](https://github.com/rr-learning/trifinger_rl_datasets) ⭐ 17 | 🐛 0 | 🌐 Python | 📅 2024-01-17 \[[paper](https://arxiv.org/abs/2307.15690)]
+* [Benchmarking Offline Reinforcement Learning on Real-Robot Hardware](https://github.com/rr-learning/trifinger_rl_datasets) ⭐ 18 | 🐛 0 | 🌐 Python | 📅 2024-01-17 \[[paper](https://arxiv.org/abs/2307.15690)]
   * Nico Gürtler, Sebastian Blaes, Pavel Kolev, Felix Widmaier, Manuel Wuthrich, Stefan Bauer, Bernhard Schölkopf, and Georg Martius. ICLR, 2023.
 * [ARLO: A Framework for Automated Reinforcement Learning](https://github.com/arlo-lib/ARLO) ⭐ 12 | 🐛 1 | 🌐 Python | 📅 2022-06-15 \[[paper](https://arxiv.org/abs/2205.10416)]
   * Marco Mussi, Davide Lombarda, Alberto Maria Metelli, Francesco Trovò, and Marcello Restelli.
@@ -2395,4 +2395,4 @@ For any questions, feel free to contact: <hk844@cornell.edu>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
