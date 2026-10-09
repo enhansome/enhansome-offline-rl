@@ -21,7 +21,7 @@
                 "open_issues": 40,
                 "owner": "rail-berkeley",
                 "repo": "rlkit",
-                "stars": 2939,
+                "stars": 2941,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:50.331Z"
@@ -42,7 +42,7 @@
                 "open_issues": 21,
                 "owner": "aviralkumar2907",
                 "repo": "CQL",
-                "stars": 492,
+                "stars": 493,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:50.331Z"
@@ -503,7 +503,7 @@
                 "open_issues": 359,
                 "owner": "google-deepmind",
                 "repo": "deepmind-research",
-                "stars": 15219,
+                "stars": 15226,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:50.331Z"
@@ -524,7 +524,7 @@
                 "open_issues": 107,
                 "owner": "Farama-Foundation",
                 "repo": "D4RL",
-                "stars": 1708,
+                "stars": 1709,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:50.331Z"
@@ -545,7 +545,7 @@
                 "open_issues": 60,
                 "owner": "takuseno",
                 "repo": "d3rlpy",
-                "stars": 1683,
+                "stars": 1685,
                 "topics": [
                   "deep-learning",
                   "deep-reinforcement-learning",
@@ -1037,7 +1037,7 @@
                 "open_issues": 33,
                 "owner": "st-tech",
                 "repo": "zr-obp",
-                "stars": 712,
+                "stars": 713,
                 "topics": [
                   "contextual-bandits",
                   "datasets",
@@ -1138,7 +1138,7 @@
             "open_issues": 359,
             "owner": "google-deepmind",
             "repo": "deepmind-research",
-            "stars": 15219,
+            "stars": 15226,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:50.331Z"
@@ -1156,7 +1156,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-05T01:17:17Z",
-            "open_issues": 27,
+            "open_issues": 28,
             "owner": "Farama-Foundation",
             "repo": "Minari",
             "stars": 1771,
@@ -1185,7 +1185,7 @@
             "open_issues": 107,
             "owner": "Farama-Foundation",
             "repo": "D4RL",
-            "stars": 1708,
+            "stars": 1709,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:50.331Z"
@@ -1206,7 +1206,7 @@
             "open_issues": 60,
             "owner": "takuseno",
             "repo": "d3rlpy",
-            "stars": 1683,
+            "stars": 1685,
             "topics": [
               "deep-learning",
               "deep-reinforcement-learning",
@@ -1232,7 +1232,7 @@
             "open_issues": 33,
             "owner": "st-tech",
             "repo": "zr-obp",
-            "stars": 712,
+            "stars": 713,
             "topics": [
               "contextual-bandits",
               "datasets",
@@ -1655,7 +1655,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T14:03:15.952Z",
+    "last_updated": "2026-10-09T13:48:19.852Z",
     "original_repository_info": {
       "archived": false,
       "description": "An index of algorithms for offline reinforcement learning (offline-rl)",
@@ -1667,7 +1667,7 @@
       "open_issues": 1,
       "owner": "hanjuku-kaso",
       "repo": "awesome-offline-rl",
-      "stars": 1080,
+      "stars": 1081,
       "topics": [
         "awesome",
         "awesome-list",
