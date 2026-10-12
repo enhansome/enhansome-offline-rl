@@ -503,7 +503,7 @@
                 "open_issues": 359,
                 "owner": "google-deepmind",
                 "repo": "deepmind-research",
-                "stars": 15229,
+                "stars": 15231,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:50.331Z"
@@ -571,7 +571,7 @@
                 "open_issues": 5,
                 "owner": "corl-team",
                 "repo": "CORL",
-                "stars": 662,
+                "stars": 661,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:50.331Z"
@@ -1138,7 +1138,7 @@
             "open_issues": 359,
             "owner": "google-deepmind",
             "repo": "deepmind-research",
-            "stars": 15229,
+            "stars": 15231,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:50.331Z"
@@ -1159,7 +1159,7 @@
             "open_issues": 32,
             "owner": "Farama-Foundation",
             "repo": "Minari",
-            "stars": 1770,
+            "stars": 1771,
             "topics": [
               "datasets",
               "gymnasium",
@@ -1259,7 +1259,7 @@
             "open_issues": 5,
             "owner": "corl-team",
             "repo": "CORL",
-            "stars": 662,
+            "stars": 661,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:50.331Z"
@@ -1655,7 +1655,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T13:33:09.432Z",
+    "last_updated": "2026-10-12T16:09:03.776Z",
     "original_repository_info": {
       "archived": false,
       "description": "An index of algorithms for offline reinforcement learning (offline-rl)",
