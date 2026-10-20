@@ -21,7 +21,7 @@
                 "open_issues": 40,
                 "owner": "rail-berkeley",
                 "repo": "rlkit",
-                "stars": 2943,
+                "stars": 2945,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:50.331Z"
@@ -126,7 +126,7 @@
                 "open_issues": 9,
                 "owner": "siemens",
                 "repo": "industrialbenchmark",
-                "stars": 150,
+                "stars": 151,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:50.331Z"
@@ -503,7 +503,7 @@
                 "open_issues": 358,
                 "owner": "google-deepmind",
                 "repo": "deepmind-research",
-                "stars": 15240,
+                "stars": 15242,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:50.331Z"
@@ -571,7 +571,7 @@
                 "open_issues": 5,
                 "owner": "corl-team",
                 "repo": "CORL",
-                "stars": 662,
+                "stars": 663,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:50.331Z"
@@ -1138,7 +1138,7 @@
             "open_issues": 358,
             "owner": "google-deepmind",
             "repo": "deepmind-research",
-            "stars": 15240,
+            "stars": 15242,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:50.331Z"
@@ -1156,7 +1156,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-14T20:22:43Z",
-            "open_issues": 34,
+            "open_issues": 36,
             "owner": "Farama-Foundation",
             "repo": "Minari",
             "stars": 1771,
@@ -1259,7 +1259,7 @@
             "open_issues": 5,
             "owner": "corl-team",
             "repo": "CORL",
-            "stars": 662,
+            "stars": 663,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:50.331Z"
@@ -1348,7 +1348,7 @@
             "open_issues": 9,
             "owner": "siemens",
             "repo": "industrialbenchmark",
-            "stars": 150,
+            "stars": 151,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:50.331Z"
@@ -1655,7 +1655,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T13:58:46.789Z",
+    "last_updated": "2026-10-20T12:14:31.045Z",
     "original_repository_info": {
       "archived": false,
       "description": "An index of algorithms for offline reinforcement learning (offline-rl)",
