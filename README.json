@@ -21,7 +21,7 @@
                 "open_issues": 40,
                 "owner": "rail-berkeley",
                 "repo": "rlkit",
-                "stars": 2945,
+                "stars": 2946,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:50.331Z"
@@ -42,7 +42,7 @@
                 "open_issues": 21,
                 "owner": "aviralkumar2907",
                 "repo": "CQL",
-                "stars": 494,
+                "stars": 493,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:50.331Z"
@@ -63,7 +63,7 @@
                 "open_issues": 10,
                 "owner": "tianheyu927",
                 "repo": "mopo",
-                "stars": 191,
+                "stars": 190,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:50.331Z"
@@ -234,7 +234,7 @@
                 "open_issues": 1,
                 "owner": "Wenxuan-Zhou",
                 "repo": "PLAS",
-                "stars": 54,
+                "stars": 53,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:50.331Z"
@@ -503,7 +503,7 @@
                 "open_issues": 358,
                 "owner": "google-deepmind",
                 "repo": "deepmind-research",
-                "stars": 15242,
+                "stars": 15244,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:50.331Z"
@@ -524,7 +524,7 @@
                 "open_issues": 107,
                 "owner": "Farama-Foundation",
                 "repo": "D4RL",
-                "stars": 1710,
+                "stars": 1709,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:50.331Z"
@@ -545,7 +545,7 @@
                 "open_issues": 60,
                 "owner": "takuseno",
                 "repo": "d3rlpy",
-                "stars": 1686,
+                "stars": 1685,
                 "topics": [
                   "deep-learning",
                   "deep-reinforcement-learning",
@@ -592,7 +592,7 @@
                 "open_issues": 7,
                 "owner": "google-research",
                 "repo": "rlds",
-                "stars": 493,
+                "stars": 492,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:50.331Z"
@@ -1138,7 +1138,7 @@
             "open_issues": 358,
             "owner": "google-deepmind",
             "repo": "deepmind-research",
-            "stars": 15242,
+            "stars": 15244,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:50.331Z"
@@ -1185,7 +1185,7 @@
             "open_issues": 107,
             "owner": "Farama-Foundation",
             "repo": "D4RL",
-            "stars": 1710,
+            "stars": 1709,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:50.331Z"
@@ -1206,7 +1206,7 @@
             "open_issues": 60,
             "owner": "takuseno",
             "repo": "d3rlpy",
-            "stars": 1686,
+            "stars": 1685,
             "topics": [
               "deep-learning",
               "deep-reinforcement-learning",
@@ -1280,7 +1280,7 @@
             "open_issues": 7,
             "owner": "google-research",
             "repo": "rlds",
-            "stars": 493,
+            "stars": 492,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:50.331Z"
@@ -1655,7 +1655,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T12:14:31.045Z",
+    "last_updated": "2026-10-21T12:27:02.695Z",
     "original_repository_info": {
       "archived": false,
       "description": "An index of algorithms for offline reinforcement learning (offline-rl)",
@@ -1667,7 +1667,7 @@
       "open_issues": 1,
       "owner": "hanjuku-kaso",
       "repo": "awesome-offline-rl",
-      "stars": 1082,
+      "stars": 1081,
       "topics": [
         "awesome",
         "awesome-list",
