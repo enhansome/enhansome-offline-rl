@@ -503,7 +503,7 @@
                 "open_issues": 358,
                 "owner": "google-deepmind",
                 "repo": "deepmind-research",
-                "stars": 15245,
+                "stars": 15247,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:50.331Z"
@@ -738,7 +738,7 @@
                 "open_issues": 2,
                 "owner": "chongminggao",
                 "repo": "CIRS-codes",
-                "stars": 79,
+                "stars": 80,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:50.331Z"
@@ -1138,7 +1138,7 @@
             "open_issues": 358,
             "owner": "google-deepmind",
             "repo": "deepmind-research",
-            "stars": 15245,
+            "stars": 15247,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:50.331Z"
@@ -1159,7 +1159,7 @@
             "open_issues": 37,
             "owner": "Farama-Foundation",
             "repo": "Minari",
-            "stars": 1770,
+            "stars": 1769,
             "topics": [
               "datasets",
               "gymnasium",
@@ -1655,7 +1655,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T12:08:52.182Z",
+    "last_updated": "2026-10-24T11:39:26.306Z",
     "original_repository_info": {
       "archived": false,
       "description": "An index of algorithms for offline reinforcement learning (offline-rl)",
@@ -1667,7 +1667,7 @@
       "open_issues": 1,
       "owner": "hanjuku-kaso",
       "repo": "awesome-offline-rl",
-      "stars": 1081,
+      "stars": 1082,
       "topics": [
         "awesome",
         "awesome-list",
