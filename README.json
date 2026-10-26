@@ -1655,7 +1655,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T12:01:29.717Z",
+    "last_updated": "2026-10-26T13:35:51.148Z",
     "original_repository_info": {
       "archived": false,
       "description": "An index of algorithms for offline reinforcement learning (offline-rl)",
@@ -1667,7 +1667,7 @@
       "open_issues": 1,
       "owner": "hanjuku-kaso",
       "repo": "awesome-offline-rl",
-      "stars": 1081,
+      "stars": 1082,
       "topics": [
         "awesome",
         "awesome-list",
