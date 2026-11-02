@@ -63,7 +63,7 @@
                 "open_issues": 10,
                 "owner": "tianheyu927",
                 "repo": "mopo",
-                "stars": 190,
+                "stars": 191,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:50.331Z"
@@ -503,7 +503,7 @@
                 "open_issues": 358,
                 "owner": "google-deepmind",
                 "repo": "deepmind-research",
-                "stars": 15262,
+                "stars": 15267,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:50.331Z"
@@ -592,7 +592,7 @@
                 "open_issues": 7,
                 "owner": "google-research",
                 "repo": "rlds",
-                "stars": 492,
+                "stars": 493,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:50.331Z"
@@ -1138,7 +1138,7 @@
             "open_issues": 358,
             "owner": "google-deepmind",
             "repo": "deepmind-research",
-            "stars": 15262,
+            "stars": 15267,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:50.331Z"
@@ -1280,7 +1280,7 @@
             "open_issues": 7,
             "owner": "google-research",
             "repo": "rlds",
-            "stars": 492,
+            "stars": 493,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:50.331Z"
@@ -1655,7 +1655,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T13:47:59.303Z",
+    "last_updated": "2026-11-02T16:34:10.287Z",
     "original_repository_info": {
       "archived": false,
       "description": "An index of algorithms for offline reinforcement learning (offline-rl)",
@@ -1667,7 +1667,7 @@
       "open_issues": 1,
       "owner": "hanjuku-kaso",
       "repo": "awesome-offline-rl",
-      "stars": 1082,
+      "stars": 1083,
       "topics": [
         "awesome",
         "awesome-list",
