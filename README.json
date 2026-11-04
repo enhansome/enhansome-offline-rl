@@ -503,7 +503,7 @@
                 "open_issues": 358,
                 "owner": "google-deepmind",
                 "repo": "deepmind-research",
-                "stars": 15269,
+                "stars": 15268,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:50.331Z"
@@ -1037,7 +1037,7 @@
                 "open_issues": 34,
                 "owner": "st-tech",
                 "repo": "zr-obp",
-                "stars": 714,
+                "stars": 715,
                 "topics": [
                   "contextual-bandits",
                   "datasets",
@@ -1138,7 +1138,7 @@
             "open_issues": 358,
             "owner": "google-deepmind",
             "repo": "deepmind-research",
-            "stars": 15269,
+            "stars": 15268,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:50.331Z"
@@ -1232,7 +1232,7 @@
             "open_issues": 34,
             "owner": "st-tech",
             "repo": "zr-obp",
-            "stars": 714,
+            "stars": 715,
             "topics": [
               "contextual-bandits",
               "datasets",
@@ -1369,7 +1369,7 @@
             "open_issues": 9,
             "owner": "hakuhodo-technologies",
             "repo": "scope-rl",
-            "stars": 143,
+            "stars": 144,
             "topics": [
               "off-policy-evaluation",
               "offline-rl",
@@ -1655,7 +1655,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T14:40:18.730Z",
+    "last_updated": "2026-11-04T14:53:04.660Z",
     "original_repository_info": {
       "archived": false,
       "description": "An index of algorithms for offline reinforcement learning (offline-rl)",
