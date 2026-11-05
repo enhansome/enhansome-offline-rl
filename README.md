@@ -85,9 +85,9 @@ For any questions, feel free to contact: <hk844@cornell.edu>
 
 ### Offline RL: Theory/Methods
 
-* [AWAC: Accelerating Online Reinforcement Learning with Offline Datasets](https://arxiv.org/abs/2006.09359) \[[website](https://awacrl.github.io/)] \[[code](https://github.com/vitchyr/rlkit/tree/master/examples/awac) ⭐ 2,949 | 🐛 40 | 🌐 Python | 📅 2024-06-17] \[[blog](https://bair.berkeley.edu/blog/2020/09/10/awac/)]
+* [AWAC: Accelerating Online Reinforcement Learning with Offline Datasets](https://arxiv.org/abs/2006.09359) \[[website](https://awacrl.github.io/)] \[[code](https://github.com/vitchyr/rlkit/tree/master/examples/awac) ⭐ 2,950 | 🐛 40 | 🌐 Python | 📅 2024-06-17] \[[blog](https://bair.berkeley.edu/blog/2020/09/10/awac/)]
   * Ashvin Nair, Abhishek Gupta, Murtaza Dalal, and Sergey Levine. arXiv, 2020.
-* [Conservative Q-Learning for Offline Reinforcement Learning](https://papers.nips.cc/paper/2020/hash/0d2b2061826a5df3221116a5085a6052-Abstract.html) \[[website](https://sites.google.com/view/cql-offline-rl)] \[[code](https://github.com/aviralkumar2907/CQL) ⭐ 494 | 🐛 19 | 🌐 Python | 📅 2021-12-07] \[[blog](https://bair.berkeley.edu/blog/2020/12/07/offline/)]
+* [Conservative Q-Learning for Offline Reinforcement Learning](https://papers.nips.cc/paper/2020/hash/0d2b2061826a5df3221116a5085a6052-Abstract.html) \[[website](https://sites.google.com/view/cql-offline-rl)] \[[code](https://github.com/aviralkumar2907/CQL) ⭐ 495 | 🐛 19 | 🌐 Python | 📅 2021-12-07] \[[blog](https://bair.berkeley.edu/blog/2020/12/07/offline/)]
   * Aviral Kumar, Aurick Zhou, George Tucker, and Sergey Levine. NeurIPS, 2020.
 * [MOPO: Model-based Offline Policy Optimization](https://papers.nips.cc/paper/2020/hash/a322852ce0df73e204b7e67cbbef0d0a-Abstract.html) \[[code](https://github.com/tianheyu927/mopo) ⭐ 191 | 🐛 10 | 🌐 Python | 📅 2022-05-17]
   * Tianhe Yu, Garrett Thomas, Lantao Yu, Stefano Ermon, James Y. Zou, Sergey Levine, Chelsea Finn, and Tengyu Ma. NeurIPS, 2020.
@@ -1326,7 +1326,7 @@ For any questions, feel free to contact: <hk844@cornell.edu>
   * Justin Fu, Aviral Kumar, Ofir Nachum, George Tucker, and Sergey Levine. arXiv, 2020.
 * [d3rlpy: An Offline Deep Reinforcement Learning Library](https://arxiv.org/abs/2111.03788) \[[software](https://github.com/takuseno/d3rlpy) ⭐ 1,688 | 🐛 61 | 🌐 Python | 📅 2025-09-10]
   * Takuma Seno and Michita Imai. JMLR, 2022.
-* [CORL: Research-oriented Deep Offline Reinforcement Learning Library](https://arxiv.org/abs/2210.07105) \[[code](https://github.com/corl-team/CORL) ⭐ 663 | 🐛 5 | 🌐 Python | 📅 2024-02-10]
+* [CORL: Research-oriented Deep Offline Reinforcement Learning Library](https://arxiv.org/abs/2210.07105) \[[code](https://github.com/corl-team/CORL) ⭐ 664 | 🐛 5 | 🌐 Python | 📅 2024-02-10]
   * Denis Tarasov, Alexander Nikulin, Dmitry Akimov, Vladislav Kurenkov, and Sergey Kolesnikov. NeurIPS, 2023.
 * [RLDS: an Ecosystem to Generate, Share and Use Datasets in Reinforcement Learning](https://arxiv.org/abs/2111.02767) \[[code](https://github.com/google-research/rlds) ⚠️ Archived]
   * Sabela Ramos, Sertan Girgin, Léonard Hussenot, Damien Vincent, Hanna Yakubovich, Daniel Toyama, Anita Gergely, Piotr Stanczyk, Raphael Marinier, Jeremiah Harmsen, Olivier Pietquin, and Nikola Momchev. NeurIPS, 2021.
@@ -1401,7 +1401,7 @@ For any questions, feel free to contact: <hk844@cornell.edu>
 
 * [RL4RS: A Real-World Benchmark for Reinforcement Learning based Recommender System](https://arxiv.org/abs/2110.11073) \[[code](https://github.com/fuxiAIlab/RL4RS) ⭐ 240 | 🐛 7 | 🌐 Python | 📅 2024-02-03] \[[dataset](https://drive.google.com/file/d/1YbPtPyYrMvMGOuqD4oHvK0epDtEhEb9v/view)]
   * Kai Wang, Zhene Zou, Yue Shang, Qilin Deng, Minghao Zhao, Yile Liang, Runze Wu, Jianrong Tao, Xudong Shen, Tangjie Lyu, and Changjie Fan. arXiv, 2021.
-* [CIRS: Bursting Filter Bubbles by Counterfactual Interactive Recommender System](https://arxiv.org/abs/2204.01266) \[[code](https://github.com/chongminggao/CIRS-codes) ⭐ 80 | 🐛 2 | 🌐 Python | 📅 2024-01-02]
+* [CIRS: Bursting Filter Bubbles by Counterfactual Interactive Recommender System](https://arxiv.org/abs/2204.01266) \[[code](https://github.com/chongminggao/CIRS-codes) ⭐ 79 | 🐛 2 | 🌐 Python | 📅 2024-01-02]
   * Chongming Gao, Wenqiang Lei, Jiawei Chen, Shiqi Wang, Xiangnan He, Shijun Li, Biao Li, Yuan Zhang, and Peng Jiang. arXiv, 2022.
 * [Safe Driving via Expert Guided Policy Optimization](https://arxiv.org/abs/2110.06831) \[[website](https://decisionforce.github.io/EGPO/)] \[[code](https://github.com/decisionforce/EGPO) ⭐ 53 | 🐛 2 | 🌐 Python | 📅 2024-04-08]
   * Zhenghao Peng, Quanyi Li, Chunxiao Liu, and Bolei Zhou. CoRL, 2021.
@@ -2211,7 +2211,7 @@ For any questions, feel free to contact: <hk844@cornell.edu>
   * Takuma Seno and Michita Imai.
 * [Open Bandit Pipeline: a research framework for bandit algorithms and off-policy evaluation](https://github.com/st-tech/zr-obp) ⭐ 715 | 🐛 34 | 🌐 Python | 📅 2024-06-03 \[[paper](https://arxiv.org/abs/2008.07146)] \[[documentation](https://zr-obp.readthedocs.io/en/latest/index.html)] \[[dataset](https://research.zozo.com/data.html)]
   * Yuta Saito, Shunsuke Aihara, Megumi Matsutani, and Yusuke Narita.
-* [CORL: Clean Offline Reinforcement Learning](https://github.com/corl-team/CORL) ⭐ 663 | 🐛 5 | 🌐 Python | 📅 2024-02-10 \[[paper](https://arxiv.org/abs/2210.07105)]
+* [CORL: Clean Offline Reinforcement Learning](https://github.com/corl-team/CORL) ⭐ 664 | 🐛 5 | 🌐 Python | 📅 2024-02-10 \[[paper](https://arxiv.org/abs/2210.07105)]
   * Denis Tarasov, Alexander Nikulin, Dmitry Akimov, Vladislav Kurenkov, and Sergey Kolesnikov.
 * [RLDS: Reinforcement Learning Datasets](https://github.com/google-research/rlds) ⚠️ Archived \[[paper](https://arxiv.org/abs/2111.02767)]
   * Sabela Ramos, Sertan Girgin, Léonard Hussenot, Damien Vincent, Hanna Yakubovich, Daniel Toyama, Anita Gergely, Piotr Stanczyk, Raphael Marinier, Jeremiah Harmsen, Olivier Pietquin, and Nikola Momchev.
@@ -2395,4 +2395,4 @@ For any questions, feel free to contact: <hk844@cornell.edu>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._

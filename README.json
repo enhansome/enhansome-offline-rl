@@ -21,7 +21,7 @@
                 "open_issues": 40,
                 "owner": "rail-berkeley",
                 "repo": "rlkit",
-                "stars": 2949,
+                "stars": 2950,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:50.331Z"
@@ -42,7 +42,7 @@
                 "open_issues": 19,
                 "owner": "aviralkumar2907",
                 "repo": "CQL",
-                "stars": 494,
+                "stars": 495,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:50.331Z"
@@ -571,7 +571,7 @@
                 "open_issues": 5,
                 "owner": "corl-team",
                 "repo": "CORL",
-                "stars": 663,
+                "stars": 664,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:50.331Z"
@@ -738,7 +738,7 @@
                 "open_issues": 2,
                 "owner": "chongminggao",
                 "repo": "CIRS-codes",
-                "stars": 80,
+                "stars": 79,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:50.331Z"
@@ -1259,7 +1259,7 @@
             "open_issues": 5,
             "owner": "corl-team",
             "repo": "CORL",
-            "stars": 663,
+            "stars": 664,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:50.331Z"
@@ -1655,7 +1655,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T14:53:04.660Z",
+    "last_updated": "2026-11-05T14:58:14.397Z",
     "original_repository_info": {
       "archived": false,
       "description": "An index of algorithms for offline reinforcement learning (offline-rl)",
