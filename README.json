@@ -503,7 +503,7 @@
                 "open_issues": 358,
                 "owner": "google-deepmind",
                 "repo": "deepmind-research",
-                "stars": 15268,
+                "stars": 15270,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:50.331Z"
@@ -1138,7 +1138,7 @@
             "open_issues": 358,
             "owner": "google-deepmind",
             "repo": "deepmind-research",
-            "stars": 15268,
+            "stars": 15270,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:50.331Z"
@@ -1655,7 +1655,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T14:58:14.397Z",
+    "last_updated": "2026-11-06T14:37:30.999Z",
     "original_repository_info": {
       "archived": false,
       "description": "An index of algorithms for offline reinforcement learning (offline-rl)",
