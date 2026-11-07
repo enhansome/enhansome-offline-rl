@@ -503,7 +503,7 @@
                 "open_issues": 358,
                 "owner": "google-deepmind",
                 "repo": "deepmind-research",
-                "stars": 15270,
+                "stars": 15269,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:50.331Z"
@@ -1037,7 +1037,7 @@
                 "open_issues": 34,
                 "owner": "st-tech",
                 "repo": "zr-obp",
-                "stars": 715,
+                "stars": 717,
                 "topics": [
                   "contextual-bandits",
                   "datasets",
@@ -1138,7 +1138,7 @@
             "open_issues": 358,
             "owner": "google-deepmind",
             "repo": "deepmind-research",
-            "stars": 15270,
+            "stars": 15269,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:50.331Z"
@@ -1159,7 +1159,7 @@
             "open_issues": 40,
             "owner": "Farama-Foundation",
             "repo": "Minari",
-            "stars": 1770,
+            "stars": 1769,
             "topics": [
               "datasets",
               "gymnasium",
@@ -1232,7 +1232,7 @@
             "open_issues": 34,
             "owner": "st-tech",
             "repo": "zr-obp",
-            "stars": 715,
+            "stars": 717,
             "topics": [
               "contextual-bandits",
               "datasets",
@@ -1655,7 +1655,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T14:37:30.999Z",
+    "last_updated": "2026-11-07T13:34:43.552Z",
     "original_repository_info": {
       "archived": false,
       "description": "An index of algorithms for offline reinforcement learning (offline-rl)",
