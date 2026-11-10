@@ -545,7 +545,7 @@
                 "open_issues": 67,
                 "owner": "takuseno",
                 "repo": "d3rlpy",
-                "stars": 1687,
+                "stars": 1686,
                 "topics": [
                   "deep-learning",
                   "deep-reinforcement-learning",
@@ -571,7 +571,7 @@
                 "open_issues": 5,
                 "owner": "corl-team",
                 "repo": "CORL",
-                "stars": 664,
+                "stars": 663,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:50.331Z"
@@ -592,7 +592,7 @@
                 "open_issues": 7,
                 "owner": "google-research",
                 "repo": "rlds",
-                "stars": 493,
+                "stars": 492,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:50.331Z"
@@ -1037,7 +1037,7 @@
                 "open_issues": 34,
                 "owner": "st-tech",
                 "repo": "zr-obp",
-                "stars": 717,
+                "stars": 718,
                 "topics": [
                   "contextual-bandits",
                   "datasets",
@@ -1159,7 +1159,7 @@
             "open_issues": 41,
             "owner": "Farama-Foundation",
             "repo": "Minari",
-            "stars": 1768,
+            "stars": 1767,
             "topics": [
               "datasets",
               "gymnasium",
@@ -1206,7 +1206,7 @@
             "open_issues": 67,
             "owner": "takuseno",
             "repo": "d3rlpy",
-            "stars": 1687,
+            "stars": 1686,
             "topics": [
               "deep-learning",
               "deep-reinforcement-learning",
@@ -1232,7 +1232,7 @@
             "open_issues": 34,
             "owner": "st-tech",
             "repo": "zr-obp",
-            "stars": 717,
+            "stars": 718,
             "topics": [
               "contextual-bandits",
               "datasets",
@@ -1259,7 +1259,7 @@
             "open_issues": 5,
             "owner": "corl-team",
             "repo": "CORL",
-            "stars": 664,
+            "stars": 663,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:50.331Z"
@@ -1280,7 +1280,7 @@
             "open_issues": 7,
             "owner": "google-research",
             "repo": "rlds",
-            "stars": 493,
+            "stars": 492,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:50.331Z"
@@ -1655,7 +1655,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T16:52:31.229Z",
+    "last_updated": "2026-11-10T15:14:54.810Z",
     "original_repository_info": {
       "archived": false,
       "description": "An index of algorithms for offline reinforcement learning (offline-rl)",
