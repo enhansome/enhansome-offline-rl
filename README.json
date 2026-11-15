@@ -545,7 +545,7 @@
                 "open_issues": 67,
                 "owner": "takuseno",
                 "repo": "d3rlpy",
-                "stars": 1686,
+                "stars": 1687,
                 "topics": [
                   "deep-learning",
                   "deep-reinforcement-learning",
@@ -613,7 +613,7 @@
                 "open_issues": 4,
                 "owner": "denisyarats",
                 "repo": "exorl",
-                "stars": 140,
+                "stars": 141,
                 "topics": [
                   "control",
                   "datasets",
@@ -717,7 +717,7 @@
                 "open_issues": 7,
                 "owner": "fuxiAIlab",
                 "repo": "RL4RS",
-                "stars": 240,
+                "stars": 241,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:50.331Z"
@@ -1206,7 +1206,7 @@
             "open_issues": 67,
             "owner": "takuseno",
             "repo": "d3rlpy",
-            "stars": 1686,
+            "stars": 1687,
             "topics": [
               "deep-learning",
               "deep-reinforcement-learning",
@@ -1327,7 +1327,7 @@
             "open_issues": 7,
             "owner": "fuxiAIlab",
             "repo": "RL4RS",
-            "stars": 240,
+            "stars": 241,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:50.331Z"
@@ -1396,7 +1396,7 @@
             "open_issues": 4,
             "owner": "denisyarats",
             "repo": "exorl",
-            "stars": 140,
+            "stars": 141,
             "topics": [
               "control",
               "datasets",
@@ -1655,7 +1655,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T13:48:26.538Z",
+    "last_updated": "2026-11-15T14:19:39.073Z",
     "original_repository_info": {
       "archived": false,
       "description": "An index of algorithms for offline reinforcement learning (offline-rl)",
