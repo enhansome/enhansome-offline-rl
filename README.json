@@ -42,7 +42,7 @@
                 "open_issues": 19,
                 "owner": "aviralkumar2907",
                 "repo": "CQL",
-                "stars": 496,
+                "stars": 497,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:50.331Z"
@@ -503,7 +503,7 @@
                 "open_issues": 360,
                 "owner": "google-deepmind",
                 "repo": "deepmind-research",
-                "stars": 15277,
+                "stars": 15280,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:50.331Z"
@@ -808,7 +808,7 @@
                 "open_issues": 1,
                 "owner": "hemerson1",
                 "repo": "offline-glucose",
-                "stars": 22,
+                "stars": 21,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:50.331Z"
@@ -1037,7 +1037,7 @@
                 "open_issues": 34,
                 "owner": "st-tech",
                 "repo": "zr-obp",
-                "stars": 719,
+                "stars": 720,
                 "topics": [
                   "contextual-bandits",
                   "datasets",
@@ -1138,7 +1138,7 @@
             "open_issues": 360,
             "owner": "google-deepmind",
             "repo": "deepmind-research",
-            "stars": 15277,
+            "stars": 15280,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:50.331Z"
@@ -1232,7 +1232,7 @@
             "open_issues": 34,
             "owner": "st-tech",
             "repo": "zr-obp",
-            "stars": 719,
+            "stars": 720,
             "topics": [
               "contextual-bandits",
               "datasets",
@@ -1301,7 +1301,7 @@
             "open_issues": 11,
             "owner": "criteo-research",
             "repo": "reco-gym",
-            "stars": 483,
+            "stars": 484,
             "topics": [
               "criteo",
               "openai-gym",
@@ -1655,7 +1655,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T16:27:41.058Z",
+    "last_updated": "2026-11-17T16:29:38.703Z",
     "original_repository_info": {
       "archived": false,
       "description": "An index of algorithms for offline reinforcement learning (offline-rl)",
