@@ -42,7 +42,7 @@
                 "open_issues": 19,
                 "owner": "aviralkumar2907",
                 "repo": "CQL",
-                "stars": 497,
+                "stars": 496,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:50.331Z"
@@ -1159,7 +1159,7 @@
             "open_issues": 22,
             "owner": "Farama-Foundation",
             "repo": "Minari",
-            "stars": 1768,
+            "stars": 1751,
             "topics": [
               "datasets",
               "gymnasium",
@@ -1655,7 +1655,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T15:58:36.756Z",
+    "last_updated": "2026-11-19T16:04:46.556Z",
     "original_repository_info": {
       "archived": false,
       "description": "An index of algorithms for offline reinforcement learning (offline-rl)",
