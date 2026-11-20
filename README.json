@@ -42,7 +42,7 @@
                 "open_issues": 19,
                 "owner": "aviralkumar2907",
                 "repo": "CQL",
-                "stars": 496,
+                "stars": 495,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:50.331Z"
@@ -542,10 +542,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-09-10T23:06:16Z",
-                "open_issues": 69,
+                "open_issues": 68,
                 "owner": "takuseno",
                 "repo": "d3rlpy",
-                "stars": 1687,
+                "stars": 1686,
                 "topics": [
                   "deep-learning",
                   "deep-reinforcement-learning",
@@ -1037,7 +1037,7 @@
                 "open_issues": 34,
                 "owner": "st-tech",
                 "repo": "zr-obp",
-                "stars": 721,
+                "stars": 720,
                 "topics": [
                   "contextual-bandits",
                   "datasets",
@@ -1159,7 +1159,7 @@
             "open_issues": 22,
             "owner": "Farama-Foundation",
             "repo": "Minari",
-            "stars": 1751,
+            "stars": 1742,
             "topics": [
               "datasets",
               "gymnasium",
@@ -1203,10 +1203,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2025-09-10T23:06:16Z",
-            "open_issues": 69,
+            "open_issues": 68,
             "owner": "takuseno",
             "repo": "d3rlpy",
-            "stars": 1687,
+            "stars": 1686,
             "topics": [
               "deep-learning",
               "deep-reinforcement-learning",
@@ -1232,7 +1232,7 @@
             "open_issues": 34,
             "owner": "st-tech",
             "repo": "zr-obp",
-            "stars": 721,
+            "stars": 720,
             "topics": [
               "contextual-bandits",
               "datasets",
@@ -1301,7 +1301,7 @@
             "open_issues": 11,
             "owner": "criteo-research",
             "repo": "reco-gym",
-            "stars": 484,
+            "stars": 483,
             "topics": [
               "criteo",
               "openai-gym",
@@ -1655,7 +1655,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T16:04:46.556Z",
+    "last_updated": "2026-11-20T15:46:27.074Z",
     "original_repository_info": {
       "archived": false,
       "description": "An index of algorithms for offline reinforcement learning (offline-rl)",
