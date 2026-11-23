@@ -21,7 +21,7 @@
                 "open_issues": 40,
                 "owner": "rail-berkeley",
                 "repo": "rlkit",
-                "stars": 2954,
+                "stars": 2955,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:50.331Z"
@@ -503,7 +503,7 @@
                 "open_issues": 360,
                 "owner": "google-deepmind",
                 "repo": "deepmind-research",
-                "stars": 15294,
+                "stars": 15295,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:50.331Z"
@@ -1037,7 +1037,7 @@
                 "open_issues": 34,
                 "owner": "st-tech",
                 "repo": "zr-obp",
-                "stars": 720,
+                "stars": 722,
                 "topics": [
                   "contextual-bandits",
                   "datasets",
@@ -1138,7 +1138,7 @@
             "open_issues": 360,
             "owner": "google-deepmind",
             "repo": "deepmind-research",
-            "stars": 15294,
+            "stars": 15295,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:50.331Z"
@@ -1232,7 +1232,7 @@
             "open_issues": 34,
             "owner": "st-tech",
             "repo": "zr-obp",
-            "stars": 720,
+            "stars": 722,
             "topics": [
               "contextual-bandits",
               "datasets",
@@ -1655,7 +1655,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T14:54:54.893Z",
+    "last_updated": "2026-11-23T18:45:43.166Z",
     "original_repository_info": {
       "archived": false,
       "description": "An index of algorithms for offline reinforcement learning (offline-rl)",
